@@ -511,6 +511,10 @@
 - **[Roo Code](https://github.com/RooCodeInc/Roo-Code)** ![GitHub stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=social) - Open-source editor-based coding agent with multiple modes and tool integrations.
 - **[Aider](https://github.com/paul-gauthier/aider)** ![GitHub stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=social) - Terminal-based AI pair programmer.
 
+#### AI Development Methodologies & Workflows
+
+- **[Design Log Methodology](https://github.com/yoavaa/design-log-methodology)** ![GitHub stars](https://img.shields.io/github/stars/yoavaa/design-log-methodology?style=social) - Structured approach to AI-assisted development using version-controlled design logs to maintain architectural context across sessions.
+
 #### IDE Plugins & Extensions
 
 - **[Continue VS Code / JetBrains](https://github.com/continuedev/continue)** ![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=social) - Most installed open-source AI extension.
