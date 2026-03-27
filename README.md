@@ -197,6 +197,7 @@
 - **[Swarm](https://github.com/openai/swarm)** ![GitHub stars](https://img.shields.io/github/stars/openai/swarm?style=social) - Lightweight multi-agent orchestration from OpenAI.
 - **[Swarms](https://github.com/kyegomez/swarms)** ![GitHub stars](https://img.shields.io/github/stars/kyegomez/swarms?style=social) - Bleeding-edge enterprise multi-agent orchestration.
 - **[Llama-Agents](https://github.com/run-llama/llama-agents)** ![GitHub stars](https://img.shields.io/github/stars/run-llama/llama-agents?style=social) - Async-first multi-agent system.
+- **[Orloj](https://github.com/orlojHQ/orloj)** ![GitHub stars](https://img.shields.io/github/stars/orlojHQ/orloj?style=social) - Orchestration runtime for multi-agent AI systems.
 
 #### Autonomous Coding Agents
 
