@@ -486,6 +486,7 @@
 
 #### Local AI Chat UIs & Personal Assistants
 
+* **[Rewind for AI Chats](https://github.com/PME26Elvis/rewind-for-ai-chats)** - ![GitHub stars](https://img.shields.io/github/stars/PME26Elvis/rewind-for-ai-chats) Local-first archive and recap app for revisiting AI conversations across ChatGPT, Grok, Gemini, and Claude.
 - **[OpenClaw](https://github.com/openclaw/openclaw)** ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social) - Local-first personal AI assistant with multi-channel integrations and full agentic task execution.
 - **[Open WebUI](https://github.com/open-webui/open-webui)** ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social) - Most popular self-hosted ChatGPT-style interface.
 - **[text-generation-webui](https://github.com/oobabooga/text-generation-webui)** ![GitHub stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social) - Web UI for running local LLMs with multiple backends, extensions, and model formats.
