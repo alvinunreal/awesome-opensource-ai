@@ -381,6 +381,7 @@
 - **[NVIDIA NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social) - Programmable guardrails toolkit.
 - **[Guardrails AI](https://github.com/guardrails-ai/guardrails)** ![GitHub stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?style=social) - Structure and validation for LLM outputs.
 - **[LLM Guard](https://github.com/protectai/llm-guard)** ![GitHub stars](https://img.shields.io/github/stars/protectai/llm-guard?style=social) - Comprehensive input/output scanner.
+- **[Director-AI](https://github.com/anulum/director-ai)** ![GitHub stars](https://img.shields.io/github/stars/anulum/director-ai?style=social) - Real-time LLM hallucination guardrail with NLI + RAG fact-checking and token-level streaming halt.
 - **[LlamaGuard (Meta)](https://github.com/meta-llama/PurpleLlama)** ![GitHub stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?style=social) - Open safety classifier models.
 - **[Garak](https://github.com/leondz/garak)** ![GitHub stars](https://img.shields.io/github/stars/leondz/garak?style=social) - LLM vulnerability scanner.
 - **[Promptfoo](https://github.com/promptfoo/promptfoo)** ![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social) - LLM testing and red-teaming framework.
