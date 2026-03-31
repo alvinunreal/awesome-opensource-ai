@@ -233,6 +233,7 @@
 - **[Dify](https://github.com/langgenius/dify)** ![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social) - Production-ready agentic workflow platform.
 - **[OWL (camel-ai/owl)](https://github.com/camel-ai/owl)** ![GitHub stars](https://img.shields.io/github/stars/camel-ai/owl?style=social) - Advanced multi-agent collaboration system.
 - **[SuperAGI](https://github.com/TransformerOptimus/SuperAGI)** ![GitHub stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social) - Dev-first autonomous AI agent platform.
+- **[Hashgraph Online](https://hol.org)** ![GitHub stars](https://img.shields.io/github/stars/hashgraph-online/standards-sdk?style=social) - Trust engine for the agentic internet. Provides verifiable agent identity (Universal Agent IDs), trustless P2P communication (HCS-10), and a registry of 187K+ verified AI agents. Open-source SDKs in TypeScript, Go, and Python.
 
 #### Agent Memory & State
 
