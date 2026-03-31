@@ -216,7 +216,8 @@
 - **[Swarms](https://github.com/kyegomez/swarms)** ![GitHub stars](https://img.shields.io/github/stars/kyegomez/swarms?style=social) - Bleeding-edge enterprise multi-agent orchestration.
 - **[Llama-Agents](https://github.com/run-llama/llama-agents)** ![GitHub stars](https://img.shields.io/github/stars/run-llama/llama-agents?style=social) - Async-first multi-agent system.
 - **[Mastra](https://github.com/mastra-ai/mastra)** ![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social) - TypeScript-first agent framework with built-in RAG, workflows, tool integrations, observability and observational memory.
-
+- **[Mission Control](https://github.com/MeisnerDan/mission-control)** ![GitHub stars](https://img.shields.io/github/stars/MeisnerDan/mission-control?style=social) - Cockpit for the agentic era — manage AI agent swarms with autonomous daemon, Field Ops for real-world execution, encrypted vault, and approval workflows.
+  
 #### Autonomous Coding Agents
 
 - **[OpenHands (ex-OpenDevin)](https://github.com/All-Hands-AI/OpenHands)** ![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social) - Full-featured open-source AI software engineer.
