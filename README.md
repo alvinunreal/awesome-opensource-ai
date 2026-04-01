@@ -179,6 +179,7 @@
 - **[Text Generation Inference (TGI)](https://github.com/huggingface/text-generation-inference)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/text-generation-inference?style=social) - Hugging Face's production-ready Rust-based server.
 - **[SGLang](https://github.com/sgl-project/sglang)** ![GitHub stars](https://img.shields.io/github/stars/sgl-project/sglang?style=social) - Next-gen serving framework with RadixAttention.
 - **[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social) - NVIDIA's official high-performance inference backend.
+- **[AegisFlow](https://github.com/saivedant169/AegisFlow)** ![GitHub stars](https://img.shields.io/github/stars/saivedant169/AegisFlow?style=social) - AI gateway in Go that routes LLM traffic across 10+ providers with policy engine, RBAC, canary rollouts, anomaly detection, and real-time dashboard.
 - **[Aphrodite Engine](https://github.com/PygmalionAI/aphrodite-engine)** ![GitHub stars](https://img.shields.io/github/stars/PygmalionAI/aphrodite-engine?style=social) - vLLM fork optimized for role-play and creative writing.
 - **[Open Model Engine (OME)](https://github.com/sgl-project/ome)** ![GitHub stars](https://img.shields.io/github/stars/sgl-project/ome?style=social) - Kubernetes operator for LLM serving. GPU scheduling, model lifecycle management. Works with vLLM, SGLang, TensorRT-LLM.
 
