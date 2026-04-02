@@ -213,6 +213,7 @@
 - **[smolagents](https://github.com/huggingface/smolagents)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social) - Lightweight agent framework centered on tool use and code-executing workflows.
 - **[LangChain](https://github.com/langchain-ai/langchain)** ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social) - Foundational library for agents, chains, and memory.
 - **[smolagents (Hugging Face)](https://github.com/huggingface/smolagents)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social) - Minimalist agent library. Build agents in 3 lines of code with code-first action execution.
+- **[A.S.K — Agent Skills Kernel](https://github.com/srmbsrg/ask-kernel)** ![GitHub stars](https://img.shields.io/github/stars/srmbsrg/ask-kernel?style=social) - Versioned, composable skill library for AI agents. Think .dll files for AI systems — drop in pre-built capabilities (memory, scheduling, reasoning, I/O) without rebuilding from scratch.
 - **[Hermes Agent (NousResearch)](https://github.com/NousResearch/hermes-agent)** ![GitHub stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=social) - The agent that grows with you. Autonomous server-side agent with persistent memory that learns and improves over time.
 
 #### Multi-Agent Orchestration
