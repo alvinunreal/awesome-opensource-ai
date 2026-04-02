@@ -149,6 +149,7 @@
 - **[OuteTTS / CosyVoice 2](https://github.com/edwko/OuteTTS)** ![GitHub stars](https://img.shields.io/github/stars/edwko/OuteTTS?style=social) - High-quality open TTS with natural prosody and multilingual support.
 - **[Fish Speech / StyleTTS 2](https://github.com/fishaudio/fish-speech)** ![GitHub stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social) - Zero-shot TTS with excellent voice cloning. Extremely popular in 2026.
 - **[MusicGen / AudioCraft (Meta)](https://github.com/facebookresearch/audiocraft)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social) - Open music and audio generation models.
+- **[VibeVoice (Microsoft)](https://github.com/microsoft/VibeVoice)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/VibeVoice?style=social) - Open-source frontier voice AI with expressive, longform conversational speech synthesis. 7B parameter TTS with streaming support.
 
 #### Video & Animation Models
 
@@ -208,6 +209,7 @@
 - **[smolagents](https://github.com/huggingface/smolagents)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social) - Lightweight agent framework centered on tool use and code-executing workflows.
 - **[LangChain](https://github.com/langchain-ai/langchain)** ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social) - Foundational library for agents, chains, and memory.
 - **[smolagents (Hugging Face)](https://github.com/huggingface/smolagents)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social) - Minimalist agent library. Build agents in 3 lines of code with code-first action execution.
+- **[Hermes Agent (NousResearch)](https://github.com/NousResearch/hermes-agent)** ![GitHub stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=social) - The agent that grows with you. Autonomous server-side agent with persistent memory that learns and improves over time.
 
 #### Multi-Agent Orchestration
 
@@ -216,6 +218,7 @@
 - **[Swarms](https://github.com/kyegomez/swarms)** ![GitHub stars](https://img.shields.io/github/stars/kyegomez/swarms?style=social) - Bleeding-edge enterprise multi-agent orchestration.
 - **[Llama-Agents](https://github.com/run-llama/llama-agents)** ![GitHub stars](https://img.shields.io/github/stars/run-llama/llama-agents?style=social) - Async-first multi-agent system.
 - **[Mastra](https://github.com/mastra-ai/mastra)** ![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social) - TypeScript-first agent framework with built-in RAG, workflows, tool integrations, observability and observational memory.
+- **[Deer-Flow (ByteDance)](https://github.com/bytedance/deer-flow)** ![GitHub stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social) - Open-source long-horizon SuperAgent harness that researches, codes, and creates. Handles tasks from minutes to hours with sandboxes, memories, tools, skills, subagents, and message gateway.
 
 #### Autonomous Coding Agents
 
@@ -233,6 +236,7 @@
 - **[Dify](https://github.com/langgenius/dify)** ![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social) - Production-ready agentic workflow platform.
 - **[OWL (camel-ai/owl)](https://github.com/camel-ai/owl)** ![GitHub stars](https://img.shields.io/github/stars/camel-ai/owl?style=social) - Advanced multi-agent collaboration system.
 - **[SuperAGI](https://github.com/TransformerOptimus/SuperAGI)** ![GitHub stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social) - Dev-first autonomous AI agent platform.
+- **[AI-Scientist-v2 (SakanaAI)](https://github.com/SakanaAI/AI-Scientist-v2)** ![GitHub stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2?style=social) - Workshop-level automated scientific discovery via agentic tree search. Generates novel research ideas, runs experiments, and writes papers.
 
 #### Agent Memory & State
 
