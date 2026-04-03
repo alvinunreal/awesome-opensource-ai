@@ -317,6 +317,7 @@
 - **[Open-Sora 2.0 (HPC-AI Tech)](https://github.com/hpcaitech/Open-Sora)** ![GitHub stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social) - Fully open training + inference pipeline.
 - **[Stable Video Diffusion (Stability AI)](https://github.com/Stability-AI/generative-models)** ![GitHub stars](https://img.shields.io/github/stars/Stability-AI/generative-models?style=social) - Official image-to-video and text-to-video implementation within Stability AI's generative models repository.
 - **[AnimateDiff](https://github.com/guoyww/AnimateDiff)** ![GitHub stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social) - Motion module ecosystem.
+- **[Framecraft](https://github.com/vaddisrinivas/framecraft)** ![GitHub stars](https://img.shields.io/github/stars/vaddisrinivas/framecraft?style=social) - LLM-driven demo video generation from prompts. Orchestrates Playwright, ffmpeg, and edge-tts to render narrated product walkthroughs from HTML templates.
 
 #### Audio / Music / Voice Generation
 
