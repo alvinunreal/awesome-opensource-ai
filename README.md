@@ -139,6 +139,8 @@
 - **[Phi-4 (Microsoft)](https://github.com/microsoft/PhiCookBook)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/PhiCookBook?style=social) - Small but highly capable models optimized for reasoning, edge devices, and on-device inference. Includes Phi-4-reasoning variants with thinking capabilities.
 - **[GLM-5 (Zhipu AI)](https://github.com/zai-org/GLM-5)** ![GitHub stars](https://img.shields.io/github/stars/zai-org/GLM-5?style=social) - Strong open model line with solid coding, reasoning, and agentic-task performance.
 - **[OLMo 2 (Allen AI)](https://github.com/allenai/OLMo)** ![GitHub stars](https://img.shields.io/github/stars/allenai/OLMo?style=social) - Fully open-source LLMs (1B–32B) with complete transparency: models, data, training code, and logs. Designed by scientists, for scientists.
+- **[GPT-OSS (OpenAI)](https://github.com/openai/gpt-oss)** ![GitHub stars](https://img.shields.io/github/stars/openai/gpt-oss?style=social) - OpenAI's first open-weight models (20B and 120B variants) with Apache 2.0 license. Configurable reasoning effort, full chain-of-thought visibility, native agentic capabilities with tool calling and browser integration.
+- **[Nemotron 3 (NVIDIA)](https://github.com/NVIDIA-NeMo/Nemotron)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA-NeMo/Nemotron?style=social) - Family of open, efficient MoE models (Nano 31.6B/3.6B active, Super 120B/12B active) with hybrid Mamba-Transformer architecture. Purpose-built for agentic AI with 1M context support and complete training recipe transparency.
 
 #### Coding & Reasoning Models
 
