@@ -183,13 +183,16 @@
 - **[Ollama](https://github.com/ollama/ollama)** ![GitHub stars](https://img.shields.io/github/stars/ollama/ollama?style=social) - Dead-simple local LLM runner with a one-line install, model registry, and OpenAI-compatible API.
 - **[MLX](https://github.com/ml-explore/mlx)** ![GitHub stars](https://img.shields.io/github/stars/ml-explore/mlx?style=social) (Apple) - High-performance array framework + LLM inference optimized for Apple Silicon.
 - **[MLC-LLM](https://github.com/mlc-ai/mlc-llm)** ![GitHub stars](https://img.shields.io/github/stars/mlc-ai/mlc-llm?style=social) - Deployment engine that compiles and runs LLMs across browsers, mobile devices, and local hardware.
+- **[WebLLM](https://github.com/mlc-ai/web-llm)** ![GitHub stars](https://img.shields.io/github/stars/mlc-ai/web-llm?style=social) - High-performance in-browser LLM inference engine. Runs models directly in the browser with WebGPU acceleration.
 - **[llama-cpp-python](https://github.com/abetlen/llama-cpp-python)** ![GitHub stars](https://img.shields.io/github/stars/abetlen/llama-cpp-python?style=social) - Official Python bindings for llama.cpp.
 - **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** ![GitHub stars](https://img.shields.io/github/stars/LostRuins/koboldcpp?style=social) - User-friendly llama.cpp fork focused on role-playing and creative writing.
 - **[Potato OS](https://github.com/slomin/potato-os)** ![GitHub stars](https://img.shields.io/github/stars/slomin/potato-os?style=social) - Linux distribution for fully local AI inference on Raspberry Pi 5 and 4. Optimized for running open models at the edge.
 
 #### High-performance Serving & API Servers
 
-- **[vLLM](https://github.com/vllm-project/vllm)** ![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social) - State-of-the-art serving engine with PagedAttention and continuous batching. Currently the fastest production-grade LLM server.
+- **[llm-d](https://github.com/llm-d/llm-d)** ![GitHub stars](https://img.shields.io/github/stars/llm-d/llm-d?style=social) - Kubernetes-native distributed LLM inference framework. Donated to CNCF by RedHat, Google, and IBM. Intelligent scheduling, KV-cache optimization, and state-of-the-art performance across accelerators.
+- **[LMDeploy](https://github.com/InternLM/lmdeploy)** ![GitHub stars](https://img.shields.io/github/stars/InternLM/lmdeploy?style=social) - Toolkit for compressing, deploying, and serving LLMs from OpenMMLab. 4-bit inference with 2.4x higher performance than FP16, distributed multi-model serving across machines.
+- **[vLLM](https://github.com/vllm-project/vllm)**** ![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social) - State-of-the-art serving engine with PagedAttention and continuous batching. Currently the fastest production-grade LLM server.
 - **[Text Generation Inference (TGI)](https://github.com/huggingface/text-generation-inference)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/text-generation-inference?style=social) - Hugging Face's production-ready Rust-based server.
 - **[SGLang](https://github.com/sgl-project/sglang)** ![GitHub stars](https://img.shields.io/github/stars/sgl-project/sglang?style=social) - Next-gen serving framework with RadixAttention.
 - **[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social) - NVIDIA's official high-performance inference backend.
