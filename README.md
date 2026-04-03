@@ -139,6 +139,8 @@
 - **[Phi-4 / Phi-3.5 (Microsoft)](https://github.com/microsoft/PhiCookBook)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/PhiCookBook?style=social) - Small but highly capable models optimized for reasoning, edge devices, and on-device inference.
 - **[GLM-5 (Zhipu AI)](https://github.com/zai-org/GLM-5)** ![GitHub stars](https://img.shields.io/github/stars/zai-org/GLM-5?style=social) - Strong open model line with solid coding, reasoning, and agentic-task performance.
 - **[OLMo 2 (Allen AI)](https://github.com/allenai/OLMo)** ![GitHub stars](https://img.shields.io/github/stars/allenai/OLMo?style=social) - Fully open-source LLMs (1B–32B) with complete transparency: models, data, training code, and logs. Designed by scientists, for scientists.
+- **[NVIDIA Nemotron](https://github.com/NVIDIA-NeMo/Nemotron)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA-NeMo/Nemotron?style=social) - Family of open, high-efficiency multimodal models purpose-built for agentic AI with Nano, Super, and Ultra tiers. Apache 2.0 licensed with full training transparency.
+- **[OpenAI GPT-OSS](https://github.com/openai/gpt-oss)** ![GitHub stars](https://img.shields.io/github/stars/openai/gpt-oss?style=social) - Open-weight reasoning models (gpt-oss-120b and gpt-oss-20b) with adjustable reasoning settings, MoE architecture, and MXFP4 quantization. Apache 2.0 licensed.
 
 #### Coding & Reasoning Models
 
@@ -146,6 +148,7 @@
 - **[CodeLlama / CodeGemma](https://github.com/facebookresearch/codellama)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/codellama?style=social) - Meta's specialized coding variants built on Llama. Still heavily used for fine-tuning.
 - **[Qwen3-Coder-Next (Alibaba)](https://github.com/QwenLM/Qwen3-Coder)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen3-Coder?style=social) - Leading open coding model. Strong Pareto frontier for cost-effective agent deployment.
 - **[StarCoder2 (BigCode)](https://github.com/bigcode-project/starcoder2)** ![GitHub stars](https://img.shields.io/github/stars/bigcode-project/starcoder2?style=social) - 15B model trained on 600+ programming languages. Community favorite for transparency.
+- **[IBM Granite Code Models](https://github.com/ibm-granite/granite-code-models)** ![GitHub stars](https://img.shields.io/github/stars/ibm-granite/granite-code-models?style=social) - Family of open foundation models for code intelligence trained on 116 languages. Apache 2.0 licensed, enterprise-grade with 3B/8B/20B/34B parameter variants.
 
 #### Multimodal Models (Vision + Language)
 
