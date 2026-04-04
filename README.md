@@ -139,6 +139,7 @@
 - **[Phi-4 (Microsoft)](https://github.com/microsoft/PhiCookBook)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/PhiCookBook?style=social) - Small but highly capable models optimized for reasoning, edge devices, and on-device inference. Includes Phi-4-reasoning variants with thinking capabilities.
 - **[GLM-5 (Zhipu AI)](https://github.com/zai-org/GLM-5)** ![GitHub stars](https://img.shields.io/github/stars/zai-org/GLM-5?style=social) - Strong open model line with solid coding, reasoning, and agentic-task performance.
 - **[OLMo 2 (Allen AI)](https://github.com/allenai/OLMo)** ![GitHub stars](https://img.shields.io/github/stars/allenai/OLMo?style=social) - Fully open-source LLMs (1B–32B) with complete transparency: models, data, training code, and logs. Designed by scientists, for scientists.
+- **[Llama 4 (Meta)](https://github.com/meta-llama/llama-models)** ![GitHub stars](https://img.shields.io/github/stars/meta-llama/llama-models?style=social) - First natively multimodal open-weight models with MoE architecture. Llama 4 Scout (17B) and Maverick (17B active, 128E total) with 10M context window and frontier reasoning capabilities.
 
 #### Coding & Reasoning Models
 
@@ -155,6 +156,7 @@
 - **[LLaVA-OneVision](https://github.com/LLaVA-VL/LLaVA-NeXT)** ![GitHub stars](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social) - Successor to LLaVA 1.6 with expanded capabilities across vision-language tasks.
 - **[MiniCPM-V 2.6](https://github.com/OpenBMB/MiniCPM-V)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social) - Handles images up to 1.8M pixels with top-tier OCR performance. Excellent for on-device deployment.
 - **[Gemma 4 (Google)](https://github.com/google-deepmind/gemma)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/gemma?style=social) - Multimodal model supporting vision-language input, optimized for efficiency, complex logic, and on-device use.
+- **[Seed1.5-VL (ByteDance)](https://github.com/ByteDance-Seed/Seed1.5-VL)** ![GitHub stars](https://img.shields.io/github/stars/ByteDance-Seed/Seed1.5-VL?style=social) - Vision-language foundation model with 532M vision encoder and 20B active-parameter MoE LLM. SOTA on 38/60 benchmarks with advanced agent-centric GUI and gameplay capabilities.
 
 #### Speech & Audio Models (TTS, STT, Music)
 
@@ -163,6 +165,7 @@
 - **[Fish Speech / StyleTTS 2](https://github.com/fishaudio/fish-speech)** ![GitHub stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social) - Zero-shot TTS with excellent voice cloning. Extremely popular in 2026.
 - **[MusicGen / AudioCraft (Meta)](https://github.com/facebookresearch/audiocraft)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social) - Open music and audio generation models.
 - **[VibeVoice (Microsoft)](https://github.com/microsoft/VibeVoice)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/VibeVoice?style=social) - Open-source frontier voice AI with expressive, longform conversational speech synthesis. 7B parameter TTS with streaming support.
+- **[MOSS-TTS (OpenMOSS)](https://github.com/OpenMOSS/MOSS-TTS)** ![GitHub stars](https://img.shields.io/github/stars/OpenMOSS/MOSS-TTS?style=social) - Open-source speech and sound generation family for high-fidelity, controllable long-form synthesis, zero-shot voice cloning, and real-time streaming TTS.
 
 #### Video & Animation Models
 
@@ -512,6 +515,10 @@
 - **[ExecuTorch](https://github.com/pytorch/executorch)** ![GitHub stars](https://img.shields.io/github/stars/pytorch/executorch?style=social) - PyTorch runtime and toolchain for deploying AI models on mobile, embedded, and edge devices.
 - **[OpenVINO](https://github.com/openvinotoolkit/openvino)** ![GitHub stars](https://img.shields.io/github/stars/openvinotoolkit/openvino?style=social) - Intel's toolkit for edge deployment.
 - **[MicroTVM (Apache TVM)](https://github.com/apache/tvm)** ![GitHub stars](https://img.shields.io/github/stars/apache/tvm?style=social) - Compiler stack for microcontrollers.
+
+#### Game AI
+
+- **[NitroGen (NVIDIA / MineDojo)](https://github.com/MineDojo/NitroGen)** ![GitHub stars](https://img.shields.io/github/stars/MineDojo/NitroGen?style=social) - Foundation model for generalist gaming agents. 500M parameter DiT trained on largest video-action gameplay dataset from internet videos. Takes pixel input, predicts gamepad actions for generalist game playing.
 
 ---
 
