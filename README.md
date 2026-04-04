@@ -146,6 +146,7 @@
 - **[CodeLlama / CodeGemma](https://github.com/facebookresearch/codellama)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/codellama?style=social) - Meta's specialized coding variants built on Llama. Still heavily used for fine-tuning.
 - **[Qwen3-Coder-Next (Alibaba)](https://github.com/QwenLM/Qwen3-Coder)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen3-Coder?style=social) - Leading open coding model. Strong Pareto frontier for cost-effective agent deployment.
 - **[StarCoder2 (BigCode)](https://github.com/bigcode-project/starcoder2)** ![GitHub stars](https://img.shields.io/github/stars/bigcode-project/starcoder2?style=social) - 15B model trained on 600+ programming languages. Community favorite for transparency.
+- **[Granite Code Models (IBM)](https://github.com/ibm-granite/granite-code-models)** ![GitHub stars](https://img.shields.io/github/stars/ibm-granite/granite-code-models?style=social) - Family of open foundation models for code intelligence (3B–34B). Trained on 3-4T tokens of code data with strong performance across 116 programming languages.
 
 #### Multimodal Models (Vision + Language)
 
