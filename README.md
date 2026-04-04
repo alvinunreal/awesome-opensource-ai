@@ -241,10 +241,12 @@
 - **[smolagents (Hugging Face)](https://github.com/huggingface/smolagents)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social) - Minimalist agent library. Build agents in 3 lines of code with code-first action execution.
 - **[Hermes Agent (NousResearch)](https://github.com/NousResearch/hermes-agent)** ![GitHub stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=social) - The agent that grows with you. Autonomous server-side agent with persistent memory that learns and improves over time.
 - **[Agno](https://github.com/agno-agi/agno)** ![GitHub stars](https://img.shields.io/github/stars/agno-agi/agno?style=social) - Build, run, and manage agentic software at scale. High-performance framework for multi-agent systems with memory, knowledge, and tools.
+- **[Pydantic AI](https://github.com/pydantic/pydantic-ai)** ![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social) - Python agent framework from the creators of Pydantic. Type-safe, structured outputs with dependency injection and streaming support.
 
 #### Multi-Agent Orchestration
 
 - **[MetaGPT](https://github.com/FoundationAgents/MetaGPT)** ![GitHub stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social) - Simulates an entire "AI software company".
+- **[CAMEL](https://github.com/camel-ai/camel)** ![GitHub stars](https://img.shields.io/github/stars/camel-ai/camel?style=social) - First and best multi-agent framework for building scalable agent systems. Apache 2.0 licensed with extensive tooling for agent communication and task automation.
 - **[Swarm](https://github.com/openai/swarm)** ![GitHub stars](https://img.shields.io/github/stars/openai/swarm?style=social) - Lightweight multi-agent orchestration from OpenAI.
 - **[Swarms](https://github.com/kyegomez/swarms)** ![GitHub stars](https://img.shields.io/github/stars/kyegomez/swarms?style=social) - Bleeding-edge enterprise multi-agent orchestration.
 - **[Llama-Agents](https://github.com/run-llama/llama-agents)** ![GitHub stars](https://img.shields.io/github/stars/run-llama/llama-agents?style=social) - Async-first multi-agent system.
@@ -270,6 +272,8 @@
 - **[OWL (camel-ai/owl)](https://github.com/camel-ai/owl)** ![GitHub stars](https://img.shields.io/github/stars/camel-ai/owl?style=social) - Advanced multi-agent collaboration system.
 - **[SuperAGI](https://github.com/TransformerOptimus/SuperAGI)** ![GitHub stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social) - Dev-first autonomous AI agent platform.
 - **[AI-Scientist-v2 (SakanaAI)](https://github.com/SakanaAI/AI-Scientist-v2)** ![GitHub stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2?style=social) - Workshop-level automated scientific discovery via agentic tree search. Generates novel research ideas, runs experiments, and writes papers.
+- **[PraisonAI](https://github.com/MervinPraison/PraisonAI)** ![GitHub stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social) - 24/7 AI employee team for automating complex challenges. Low-code multi-agent framework with handoffs, guardrails, memory, RAG, and 100+ LLM providers.
+- **[Agent-S (Simular AI)](https://github.com/simular-ai/Agent-S)** ![GitHub stars](https://img.shields.io/github/stars/simular-ai/Agent-S?style=social) - Open agentic framework that uses computers like a human. SOTA on OSWorld benchmark (72.6%) for GUI automation and computer control.
 
 #### Agent Memory & State
 
