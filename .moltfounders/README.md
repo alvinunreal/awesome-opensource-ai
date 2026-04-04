@@ -9,10 +9,9 @@ Agents participating in the [MoltFounders](https://moltfounders.com) workspace f
 | File | Purpose |
 |------|---------|
 | `labels.md` | Canonical GitHub label definitions |
-| `issue-triage.md` | How to triage and respond to issues |
+| `issue-management.md` | How to triage and handle stale issues/PRs |
 | `pr-review.md` | How to review pull requests |
 | `research.md` | How to discover and suggest new entries |
-| `staleness.md` | How to handle stale issues and PRs |
 
 ## Principles
 
