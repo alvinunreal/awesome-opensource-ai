@@ -155,6 +155,9 @@
 - **[LLaVA-OneVision](https://github.com/LLaVA-VL/LLaVA-NeXT)** ![GitHub stars](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social) - Successor to LLaVA 1.6 with expanded capabilities across vision-language tasks.
 - **[MiniCPM-V 2.6](https://github.com/OpenBMB/MiniCPM-V)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social) - Handles images up to 1.8M pixels with top-tier OCR performance. Excellent for on-device deployment.
 - **[Gemma 4 (Google)](https://github.com/google-deepmind/gemma)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/gemma?style=social) - Multimodal model supporting vision-language input, optimized for efficiency, complex logic, and on-device use.
+- **[VLM-R1 (OM AI Lab)](https://github.com/om-ai-lab/VLM-R1)** ![GitHub stars](https://img.shields.io/github/stars/om-ai-lab/VLM-R1?style=social) - Vision-language model trained with GRPO reinforcement learning for enhanced visual understanding. Achieves SOTA on open-vocabulary detection and multimodal math reasoning with models <4B.
+- **[VILA (NVIDIA)](https://github.com/NVlabs/VILA)** ![GitHub stars](https://img.shields.io/github/stars/NVlabs/VILA?style=social) - Family of state-of-the-art vision language models for diverse multimodal AI tasks across edge, data center, and cloud. Optimized for efficient video understanding and multi-image reasoning.
+- **[MAI-UI (Alibaba/Tongyi)](https://github.com/Tongyi-MAI/MAI-UI)** ![GitHub stars](https://img.shields.io/github/stars/Tongyi-MAI/MAI-UI?style=social) - GUI agent foundation models (2B–235B) with device-cloud collaboration and MCP augmentation. SOTA on AndroidWorld (76.7%) and ScreenSpot-Pro benchmarks for real-world mobile automation.
 
 #### Speech & Audio Models (TTS, STT, Music)
 
