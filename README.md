@@ -139,6 +139,8 @@
 - **[Phi-4 (Microsoft)](https://github.com/microsoft/PhiCookBook)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/PhiCookBook?style=social) - Small but highly capable models optimized for reasoning, edge devices, and on-device inference. Includes Phi-4-reasoning variants with thinking capabilities.
 - **[GLM-5 (Zhipu AI)](https://github.com/zai-org/GLM-5)** ![GitHub stars](https://img.shields.io/github/stars/zai-org/GLM-5?style=social) - Strong open model line with solid coding, reasoning, and agentic-task performance.
 - **[OLMo 2 (Allen AI)](https://github.com/allenai/OLMo)** ![GitHub stars](https://img.shields.io/github/stars/allenai/OLMo?style=social) - Fully open-source LLMs (1B–32B) with complete transparency: models, data, training code, and logs. Designed by scientists, for scientists.
+- **[Llama 4 (Meta)](https://github.com/meta-llama/llama-models)** ![GitHub stars](https://img.shields.io/github/stars/meta-llama/llama-models?style=social) - First native multimodal MoE release with Scout (17B/16E) and Maverick (17B/128E) variants. Open weights with native vision-language capabilities and 10+ language support.
+- **[Step-3.5-Flash (StepFun)](https://github.com/stepfun-ai/Step-3.5-Flash)** ![GitHub stars](https://img.shields.io/github/stars/stepfun-ai/Step-3.5-Flash?style=social) - 196B MoE open-source foundation model (11B active) with 256K context, frontier reasoning, and agentic capabilities. Apache 2.0 licensed.
 
 #### Coding & Reasoning Models
 
