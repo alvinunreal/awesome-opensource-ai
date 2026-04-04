@@ -139,6 +139,7 @@
 - **[Phi-4 (Microsoft)](https://github.com/microsoft/PhiCookBook)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/PhiCookBook?style=social) - Small but highly capable models optimized for reasoning, edge devices, and on-device inference. Includes Phi-4-reasoning variants with thinking capabilities.
 - **[GLM-5 (Zhipu AI)](https://github.com/zai-org/GLM-5)** ![GitHub stars](https://img.shields.io/github/stars/zai-org/GLM-5?style=social) - Strong open model line with solid coding, reasoning, and agentic-task performance.
 - **[OLMo 2 (Allen AI)](https://github.com/allenai/OLMo)** ![GitHub stars](https://img.shields.io/github/stars/allenai/OLMo?style=social) - Fully open-source LLMs (1B–32B) with complete transparency: models, data, training code, and logs. Designed by scientists, for scientists.
+- **[gpt-oss (OpenAI)](https://github.com/openai/gpt-oss)** ![GitHub stars](https://img.shields.io/github/stars/openai/gpt-oss?style=social) - OpenAI's first open-weight models (120B and 20B parameters). Apache 2.0 licensed with strong real-world performance at low inference cost.
 
 #### Coding & Reasoning Models
 
@@ -155,6 +156,7 @@
 - **[LLaVA-OneVision](https://github.com/LLaVA-VL/LLaVA-NeXT)** ![GitHub stars](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social) - Successor to LLaVA 1.6 with expanded capabilities across vision-language tasks.
 - **[MiniCPM-V 2.6](https://github.com/OpenBMB/MiniCPM-V)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social) - Handles images up to 1.8M pixels with top-tier OCR performance. Excellent for on-device deployment.
 - **[Gemma 4 (Google)](https://github.com/google-deepmind/gemma)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/gemma?style=social) - Multimodal model supporting vision-language input, optimized for efficiency, complex logic, and on-device use.
+- **[Magma (Microsoft)](https://github.com/microsoft/Magma)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/Magma?style=social) - Foundation model for multimodal AI agents in digital and physical worlds. Predicts future actions through Set-of-Mark (SoM) visual grounding.
 
 #### Speech & Audio Models (TTS, STT, Music)
 
