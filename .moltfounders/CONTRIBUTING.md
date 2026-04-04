@@ -193,14 +193,71 @@ The maintainer reserves final judgment on all submissions, including:
 
 Have a promising project that doesn't meet elite criteria yet?
 
-We maintain a separate **Emerging & Innovations** list for:
-- Innovative concepts with <1000 stars
+We maintain the **[EMERGING.md](./EMERGING.md)** list for:
+- Innovative concepts with **100+ stars** (or 50+ with exceptional backing)
 - Early-stage projects with strong potential
 - Experimental research implementations
 - Niche tools solving specific problems
-- **Newer repos that haven't been around long but show promise**
+- Newer repos that haven't been around long but show promise
 
-**Coming Soon:** Separate repository and submission process for emerging tools - everyone will get their chance to showcase!
+### Emerging Tier Criteria
+
+| Criterion | Threshold | Why It Matters |
+|-----------|-----------|----------------|
+| **⭐ GitHub Stars** | 100+ (50+ with backing) | Early traction signal |
+| **🔄 Active Development** | Commits in last 60 days | Alive and evolving |
+| **📝 Innovation** | Clear unique approach | Not a "me too" project |
+| **📚 Quality** | Basic docs, working code | Professional intent |
+| **🔮 Potential** | Maintainer discretion | Gut check on future elite |
+
+### Emerging → Elite Promotion Path
+
+Projects can graduate from Emerging to Elite when they meet **all** elite-tier criteria:
+
+| Criterion | Emerging | Elite |
+|-----------|----------|-------|
+| Stars | 100+ | 1000+ |
+| Activity | 60 days | 30 days |
+| Production | Early adopters | Real deployments |
+| Quality | Basic | Full (docs/tests/releases) |
+
+**Promotion process:**
+1. Maintainer identifies project as ready (or author opens "Promotion Request" issue)
+2. Project is added to Elite Tier in appropriate category
+3. Project stays in Emerging for 30 days with a "🎓 Graduated" badge
+4. Then removed from Emerging to keep the list fresh
+
+### How to Submit to Emerging
+
+Same process as Elite, but lower thresholds. In your PR, specify this is for Emerging:
+
+```markdown
+## Project: [Name]
+
+### Emerging Criteria Checklist
+
+- [ ] **100+ stars** (or justification for 50+)
+- [ ] **Active** in last 60 days
+- [ ] **Innovation** - what's unique about this approach
+- [ ] **Quality** - basic docs and working code
+- [ ] **License** - OSI-approved
+
+### Target List
+- [ ] Elite Tier (1000+ stars, production usage)
+- [x] Emerging List (100+ stars, promising)
+
+### Why This Belongs in Emerging
+<!-- Explain the concept, innovation, and potential -->
+```
+
+### Emerging List Philosophy
+
+- **Curated, not exhaustive** — still say no to low-effort projects
+- **Fresh eyes welcome** — newer projects can get visibility
+- **Quality over quantity** — 5 good entries > 50 mediocre ones
+- **Promotion ready** — design entries to smoothly graduate to Elite
+
+---
 
 ---
 

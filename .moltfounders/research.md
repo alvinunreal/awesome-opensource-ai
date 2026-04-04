@@ -1,36 +1,57 @@
-# Research Loop Rules (Daily Category Rotation)
+# Research Loop Rules (Hourly Category Rotation with State Tracking)
 
 ## Purpose
 
-Aggressively fill the awesome-opensource-ai list by targeting one category per day with deep research.
+Aggressively fill the awesome-opensource-ai list by cycling through all 14 categories with deep research. Runs hourly to maximize discovery speed while the repo is new.
 
 ## Frequency
 
-Run daily at 9:00 AM Europe/Amsterdam. Each run targets ONE specific category (rotating 14-day cycle).
+Run **hourly** at Europe/Amsterdam timezone. Each run targets ONE specific category, rotating through the 14-category cycle.
 
-## Category Rotation Schedule
+## State Tracking
 
-| Day | Category | Target Section |
-|-----|----------|----------------|
-| Day 1 (Apr 3) | Core Frameworks & Libraries | §1 |
-| Day 2 (Apr 4) | Open Foundation Models | §2 |
-| Day 3 (Apr 5) | Inference Engines & Serving | §3 |
-| Day 4 (Apr 6) | Agentic AI & Multi-Agent Systems | §4 |
-| Day 5 (Apr 7) | RAG & Knowledge | §5 |
-| Day 6 (Apr 8) | Generative Media Tools | §6 |
-| Day 7 (Apr 9) | Training & Fine-tuning | §7 |
-| Day 8 (Apr 10) | MLOps / LLMOps | §8 |
-| Day 9 (Apr 11) | Evaluation & Benchmarks | §9 |
-| Day 10 (Apr 12) | AI Safety & Interpretability | §10 |
-| Day 11 (Apr 13) | Specialized Domains | §11 |
-| Day 12 (Apr 14) | User Interfaces & Platforms | §12 |
-| Day 13 (Apr 15) | Developer Tools | §13 |
-| Day 14 (Apr 16) | Resources & Learning | §14 |
-| Day 15+ | Cycle repeats | - |
+**CRITICAL: Read and update `research-state.json` every run.**
 
-## Today's Target Category
+The state file tracks:
+- `currentCycle` — array of 14 categories with research timestamps
+- `lastCategoryIndex` — which category was last researched
+- `lastRunTime` — when research last ran
+- `minHoursBetweenRuns` — minimum hours before same category (set to 1 for hourly)
 
-Check the current date and pick the matching category from the rotation above.
+### Rotation Logic (Follow Exactly)
+
+1. **Read `research-state.json`** at start of every run
+2. **Check `lastRunTime`**: If less than 1 hour ago → skip this run, post "Research on cooldown, next run in X min"
+3. **Find next category**: 
+   - If `lastCategoryIndex` is null → start at index 0
+   - Else → increment by 1 (wrap to 0 after index 13)
+4. **Research that category** following the protocol below
+5. **Update state**:
+   - Set `lastCategoryIndex` to the category just researched
+   - Set `lastRunTime` to current ISO timestamp
+   - Set `currentCycle[index].lastResearched` to current ISO timestamp
+6. **Write updated `research-state.json`**
+
+### Category Cycle (14 categories, hourly rotation)
+
+| Index | Category | Target Section |
+|-------|----------|----------------|
+| 0 | Core Frameworks & Libraries | §1 |
+| 1 | Open Foundation Models | §2 |
+| 2 | Inference Engines & Serving | §3 |
+| 3 | Agentic AI & Multi-Agent Systems | §4 |
+| 4 | RAG & Knowledge | §5 |
+| 5 | Generative Media Tools | §6 |
+| 6 | Training & Fine-tuning | §7 |
+| 7 | MLOps / LLMOps | §8 |
+| 8 | Evaluation & Benchmarks | §9 |
+| 9 | AI Safety & Interpretability | §10 |
+| 10 | Specialized Domains | §11 |
+| 11 | User Interfaces & Platforms | §12 |
+| 12 | Developer Tools | §13 |
+| 13 | Resources & Learning | §14 |
+
+**Cycle repeats after index 13 → back to 0.**
 
 ## Deep Research Protocol (Per Category)
 
@@ -151,6 +172,7 @@ For rapidly evolving projects (foundation models, frameworks with numbered relea
 
 ## Qualification Criteria
 
+### Elite Tier (README.md)
 All discovered projects must meet the **elite tier criteria** defined in [CONTRIBUTING.md](../CONTRIBUTING.md#elite-tier-criteria-must-meet-all):
 
 - ⭐ **1000+ GitHub stars**
@@ -161,7 +183,17 @@ All discovered projects must meet the **elite tier criteria** defined in [CONTRI
 - ❌ **Not already in the list**
 - 📂 **Fits the target category**
 
-See [CONTRIBUTING.md](../CONTRIBUTING.md) for the complete criteria, submission format, and category benchmarks.
+### Emerging Tier (EMERGING.md)
+Projects that show promise but fall below elite thresholds:
+
+- ⭐ **100+ GitHub stars** (or 50+ with exceptional backing)
+- 🔄 **Active development** (commits within last 60 days)
+- 📝 **Clear innovation** (unique approach, not a "me too" project)
+- 📚 **Basic quality** (working code, basic docs)
+- ✅ **OSI-approved license**
+- ❌ **Not already in Elite or Emerging**
+
+**Dual-track approach:** During research, evaluate projects against both tiers. Projects that don't meet Elite criteria but show genuine innovation should be flagged for Emerging list.
 
 ## Output: Single Category-Focused PR
 
