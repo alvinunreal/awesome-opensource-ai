@@ -525,6 +525,23 @@
 
 ### 🧩 11. Specialized Domains
 
+#### Scientific AI & Drug Discovery
+
+- **[Boltz](https://github.com/jwohlwend/boltz)** ![GitHub stars](https://img.shields.io/github/stars/jwohlwend/boltz?style=social) - Open-source biomolecular interaction prediction models. Boltz-1 was the first fully open source model to approach AlphaFold3 accuracy; Boltz-2 adds binding affinity prediction for drug discovery. MIT licensed.
+
+#### Medical Imaging & Healthcare AI
+
+- **[MONAI](https://github.com/Project-MONAI/MONAI)** ![GitHub stars](https://img.shields.io/github/stars/Project-MONAI/MONAI?style=social) - Medical Open Network for AI. End-to-end framework for healthcare imaging with state-of-the-art, production-ready training workflows. Apache 2.0 licensed.
+
+#### Game AI & Simulations
+
+- **[Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents)** ![GitHub stars](https://img.shields.io/github/stars/Unity-Technologies/ml-agents?style=social) - Toolkit for training intelligent agents in games and simulations using deep reinforcement learning. Enables NPC behavior control, automated testing, and game design evaluation. Apache 2.0 licensed.
+- **[OpenSpiel](https://github.com/google-deepmind/open_spiel)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/open_spiel?style=social) - Collection of environments and algorithms for research in general reinforcement learning and search/planning in games from Google DeepMind. Apache 2.0 licensed.
+
+#### Finance & Quantitative AI
+
+- **[OpenBB](https://github.com/OpenBB-finance/OpenBB)** ![GitHub stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=social) - Financial data platform for analysts, quants and AI agents. Open-source investment research infrastructure with extensive data integrations. AGPL-3.0 licensed.
+
 #### Computer Vision
 
 - **[OpenCV](https://github.com/opencv/opencv)** ![GitHub stars](https://img.shields.io/github/stars/opencv/opencv?style=social) - World's most widely used computer vision library.
