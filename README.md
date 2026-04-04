@@ -513,6 +513,12 @@
 - **[nnsight](https://github.com/ndif-team/nnsight)** ![GitHub stars](https://img.shields.io/github/stars/ndif-team/nnsight?style=social) - Scalable library for intervening on neural networks.
 - **[SAELens](https://github.com/jbloomAus/SAELens)** ![GitHub stars](https://img.shields.io/github/stars/jbloomAus/SAELens?style=social) - Sparse autoencoders for interpretable features.
 - **[Captum](https://github.com/pytorch/captum)** ![GitHub stars](https://img.shields.io/github/stars/pytorch/captum?style=social) - PyTorch's official interpretability library.
+- **[SHAP](https://github.com/shap/shap)** ![GitHub stars](https://img.shields.io/github/stars/shap/shap?style=social) - Game theoretic approach to explain the output of any machine learning model. Industry standard for model interpretability.
+- **[XAI](https://github.com/EthicalML/xai)** ![GitHub stars](https://img.shields.io/github/stars/EthicalML/xai?style=social) - eXplainability toolbox for machine learning with bias evaluation and production monitoring tools.
+
+#### Fairness & Bias Mitigation
+
+- **[AI Fairness 360](https://github.com/Trusted-AI/AIF360)** ![GitHub stars](https://img.shields.io/github/stars/Trusted-AI/AIF360?style=social) - Comprehensive toolkit for detecting, understanding, and mitigating unwanted algorithmic bias in datasets and ML models.
 
 #### Adversarial & Red-teaming Tools
 
@@ -520,6 +526,8 @@
 - **[PyRIT (Python Risk Identification Tool)](https://github.com/Azure/PyRIT)** ![GitHub stars](https://img.shields.io/github/stars/Azure/PyRIT?style=social) - Framework for custom adversarial testing.
 - **[Promptfoo](https://github.com/promptfoo/promptfoo)** ![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social) - Systematic prompt testing and red-teaming.
 - **[LLM Guard](https://github.com/protectai/llm-guard)** ![GitHub stars](https://img.shields.io/github/stars/protectai/llm-guard?style=social) - Input/output scanner for LLMs.
+- **[Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox)** ![GitHub stars](https://img.shields.io/github/stars/Trusted-AI/adversarial-robustness-toolbox?style=social) - Python library for machine learning security (evasion, poisoning, extraction, inference attacks).
+- **[DeepTeam](https://github.com/confident-ai/deepteam)** ![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepteam?style=social) - Framework to red team LLMs and LLM systems.
 
 ---
 
