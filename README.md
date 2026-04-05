@@ -625,6 +625,15 @@
 - **[Roo Code](https://github.com/RooCodeInc/Roo-Code)** ![GitHub stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=social) - Open-source editor-based coding agent with multiple modes and tool integrations.
 - **[Aider](https://github.com/paul-gauthier/aider)** ![GitHub stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=social) - Terminal-based AI pair programmer.
 
+#### CLI Productivity Tools
+
+- **[LLM (Simon Willison)](https://github.com/simonw/llm)** ![GitHub stars](https://img.shields.io/github/stars/simonw/llm?style=social) - CLI tool and Python library for accessing OpenAI, Claude, Gemini, Llama, and dozens of other LLMs via APIs or local models. Extensible with plugins for models, templates, and data sources.
+- **[AIChat](https://github.com/sigoden/aichat)** ![GitHub stars](https://img.shields.io/github/stars/sigoden/aichat?style=social) - All-in-one LLM CLI featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents. Supports 20+ providers including OpenAI, Claude, Gemini, Ollama, Groq.
+
+#### API Development & Model Serving Tools
+
+- **[OpenLLM (BentoML)](https://github.com/bentoml/OpenLLM)** ![GitHub stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social) - Run any open-source LLMs (Llama, Qwen, Phi, DeepSeek) or custom models as OpenAI-compatible API endpoints with a single command. Built-in streaming, batching, and deployment tools.
+
 #### IDE Plugins & Extensions
 
 - **[llama.vim](https://github.com/ggml-org/llama.vim)** ![GitHub stars](https://img.shields.io/github/stars/ggml-org/llama.vim?style=social) - Local LLM-powered code completion plugin for Vim/Neovim using llama.cpp. Fast, privacy-first, no API key needed.
@@ -640,6 +649,7 @@
 
 - **[Promptfoo](https://github.com/promptfoo/promptfoo)** ![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social) - Systematic LLM testing framework.
 - **[DeepEval](https://github.com/confident-ai/deepeval)** ![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social) - LLM unit-testing framework.
+- **[Giskard](https://github.com/Giskard-AI/giskard)** ![GitHub stars](https://img.shields.io/github/stars/Giskard-AI/giskard?style=social) - Open-source testing & evaluation library for LLM agents. Red-teaming, vulnerability scanning, RAG evaluation, and safety testing.
 - **[Garak](https://github.com/NVIDIA/garak)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/garak?style=social) - LLM vulnerability scanner.
 - **[Phoenix (Arize)](https://github.com/Arize-ai/phoenix)** ![GitHub stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social) - AI observability for development.
 
