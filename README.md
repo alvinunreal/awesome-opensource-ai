@@ -536,6 +536,7 @@
 #### Scientific AI & Drug Discovery
 
 - **[Boltz](https://github.com/jwohlwend/boltz)** ![GitHub stars](https://img.shields.io/github/stars/jwohlwend/boltz?style=social) - Open-source biomolecular interaction prediction models. Boltz-1 was the first fully open source model to approach AlphaFold3 accuracy; Boltz-2 adds binding affinity prediction for drug discovery. MIT licensed.
+- **[OpenFold](https://github.com/aqlaboratory/openfold)** ![GitHub stars](https://img.shields.io/github/stars/aqlaboratory/openfold?style=social) - Trainable PyTorch reproduction of AlphaFold2. Complete open-source pipeline for protein structure prediction with competitive accuracy to the original. Apache 2.0 licensed.
 
 #### Medical Imaging & Healthcare AI
 
@@ -549,6 +550,8 @@
 #### Finance & Quantitative AI
 
 - **[OpenBB](https://github.com/OpenBB-finance/OpenBB)** ![GitHub stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=social) - Financial data platform for analysts, quants and AI agents. Open-source investment research infrastructure with extensive data integrations. AGPL-3.0 licensed.
+- **[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)** ![GitHub stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinGPT?style=social) - Open-source financial large language models. Democratizing financial AI with data-centric training pipeline and multiple model releases for trading, analysis, and robo-advising. MIT licensed.
+- **[FinRL](https://github.com/AI4Finance-Foundation/FinRL)** ![GitHub stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL?style=social) - Financial reinforcement learning framework for quantitative trading. Deep RL library for stock trading, portfolio allocation, and market execution with pre-built environments and benchmarks. MIT licensed.
 
 #### Computer Vision
 
@@ -565,6 +568,7 @@
 - **[CleanRL](https://github.com/vwxyzjn/cleanrl)** ![GitHub stars](https://img.shields.io/github/stars/vwxyzjn/cleanrl?style=social) - Single-file readable RL implementations.
 - **[JaxMARL](https://github.com/FLAIROx/JaxMARL)** ![GitHub stars](https://img.shields.io/github/stars/FLAIROx/JaxMARL?style=social) - Multi-Agent Reinforcement Learning with JAX. Accelerated environments and baselines.
 - **[Isaac Lab](https://github.com/isaac-sim/IsaacLab)** ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=social) - GPU-accelerated robot learning framework.
+- **[MuJoCo](https://github.com/google-deepmind/mujoco)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/mujoco?style=social) - General-purpose physics simulator for robotics, biomechanics, and ML research. High-fidelity contact dynamics with native Python and C++ bindings. Apache 2.0 licensed.
 - **[Gymnasium (ex-OpenAI Gym)](https://github.com/Farama-Foundation/Gymnasium)** ![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium?style=social) - Standard RL environment API.
 
 #### Time Series & Scientific AI
@@ -581,6 +585,10 @@
 - **[ExecuTorch](https://github.com/pytorch/executorch)** ![GitHub stars](https://img.shields.io/github/stars/pytorch/executorch?style=social) - PyTorch runtime and toolchain for deploying AI models on mobile, embedded, and edge devices.
 - **[OpenVINO](https://github.com/openvinotoolkit/openvino)** ![GitHub stars](https://img.shields.io/github/stars/openvinotoolkit/openvino?style=social) - Intel's toolkit for edge deployment.
 - **[MicroTVM (Apache TVM)](https://github.com/apache/tvm)** ![GitHub stars](https://img.shields.io/github/stars/apache/tvm?style=social) - Compiler stack for microcontrollers.
+
+#### Legal AI & Contract Analysis
+
+- **[OpenContracts](https://github.com/Open-Source-Legal/OpenContracts)** ![GitHub stars](https://img.shields.io/github/stars/Open-Source-Legal/OpenContracts?style=social) - Self-hosted document annotation platform for legal AI. Semantic search, contract analysis, version control, and MCP integration for building legal knowledge bases. AGPL-3.0 licensed.
 
 ---
 
