@@ -598,6 +598,8 @@
 - **[HuggingChat (self-hosted)](https://github.com/huggingface/chat-ui)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/chat-ui?style=social) - Official open-source codebase for HuggingChat.
 - **[Khoj](https://github.com/khoj-ai/khoj)** ![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social) - Self-hostable personal AI assistant for search, chat, automation, and workflows over local and web data.
 - **[Newelle](https://github.com/qwersyk/Newelle)** ![GitHub stars](https://img.shields.io/github/stars/qwersyk/Newelle?style=social) - GNOME/Linux desktop virtual assistant with integrated file editor, global hotkeys, and profile manager.
+- **[NextChat](https://github.com/ChatGPTNextWeb/NextChat)** ![GitHub stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=social) - Light and fast AI assistant supporting Web, iOS, macOS, Android, Linux, and Windows. One-click deploy with multi-model support. MIT licensed.
+- **[big-AGI](https://github.com/enricoros/big-AGI)** ![GitHub stars](https://img.shields.io/github/stars/enricoros/big-AGI?style=social) - AI suite for power users with multi-model "Beam" chats, AI personas, voice, text-to-image, code execution, and PDF import. MIT licensed.
 
 #### Full Self-hosted AI Platforms
 
@@ -605,6 +607,8 @@
 - **[Dify](https://github.com/langgenius/dify)** ![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social) - Complete AI application platform with visual builder.
 - **[Langflow](https://github.com/langflow-ai/langflow)** ![GitHub stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social) - Visual low-code platform for LangChain flows.
 - **[Flowise](https://github.com/FlowiseAI/Flowise)** ![GitHub stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social) - Drag-and-drop LLM app builder.
+- **[LocalAI](https://github.com/mudler/LocalAI)** ![GitHub stars](https://img.shields.io/github/stars/mudler/LocalAI?style=social) - Open-source AI engine running LLMs, vision, voice, image, and video models on any hardware. Self-hosted OpenAI-compatible API. MIT licensed.
+- **[Onyx](https://github.com/onyx-dot-app/onyx)** ![GitHub stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social) - Full-featured AI platform with Chat, RAG, Agents, and Actions. 40+ document connectors and every LLM support. MIT licensed (Community Edition).
 
 #### Desktop & Mobile AI Apps
 
