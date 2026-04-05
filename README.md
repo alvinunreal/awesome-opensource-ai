@@ -197,6 +197,8 @@
 - **[llama-cpp-python](https://github.com/abetlen/llama-cpp-python)** ![GitHub stars](https://img.shields.io/github/stars/abetlen/llama-cpp-python?style=social) - Official Python bindings for llama.cpp.
 - **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** ![GitHub stars](https://img.shields.io/github/stars/LostRuins/koboldcpp?style=social) - User-friendly llama.cpp fork focused on role-playing and creative writing.
 - **[Potato OS](https://github.com/slomin/potato-os)** ![GitHub stars](https://img.shields.io/github/stars/slomin/potato-os?style=social) - Linux distribution for fully local AI inference on Raspberry Pi 5 and 4. Optimized for running open models at the edge.
+- **[PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)** ![GitHub stars](https://img.shields.io/github/stars/SJTU-IPADS/PowerInfer?style=social) - High-speed LLM inference engine leveraging activation locality. Achieves up to 22x faster inference on consumer GPUs through sparse activation patterns.
+- **[mllm](https://github.com/UbiquitousLearning/mllm)** ![GitHub stars](https://img.shields.io/github/stars/UbiquitousLearning/mllm?style=social) - Fast multimodal LLM inference engine optimized for mobile and edge devices. Supports Android, iOS, and embedded platforms with NPU/GPU acceleration.
 
 #### High-performance Serving & API Servers
 
@@ -212,6 +214,9 @@
 - **[mistral.rs](https://github.com/EricLBuehler/mistral.rs)** ![GitHub stars](https://img.shields.io/github/stars/EricLBuehler/mistral.rs?style=social) - Fast, flexible Rust-native LLM inference engine built on Candle. Supports text, vision, audio, image generation, and embeddings with hardware-aware auto-tuning.
 - **[KTransformers](https://github.com/kvcache-ai/ktransformers)** ![GitHub stars](https://img.shields.io/github/stars/kvcache-ai/ktransformers?style=social) - Flexible framework for heterogeneous CPU-GPU LLM inference and fine-tuning. Enables running large MoE models by offloading experts to CPU with BF16/FP8 precision support.
 - **[llamafile](https://github.com/mozilla-ai/llamafile)** ![GitHub stars](https://img.shields.io/github/stars/mozilla-ai/llamafile?style=social) - Mozilla's single-file distributable LLM solution. Bundle model weights, inference engine, and runtime into one portable executable that runs on six OSes without installation.
+- **[Xinference](https://github.com/xorbitsai/inference)** ![GitHub stars](https://img.shields.io/github/stars/xorbitsai/inference?style=social) - Universal inference server for LLMs, speech, and multimodal models. One command to deploy models locally or distributed with OpenAI-compatible API.
+- **[FlashInfer](https://github.com/flashinfer-ai/flashinfer)** ![GitHub stars](https://img.shields.io/github/stars/flashinfer-ai/flashinfer?style=social) - High-performance kernel library for LLM serving with state-of-the-art attention, GEMM, and MoE operations. Used by vLLM, SGLang, and MLC-LLM.
+- **[LightLLM](https://github.com/ModelTC/lightllm)** ![GitHub stars](https://img.shields.io/github/stars/ModelTC/lightllm?style=social) - Python-based LLM serving framework with lightweight design and easy scalability. Supports multiple attention backends and quantization methods.
 
 #### Quantization, Distillation & Optimization
 
@@ -242,6 +247,8 @@
 - **[Hermes Agent (NousResearch)](https://github.com/NousResearch/hermes-agent)** ![GitHub stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=social) - The agent that grows with you. Autonomous server-side agent with persistent memory that learns and improves over time.
 - **[Agno](https://github.com/agno-agi/agno)** ![GitHub stars](https://img.shields.io/github/stars/agno-agi/agno?style=social) - Build, run, and manage agentic software at scale. High-performance framework for multi-agent systems with memory, knowledge, and tools.
 - **[Pydantic AI](https://github.com/pydantic/pydantic-ai)** ![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social) - Python agent framework from the creators of Pydantic. Type-safe, structured outputs with dependency injection and streaming support.
+- **[Atomic Agents](https://github.com/BrainBlend-AI/atomic-agents)** ![GitHub stars](https://img.shields.io/github/stars/BrainBlend-AI/atomic-agents?style=social) - Build AI agents atomically with LEGO-like composable components. Built on Instructor and Pydantic for type-safe, modular agent construction.
+- **[Microsoft Agent Framework](https://github.com/microsoft/agent-framework)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/agent-framework?style=social) - Microsoft's framework for building, orchestrating and deploying AI agents with Python and .NET support.
 
 #### Multi-Agent Orchestration
 
@@ -253,6 +260,8 @@
 - **[Mastra](https://github.com/mastra-ai/mastra)** ![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social) - TypeScript-first agent framework with built-in RAG, workflows, tool integrations, observability and observational memory.
 - **[Deer-Flow (ByteDance)](https://github.com/bytedance/deer-flow)** ![GitHub stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social) - Open-source long-horizon SuperAgent harness that researches, codes, and creates. Handles tasks from minutes to hours with sandboxes, memories, tools, skills, subagents, and message gateway.
 - **[OpenAI Agents SDK](https://github.com/openai/openai-agents-python)** ![GitHub stars](https://img.shields.io/github/stars/openai/openai-agents-python?style=social) - Production-ready lightweight framework for multi-agent workflows. The evolution of Swarm with enhanced orchestration capabilities and enterprise-grade features.
+- **[Agency Swarm](https://github.com/VRSEN/agency-swarm)** ![GitHub stars](https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social) - Reliable multi-agent orchestration framework extending OpenAI Agents SDK. Features customizable agent roles and explicit communication flows.
+- **[Agent Squad](https://github.com/awslabs/agent-squad)** ![GitHub stars](https://img.shields.io/github/stars/awslabs/agent-squad?style=social) - AWS open-source framework for managing specialist agents with intent routing and multi-agent collaboration patterns.
 
 #### Autonomous Coding Agents
 
