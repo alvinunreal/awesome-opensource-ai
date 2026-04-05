@@ -142,6 +142,9 @@
 - **[Phi-4 (Microsoft)](https://github.com/microsoft/PhiCookBook)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/PhiCookBook?style=social) - Small but highly capable models optimized for reasoning, edge devices, and on-device inference. Includes Phi-4-reasoning variants with thinking capabilities.
 - **[GLM-5 (Zhipu AI)](https://github.com/zai-org/GLM-5)** ![GitHub stars](https://img.shields.io/github/stars/zai-org/GLM-5?style=social) - Strong open model line with solid coding, reasoning, and agentic-task performance.
 - **[OLMo 2 (Allen AI)](https://github.com/allenai/OLMo)** ![GitHub stars](https://img.shields.io/github/stars/allenai/OLMo?style=social) - Fully open-source LLMs (1B–32B) with complete transparency: models, data, training code, and logs. Designed by scientists, for scientists.
+- **[MiniMax-01 (MiniMax AI)](https://github.com/MiniMax-AI/MiniMax-01)** ![GitHub stars](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-01?style=social) - 456B parameter MoE model with Lightning Attention architecture. Supports up to 4M token context. Includes both MiniMax-Text-01 and MiniMax-VL-01 variants with state-of-the-art long-context performance.
+- **[MiniCPM4 / MiniCPM4.1 (OpenBMB)](https://github.com/OpenBMB/MiniCPM)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM?style=social) - Ultra-efficient edge LLMs with trainable sparse attention (InfLLM-V2). 3x+ generation speedup on reasoning tasks. First open-source reasoning LLM with hybrid reasoning mode toggle.
+- **[ChatLaw (PKU-YuanGroup)](https://github.com/PKU-YuanGroup/ChatLaw)** ![GitHub stars](https://img.shields.io/github/stars/PKU-YuanGroup/ChatLaw?style=social) - Legal domain-specific MoE LLM (4x7B) tailored for Chinese legal language processing. Outperforms GPT-4 on Lawbench and legal professional qualification exams with multi-agent collaborative architecture.
 - **[Llama 4 (Meta)](https://github.com/meta-llama/llama-models)** ![GitHub stars](https://img.shields.io/github/stars/meta-llama/llama-models?style=social) - First native multimodal MoE open-source models (Scout: 10M context, Maverick: 400B+ params). Released April 2025 with enterprise-grade capabilities.
 
 #### Coding & Reasoning Models
@@ -298,12 +301,14 @@
 - **[NornicDB](https://github.com/orneryd/NornicDB)** ![GitHub stars](https://img.shields.io/github/stars/orneryd/NornicDB?style=social) - Golang Low-latency graph + vector hybrid retrieval, Neo4j and qDrant driver compatible.
 - **[LanceDB](https://github.com/lancedb/lancedb)** ![GitHub stars](https://img.shields.io/github/stars/lancedb/lancedb?style=social) - Serverless vector DB optimized for multimodal data.
 - **[pgvector](https://github.com/pgvector/pgvector)** ![GitHub stars](https://img.shields.io/github/stars/pgvector/pgvector?style=social) - PostgreSQL extension for vector similarity search.
+- **[Tantivy](https://github.com/quickwit-oss/tantivy)** ![GitHub stars](https://img.shields.io/github/stars/quickwit-oss/tantivy?style=social) - Full-text search engine library inspired by Apache Lucene, written in Rust. High-performance BM25 and hybrid search.
 
 #### Embedding Models
 
 - **[BGE (FlagEmbedding)](https://github.com/FlagOpen/FlagEmbedding)** ![GitHub stars](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding?style=social) - BAAI's best-in-class embedding family.
 - **[E5 (Microsoft)](https://github.com/microsoft/unilm/tree/master/e5)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/unilm?style=social) - High-performance text embeddings for retrieval.
 - **[Nomic Embed](https://github.com/nomic-ai/nomic-embed)** ![GitHub stars](https://img.shields.io/github/stars/nomic-ai/nomic-embed?style=social) - Open embedding model with long-context support and reproducible training.
+- **[model2vec](https://github.com/MinishLab/model2vec)** ![GitHub stars](https://img.shields.io/github/stars/MinishLab/model2vec?style=social) - Fast state-of-the-art static embeddings. Converts sentence transformers into efficient static models with minimal performance loss.
 
 #### RAG Frameworks & Advanced Retrieval Tools
 
@@ -320,6 +325,9 @@
 - **[RAG-Anything](https://github.com/HKUDS/RAG-Anything)** ![GitHub stars](https://img.shields.io/github/stars/HKUDS/RAG-Anything?style=social) - All-in-One Multimodal RAG system for seamless processing of text, images, tables, and equations. Built on LightRAG.
 - **[txtai](https://github.com/neuml/txtai)** ![GitHub stars](https://img.shields.io/github/stars/neuml/txtai?style=social) - All-in-one AI framework for semantic search, LLM orchestration and language model workflows. Embeddings database with customizable pipelines.
 - **[Infinity](https://github.com/michaelfeil/infinity)** ![GitHub stars](https://img.shields.io/github/stars/michaelfeil/infinity?style=social) - High-throughput, low-latency serving engine for text-embeddings, reranking, CLIP, and ColPali. OpenAI-compatible API.
+- **[Graphiti](https://github.com/getzep/graphiti)** ![GitHub stars](https://img.shields.io/github/stars/getzep/graphiti?style=social) - Real-time temporal knowledge graphs for AI agents. Hybrid retrieval combining semantic, keyword (BM25), and graph traversal with bi-temporal fact tracking.
+- **[Mem0](https://github.com/mem0ai/mem0)** ![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social) - Memory layer for AI agents and assistants. Intelligent memory management that remembers user preferences and context across conversations.
+- **[GPTCache](https://github.com/zilliztech/GPTCache)** ![GitHub stars](https://img.shields.io/github/stars/zilliztech/GPTCache?style=social) - Semantic cache for LLMs. Reduces API costs and latency by caching similar queries with vector similarity matching. Integrates with LangChain and LlamaIndex.
 
 #### Web Data Ingestion
 
