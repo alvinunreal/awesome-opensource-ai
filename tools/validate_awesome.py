@@ -7,7 +7,6 @@ import datetime as dt
 import json
 import os
 import re
-import sys
 import unicodedata
 import urllib.error
 import urllib.request
@@ -24,6 +23,7 @@ ENTRY_RE = re.compile(
     r"\*\*\[(?P<label>[^\]]+)\]\((?P<url>https?://[^)]+)\)\*\*(?:\s+(?P<badge>!\[GitHub stars\]\(https://img\.shields\.io/github/stars/(?P<badge_repo>[^?)+]+)\?style=social\)))?"
 )
 SECTION_RE = re.compile(r"^###\s+(?P<title>.+)$")
+SUBSECTION_RE = re.compile(r"^####\s+(?P<title>.+)$")
 INLINE_ANCHOR_RE = re.compile(r'^<a\s+id="(?P<id>[^"]+)"\s*></a>$')
 TOC_LINK_RE = re.compile(r"^- \[(?P<label>[^\]]+)\]\(#(?P<anchor>[^)]+)\)$")
 GITHUB_REPO_URL_RE = re.compile(
@@ -63,6 +63,7 @@ class ParsedLink:
 class ParsedEntry:
     file: Path
     line_number: int
+    section: str | None
     raw: str
     description: str
     links: list[ParsedLink]
@@ -92,9 +93,20 @@ def read_lines(path: Path) -> list[str]:
 def parse_entries(path: Path) -> tuple[list[ParsedEntry], list[Problem]]:
     entries: list[ParsedEntry] = []
     problems: list[Problem] = []
+    current_section: str | None = None
 
     for line_number, line in enumerate(read_lines(path), start=1):
         stripped = line.strip()
+        section_match = SECTION_RE.match(stripped)
+        if section_match:
+            current_section = section_match.group("title")
+            continue
+
+        subsection_match = SUBSECTION_RE.match(stripped)
+        if subsection_match:
+            current_section = subsection_match.group("title")
+            continue
+
         if not stripped.startswith("- ") or "**[" not in stripped:
             continue
 
@@ -204,6 +216,7 @@ def parse_entries(path: Path) -> tuple[list[ParsedEntry], list[Problem]]:
             ParsedEntry(
                 file=path,
                 line_number=line_number,
+                section=current_section,
                 raw=line,
                 description=description.strip(),
                 links=parsed_links,
@@ -253,16 +266,19 @@ def validate_toc(path: Path) -> list[Problem]:
 
 def validate_duplicates(entries: list[ParsedEntry]) -> list[Problem]:
     problems: list[Problem] = []
-    repos: dict[str, list[ParsedEntry]] = defaultdict(list)
-    labels: dict[str, list[ParsedEntry]] = defaultdict(list)
+    repos: dict[tuple[str, str, str], list[ParsedEntry]] = defaultdict(list)
+    raws: dict[tuple[str, str, str], list[ParsedEntry]] = defaultdict(list)
 
     for entry in entries:
+        section = entry.section or "(unknown section)"
+        raws[(entry.file.name, section, entry.raw.strip())].append(entry)
         for link in entry.links:
-            labels[link.label.lower()].append(entry)
             if link.repo_ref:
-                repos[link.repo_ref.full_name.lower()].append(entry)
+                repos[
+                    (entry.file.name, section, link.repo_ref.full_name.lower())
+                ].append(entry)
 
-    for repo_name, repo_entries in sorted(repos.items()):
+    for (file_name, section, repo_name), repo_entries in sorted(repos.items()):
         if len(repo_entries) <= 1:
             continue
         refs = ", ".join(
@@ -272,25 +288,25 @@ def validate_duplicates(entries: list[ParsedEntry]) -> list[Problem]:
         problems.append(
             Problem(
                 "warning",
-                first.file.name,
+                file_name,
                 first.line_number,
-                f"repo `{repo_name}` appears multiple times ({refs})",
+                f"repo `{repo_name}` appears multiple times in `{section}` ({refs})",
             )
         )
 
-    for label, label_entries in sorted(labels.items()):
-        if len(label_entries) <= 1:
+    for (file_name, section, raw_line), raw_entries in sorted(raws.items()):
+        if len(raw_entries) <= 1:
             continue
         refs = ", ".join(
-            f"{entry.file.name}:{entry.line_number}" for entry in label_entries
+            f"{entry.file.name}:{entry.line_number}" for entry in raw_entries
         )
-        first = label_entries[0]
+        first = raw_entries[0]
         problems.append(
             Problem(
                 "warning",
-                first.file.name,
+                file_name,
                 first.line_number,
-                f"label `{label}` appears multiple times ({refs})",
+                f"identical entry appears multiple times in `{section}` ({refs})",
             )
         )
 

@@ -220,7 +220,6 @@
 - **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social) - SDK for building and orchestrating AI agents and workflows across multiple programming languages.
 - **[smolagents](https://github.com/huggingface/smolagents)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social) - Lightweight agent framework centered on tool use and code-executing workflows.
 - **[LangChain](https://github.com/langchain-ai/langchain)** ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social) - Foundational library for agents, chains, and memory.
-- **[smolagents (Hugging Face)](https://github.com/huggingface/smolagents)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social) - Minimalist agent library. Build agents in 3 lines of code with code-first action execution.
 - **[Hermes Agent (NousResearch)](https://github.com/NousResearch/hermes-agent)** ![GitHub stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=social) - The agent that grows with you. Autonomous server-side agent with persistent memory that learns and improves over time.
 - **[Agno](https://github.com/agno-agi/agno)** ![GitHub stars](https://img.shields.io/github/stars/agno-agi/agno?style=social) - Build, run, and manage agentic software at scale. High-performance framework for multi-agent systems with memory, knowledge, and tools.
 - **[Pydantic AI](https://github.com/pydantic/pydantic-ai)** ![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social) - Python agent framework from the creators of Pydantic. Type-safe, structured outputs with dependency injection and streaming support.
@@ -324,9 +323,7 @@
 - **[SkyReels V2/V3 (Skywork)](https://github.com/SkyworkAI/SkyReels-V2)** ![GitHub stars](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V2?style=social) - First open-source infinite-length film generative model using AutoRegressive Diffusion-Forcing.
 - **[Mochi 1 (Genmo)](https://github.com/genmoai/mochi)** ![GitHub stars](https://img.shields.io/github/stars/genmoai/mochi?style=social) - 10B-parameter open video model.
 - **[LTX-Video (Lightricks)](https://github.com/Lightricks/LTX-Video)** ![GitHub stars](https://img.shields.io/github/stars/Lightricks/LTX-Video?style=social) - Fast native 4K video generation.
-- **[Open-Sora 2.0 (HPC-AI Tech)](https://github.com/hpcaitech/Open-Sora)** ![GitHub stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social) - Fully open training + inference pipeline.
 - **[Stable Video Diffusion (Stability AI)](https://github.com/Stability-AI/generative-models)** ![GitHub stars](https://img.shields.io/github/stars/Stability-AI/generative-models?style=social) - Official image-to-video and text-to-video implementation within Stability AI's generative models repository.
-- **[AnimateDiff](https://github.com/guoyww/AnimateDiff)** ![GitHub stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social) - Motion module ecosystem.
 
 #### Audio / Music / Voice Generation
 
