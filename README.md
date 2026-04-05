@@ -197,6 +197,8 @@
 - **[llama-cpp-python](https://github.com/abetlen/llama-cpp-python)** ![GitHub stars](https://img.shields.io/github/stars/abetlen/llama-cpp-python?style=social) - Official Python bindings for llama.cpp.
 - **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** ![GitHub stars](https://img.shields.io/github/stars/LostRuins/koboldcpp?style=social) - User-friendly llama.cpp fork focused on role-playing and creative writing.
 - **[Potato OS](https://github.com/slomin/potato-os)** ![GitHub stars](https://img.shields.io/github/stars/slomin/potato-os?style=social) - Linux distribution for fully local AI inference on Raspberry Pi 5 and 4. Optimized for running open models at the edge.
+- **[PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)** ![GitHub stars](https://img.shields.io/github/stars/SJTU-IPADS/PowerInfer?style=social) - High-speed LLM inference engine leveraging activation locality. Achieves up to 22x faster inference on consumer GPUs through sparse activation patterns.
+- **[mllm](https://github.com/UbiquitousLearning/mllm)** ![GitHub stars](https://img.shields.io/github/stars/UbiquitousLearning/mllm?style=social) - Fast multimodal LLM inference engine optimized for mobile and edge devices. Supports Android, iOS, and embedded platforms with NPU/GPU acceleration.
 
 #### High-performance Serving & API Servers
 
@@ -212,6 +214,9 @@
 - **[mistral.rs](https://github.com/EricLBuehler/mistral.rs)** ![GitHub stars](https://img.shields.io/github/stars/EricLBuehler/mistral.rs?style=social) - Fast, flexible Rust-native LLM inference engine built on Candle. Supports text, vision, audio, image generation, and embeddings with hardware-aware auto-tuning.
 - **[KTransformers](https://github.com/kvcache-ai/ktransformers)** ![GitHub stars](https://img.shields.io/github/stars/kvcache-ai/ktransformers?style=social) - Flexible framework for heterogeneous CPU-GPU LLM inference and fine-tuning. Enables running large MoE models by offloading experts to CPU with BF16/FP8 precision support.
 - **[llamafile](https://github.com/mozilla-ai/llamafile)** ![GitHub stars](https://img.shields.io/github/stars/mozilla-ai/llamafile?style=social) - Mozilla's single-file distributable LLM solution. Bundle model weights, inference engine, and runtime into one portable executable that runs on six OSes without installation.
+- **[Xinference](https://github.com/xorbitsai/inference)** ![GitHub stars](https://img.shields.io/github/stars/xorbitsai/inference?style=social) - Universal inference server for LLMs, speech, and multimodal models. One command to deploy models locally or distributed with OpenAI-compatible API.
+- **[FlashInfer](https://github.com/flashinfer-ai/flashinfer)** ![GitHub stars](https://img.shields.io/github/stars/flashinfer-ai/flashinfer?style=social) - High-performance kernel library for LLM serving with state-of-the-art attention, GEMM, and MoE operations. Used by vLLM, SGLang, and MLC-LLM.
+- **[LightLLM](https://github.com/ModelTC/lightllm)** ![GitHub stars](https://img.shields.io/github/stars/ModelTC/lightllm?style=social) - Python-based LLM serving framework with lightweight design and easy scalability. Supports multiple attention backends and quantization methods.
 
 #### Quantization, Distillation & Optimization
 
