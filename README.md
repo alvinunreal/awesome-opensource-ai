@@ -247,6 +247,8 @@
 - **[Hermes Agent (NousResearch)](https://github.com/NousResearch/hermes-agent)** ![GitHub stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=social) - The agent that grows with you. Autonomous server-side agent with persistent memory that learns and improves over time.
 - **[Agno](https://github.com/agno-agi/agno)** ![GitHub stars](https://img.shields.io/github/stars/agno-agi/agno?style=social) - Build, run, and manage agentic software at scale. High-performance framework for multi-agent systems with memory, knowledge, and tools.
 - **[Pydantic AI](https://github.com/pydantic/pydantic-ai)** ![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social) - Python agent framework from the creators of Pydantic. Type-safe, structured outputs with dependency injection and streaming support.
+- **[Atomic Agents](https://github.com/BrainBlend-AI/atomic-agents)** ![GitHub stars](https://img.shields.io/github/stars/BrainBlend-AI/atomic-agents?style=social) - Build AI agents atomically with LEGO-like composable components. Built on Instructor and Pydantic for type-safe, modular agent construction.
+- **[Microsoft Agent Framework](https://github.com/microsoft/agent-framework)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/agent-framework?style=social) - Microsoft's framework for building, orchestrating and deploying AI agents with Python and .NET support.
 
 #### Multi-Agent Orchestration
 
@@ -258,6 +260,8 @@
 - **[Mastra](https://github.com/mastra-ai/mastra)** ![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social) - TypeScript-first agent framework with built-in RAG, workflows, tool integrations, observability and observational memory.
 - **[Deer-Flow (ByteDance)](https://github.com/bytedance/deer-flow)** ![GitHub stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social) - Open-source long-horizon SuperAgent harness that researches, codes, and creates. Handles tasks from minutes to hours with sandboxes, memories, tools, skills, subagents, and message gateway.
 - **[OpenAI Agents SDK](https://github.com/openai/openai-agents-python)** ![GitHub stars](https://img.shields.io/github/stars/openai/openai-agents-python?style=social) - Production-ready lightweight framework for multi-agent workflows. The evolution of Swarm with enhanced orchestration capabilities and enterprise-grade features.
+- **[Agency Swarm](https://github.com/VRSEN/agency-swarm)** ![GitHub stars](https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social) - Reliable multi-agent orchestration framework extending OpenAI Agents SDK. Features customizable agent roles and explicit communication flows.
+- **[Agent Squad](https://github.com/awslabs/agent-squad)** ![GitHub stars](https://img.shields.io/github/stars/awslabs/agent-squad?style=social) - AWS open-source framework for managing specialist agents with intent routing and multi-agent collaboration patterns.
 
 #### Autonomous Coding Agents
 
