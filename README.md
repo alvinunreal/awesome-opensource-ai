@@ -460,6 +460,10 @@
 
 > Tools for alignment, interpretability, safety evaluation, and adversarial testing.
 
+#### Safety Evaluation Frameworks
+
+- **[Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai)** ![GitHub stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=social) - Framework for large language model evaluations from the UK AI Safety Institute. Systematic capability and safety assessments with built-in scaffolding for multi-turn dialog, tool use, and adversarial testing. MIT licensed.
+
 #### Alignment & RLHF Tools
 
 - **[Safe-RLHF](https://github.com/PKU-Alignment/safe-rlhf)** ![GitHub stars](https://img.shields.io/github/stars/PKU-Alignment/safe-rlhf?style=social) - Safe reinforcement learning from human feedback.
