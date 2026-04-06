@@ -389,6 +389,7 @@
 - **[DVC (Data Version Control)](https://github.com/iterative/dvc)** ![GitHub stars](https://img.shields.io/github/stars/iterative/dvc?style=social) - Git-like versioning for data and models.
 - **[ClearML](https://github.com/clearml/clearml)** ![GitHub stars](https://img.shields.io/github/stars/clearml/clearml?style=social) - Open-source platform for experiment tracking, orchestration, data management, and model serving.
 - **[Weights & Biases Weave](https://github.com/wandb/weave)** ![GitHub stars](https://img.shields.io/github/stars/wandb/weave?style=social) - Open-source tracing and experiment tracking.
+- **[Feast](https://github.com/feast-dev/feast)** ![GitHub stars](https://img.shields.io/github/stars/feast-dev/feast?style=social) - Open source feature store for ML. Manages offline/online feature storage with point-in-time correctness to prevent data leakage. Apache 2.0 licensed.
 
 #### Deployment & Orchestration
 
@@ -397,6 +398,8 @@
 - **[ZenML](https://github.com/zenml-io/zenml)** ![GitHub stars](https://img.shields.io/github/stars/zenml-io/zenml?style=social) - Pipeline and orchestration framework for taking ML and LLM systems from development to production.
 - **[Kubeflow](https://github.com/kubeflow/kubeflow)** ![GitHub stars](https://img.shields.io/github/stars/kubeflow/kubeflow?style=social) - Kubernetes-native ML/LLM platform.
 - **[KServe](https://github.com/kserve/kserve)** ![GitHub stars](https://img.shields.io/github/stars/kserve/kserve?style=social) - Kubernetes-based model serving.
+- **[Metaflow](https://github.com/Netflix/metaflow)** ![GitHub stars](https://img.shields.io/github/stars/Netflix/metaflow?style=social) - Netflix's ML platform for building and managing real-world AI systems. Powers thousands of projects at Netflix, Amazon, and DoorDash. Apache 2.0 licensed.
+- **[Flyte](https://github.com/flyteorg/flyte)** ![GitHub stars](https://img.shields.io/github/stars/flyteorg/flyte?style=social) - Kubernetes-native workflow orchestration platform for AI/ML pipelines. Dynamic, resilient orchestration with strong type safety and reproducibility. Used by Lyft, Spotify, and Gojek. Apache 2.0 licensed.
 
 #### Monitoring, Evaluation & Observability
 
@@ -409,6 +412,8 @@
 - **[OpenLLMetry (Traceloop)](https://github.com/traceloop/openllmetry)** ![GitHub stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social) - Open-source observability for GenAI/LLM applications based on OpenTelemetry with 25+ integration backends.
 - **[Agenta](https://github.com/Agenta-AI/agenta)** ![GitHub stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=social) - Open-source LLMOps platform combining prompt playground, prompt management, LLM evaluation, and observability.
 - **[Helicone](https://github.com/helicone/helicone)** ![GitHub stars](https://img.shields.io/github/stars/helicone/helicone?style=social) - Open-source LLM observability with request logging, caching, rate limiting, and cost analytics.
+- **[Giskard](https://github.com/Giskard-AI/giskard-oss)** ![GitHub stars](https://img.shields.io/github/stars/Giskard-AI/giskard-oss?style=social) - Open-source evaluation and testing library for LLM agents. Red teaming, vulnerability scanning, RAG evaluation, and safety testing with modular architecture. Apache 2.0 licensed.
+- **[Portkey Gateway](https://github.com/Portkey-AI/gateway)** ![GitHub stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=social) - Blazing fast AI Gateway to route 200+ LLMs with unified API. Integrated guardrails, load balancing, fallbacks, and cost tracking. MIT licensed.
 
 #### Guardrails & Safety Tools
 
