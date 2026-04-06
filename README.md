@@ -603,11 +603,14 @@
 - **[Flowise](https://github.com/FlowiseAI/Flowise)** ![GitHub stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social) - Drag-and-drop LLM app builder.
 - **[LocalAI](https://github.com/mudler/LocalAI)** ![GitHub stars](https://img.shields.io/github/stars/mudler/LocalAI?style=social) - Open-source AI engine running LLMs, vision, voice, image, and video models on any hardware. Self-hosted OpenAI-compatible API. MIT licensed.
 - **[Onyx](https://github.com/onyx-dot-app/onyx)** ![GitHub stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social) - Full-featured AI platform with Chat, RAG, Agents, and Actions. 40+ document connectors and every LLM support. MIT licensed (Community Edition).
+- **[AI Chatbot Framework](https://github.com/alfredfrancis/ai-chatbot-framework)** ![GitHub stars](https://img.shields.io/github/stars/alfredfrancis/ai-chatbot-framework?style=social) - Open-source, self-hosted DIY chatbot building platform with visual conversation builder and NLU capabilities. MIT licensed.
 
 #### Desktop & Mobile AI Apps
 
 - **[Jan](https://github.com/janhq/jan)** ![GitHub stars](https://img.shields.io/github/stars/janhq/jan?style=social) - Local-first AI app framework.
 - **[SillyTavern](https://github.com/SillyTavern/SillyTavern)** ![GitHub stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social) - Highly customizable role-playing frontend.
+- **[Chatbox](https://github.com/chatboxai/chatbox)** ![GitHub stars](https://img.shields.io/github/stars/chatboxai/chatbox?style=social) - Powerful desktop AI client for ChatGPT, Claude, and other LLMs. Cross-platform with modern UI. GPLv3 licensed (Community Edition).
+- **[Maid](https://github.com/Mobile-Artificial-Intelligence/maid)** ![GitHub stars](https://img.shields.io/github/stars/Mobile-Artificial-Intelligence/maid?style=social) - Free and open-source Android app for interfacing with llama.cpp models locally and remote APIs (Anthropic, DeepSeek, Mistral, Ollama, OpenAI). MIT licensed.
 
 #### Agent & Voice Infrastructure
 
