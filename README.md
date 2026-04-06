@@ -331,6 +331,7 @@
 - **[Mochi 1 (Genmo)](https://github.com/genmoai/mochi)** ![GitHub stars](https://img.shields.io/github/stars/genmoai/mochi?style=social) - 10B-parameter open video model.
 - **[LTX-Video (Lightricks)](https://github.com/Lightricks/LTX-Video)** ![GitHub stars](https://img.shields.io/github/stars/Lightricks/LTX-Video?style=social) - Fast native 4K video generation.
 - **[Stable Video Diffusion (Stability AI)](https://github.com/Stability-AI/generative-models)** ![GitHub stars](https://img.shields.io/github/stars/Stability-AI/generative-models?style=social) - Official image-to-video and text-to-video implementation within Stability AI's generative models repository.
+- **[Helios (PKU-YuanGroup)](https://github.com/PKU-YuanGroup/Helios)** ![GitHub stars](https://img.shields.io/github/stars/PKU-YuanGroup/Helios?style=social) - Efficient long-video generation framework with 24GB VRAM support for up to 10,000 frames (5+ minutes) and 1280×768 resolution. Apache 2.0 licensed.
 
 #### Audio / Music / Voice Generation
 
@@ -346,6 +347,7 @@
 - **[Hunyuan3D-2 (Tencent)](https://github.com/Tencent-Hunyuan/Hunyuan3D-2)** ![GitHub stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-2?style=social) - State-of-the-art open image-to-3D and text-to-3D.
 - **[Trellis (Microsoft)](https://github.com/microsoft/TRELLIS)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/TRELLIS?style=social) - Structured 3D latents for high-quality generation.
 - **[gsplat (3D Gaussian Splatting tools)](https://github.com/nerfstudio-project/gsplat)** ![GitHub stars](https://img.shields.io/github/stars/nerfstudio-project/gsplat?style=social) - High-performance 3D Gaussian Splatting library.
+- **[LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio)** ![GitHub stars](https://img.shields.io/github/stars/MrNeRF/LichtFeld-Studio?style=social) - Native application for training, editing, and exporting 3D Gaussian Splatting scenes with MCMC optimization and timelapse generation. GPL-3.0 licensed.
 
 ---
 
