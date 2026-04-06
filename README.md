@@ -92,6 +92,10 @@
 - **[NumPy](https://github.com/numpy/numpy)** ![GitHub stars](https://img.shields.io/github/stars/numpy/numpy?style=social) - Fundamental array computing library that powers almost every AI stack.
 - **[SciPy](https://github.com/scipy/scipy)** ![GitHub stars](https://img.shields.io/github/stars/scipy/scipy?style=social) - Scientific computing algorithms (optimization, linear algebra, statistics, signal processing).
 - **[NetworkX](https://github.com/networkx/networkx)** ![GitHub stars](https://img.shields.io/github/stars/networkx/networkx?style=social) - Creation, manipulation, and study of complex networks. The foundational graph analysis library for Python data science.
+- **[cuGraph](https://github.com/rapidsai/cugraph)** ![GitHub stars](https://img.shields.io/github/stars/rapidsai/cugraph?style=social) - GPU graph analytics library with NetworkX-compatible API. 10-100x faster than CPU for large-scale graph algorithms. Apache 2.0 licensed.
+- **[Vaex](https://github.com/vaexio/vaex)** ![GitHub stars](https://img.shields.io/github/stars/vaexio/vaex?style=social) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python. Visualize and explore billion-row datasets at millions of rows per second. MIT licensed.
+- **[Datashader](https://github.com/holoviz/datashader)** ![GitHub stars](https://img.shields.io/github/stars/holoviz/datashader?style=social) - High-performance large data visualization. Renders billions of points interactively without aggregation artifacts. BSD-3-Clause licensed.
+- **[Zarr](https://github.com/zarr-developers/zarr-python)** ![GitHub stars](https://img.shields.io/github/stars/zarr-developers/zarr-python?style=social) - Chunked, compressed, N-dimensional array storage. Scalable tensor data format optimized for cloud and parallel computing. MIT licensed.
 
 #### Classical ML & Gradient Boosting
 
@@ -101,6 +105,7 @@
 - **[CatBoost](https://github.com/catboost/catboost)** ![GitHub stars](https://img.shields.io/github/stars/catboost/catboost?style=social) - Gradient boosting that handles categorical features natively with great out-of-the-box performance.
 - **[sktime](https://github.com/sktime/sktime)** ![GitHub stars](https://img.shields.io/github/stars/sktime/sktime?style=social) - Unified framework for machine learning with time series. Scikit-learn compatible API for forecasting, classification, clustering, and anomaly detection.
 - **[StatsForecast](https://github.com/Nixtla/statsforecast)** ![GitHub stars](https://img.shields.io/github/stars/Nixtla/statsforecast?style=social) - Lightning-fast statistical forecasting with ARIMA, ETS, CES, and Theta models. Optimized for high-performance time series workloads.
+- **[cuML](https://github.com/rapidsai/cuml)** ![GitHub stars](https://img.shields.io/github/stars/rapidsai/cuml?style=social) - GPU-accelerated machine learning algorithms with scikit-learn compatible API. 10-50x faster than CPU implementations for large datasets. Apache 2.0 licensed.
 
 #### AutoML & Hyperparameter Optimization
 
