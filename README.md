@@ -368,10 +368,14 @@
 
 - **[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** ![GitHub stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social) - One-stop unified framework for SFT, DPO, ORPO, KTO with web UI.
 - **[Axolotl](https://github.com/axolotl-ai-cloud/axolotl)** ![GitHub stars](https://img.shields.io/github/stars/axolotl-ai-cloud/axolotl?style=social) - YAML-driven full pipeline for SFT, DPO, GRPO.
+- **[ms-swift](https://github.com/modelscope/ms-swift)** ![GitHub stars](https://img.shields.io/github/stars/modelscope/ms-swift?style=social) - Unified training framework for 600+ LLMs and 300+ MLLMs with CPT/SFT/DPO/GRPO (AAAI 2025).
 - **[Unsloth](https://github.com/unslothai/unsloth)** ![GitHub stars](https://img.shields.io/github/stars/unslothai/unsloth?style=social) - 2× faster, 70% less memory fine-tuning.
 - **[LitGPT](https://github.com/Lightning-AI/litgpt)** ![GitHub stars](https://img.shields.io/github/stars/Lightning-AI/litgpt?style=social) - Clean from-scratch implementations of 20+ LLMs.
+- **[LLM Foundry](https://github.com/mosaicml/llm-foundry)** ![GitHub stars](https://img.shields.io/github/stars/mosaicml/llm-foundry?style=social) - Databricks' training framework for composable LLM training with StreamingDataset and Composer.
 - **[torchtune](https://github.com/pytorch/torchtune)** ![GitHub stars](https://img.shields.io/github/stars/pytorch/torchtune?style=social) - PyTorch-native library for post-training, fine-tuning, and experimentation with LLMs.
 - **[TRL (Transformers Reinforcement Learning)](https://github.com/huggingface/trl)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/trl?style=social) - Official library for RLHF, SFT, DPO, ORPO.
+- **[verl](https://github.com/volcengine/verl)** ![GitHub stars](https://img.shields.io/github/stars/volcengine/verl?style=social) - Volcano Engine Reinforcement Learning for LLMs with PPO, GRPO, REINFORCE++, DAPO (EuroSys 2025).
+- **[NeMo-RL](https://github.com/NVIDIA-NeMo/RL)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA-NeMo/RL?style=social) - Scalable toolkit for efficient model reinforcement with DTensor and Megatron backends.
 
 #### LoRA / PEFT Tools
 
@@ -391,6 +395,7 @@
 - **[DeepSpeed](https://github.com/deepspeedai/DeepSpeed)** ![GitHub stars](https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=social) - Extreme-scale training optimizations.
 - **[Colossal-AI](https://github.com/hpcaitech/ColossalAI)** ![GitHub stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social) - Unified system for 100B+ models.
 - **[Megatron-LM](https://github.com/NVIDIA/Megatron-LM)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM?style=social) - Distributed training framework and reference codebase for large transformer models at scale.
+- **[Composer](https://github.com/mosaicml/composer)** ![GitHub stars](https://img.shields.io/github/stars/mosaicml/composer?style=social) - MosaicML's PyTorch library for scalable, efficient neural network training with algorithmic speedups.
 - **[Ray Train](https://github.com/ray-project/ray)** ![GitHub stars](https://img.shields.io/github/stars/ray-project/ray?style=social) - Scalable distributed training.
 
 ---
@@ -450,6 +455,7 @@
 - **[OpenCompass](https://github.com/open-compass/opencompass)** ![GitHub stars](https://img.shields.io/github/stars/open-compass/opencompass?style=social) - Evaluation platform for benchmarking language and multimodal models across large benchmark suites.
 - **[MLPerf Inference](https://github.com/mlcommons/inference)** ![GitHub stars](https://img.shields.io/github/stars/mlcommons/inference?style=social) - Industry-standard ML inference benchmarks with reference implementations for AI accelerators.
 - **[SWE-rebench (Nebius)](https://huggingface.co/datasets/nebius/SWE-rebench)** - Continuously updated benchmark with 21,000+ real-world SWE tasks for evaluating agentic LLMs. Decontaminated, mined from GitHub.
+- **[AgentBench (THUDM)](https://github.com/THUDM/AgentBench)** ![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social) - Comprehensive benchmark to evaluate LLMs as agents across 8 diverse environments including household, web shopping, OS interaction, and database tasks. ICLR 2024. Apache 2.0 licensed.
 
 #### Evaluation Frameworks
 
@@ -458,6 +464,7 @@
 - **[RAGAs](https://github.com/explodinggradients/ragas)** ![GitHub stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social) - End-to-end RAG evaluation framework.
 - **[Lighteval](https://github.com/huggingface/lighteval)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/lighteval?style=social) - Evaluation toolkit for LLMs across multiple backends with reusable tasks, metrics, and result tracking.
 - **[Hugging Face Evaluate](https://github.com/huggingface/evaluate)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/evaluate?style=social) - Standardized evaluation metrics.
+- **[OpenAI Evals](https://github.com/openai/evals)** ![GitHub stars](https://img.shields.io/github/stars/openai/evals?style=social) - Framework for evaluating LLMs and LLM systems with an open-source registry of 100+ community-contributed benchmarks. MIT licensed.
 
 #### High-quality Open Datasets & Data Tools
 
