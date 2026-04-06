@@ -68,6 +68,7 @@
 > Fresh agent frameworks, memory systems, and autonomous workflow tools.
 
 - **[Forgetful](https://github.com/ScottRBK/forgetful)** ![GitHub stars](https://img.shields.io/github/stars/ScottRBK/forgetful?style=social) - MCP server for persistent AI agent memory. Stores atomic single-concept notes and auto-links them into a knowledge graph via semantic similarity. SQLite or PostgreSQL.
+- **[Global Chat](https://github.com/pumanitro/global-chat)** ![GitHub stars](https://img.shields.io/github/stars/pumanitro/global-chat?style=social) - Protocol-agnostic AI agent discovery directory aggregating 100K+ agents across MCP, A2A, agents.txt, ACDP, and 9+ other registries. Includes a free agents.txt validator and an MCP server for programmatic access.
 
 ---
 
