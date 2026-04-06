@@ -545,6 +545,7 @@
 #### Medical Imaging & Healthcare AI
 
 - **[MONAI](https://github.com/Project-MONAI/MONAI)** ![GitHub stars](https://img.shields.io/github/stars/Project-MONAI/MONAI?style=social) - Medical Open Network for AI. End-to-end framework for healthcare imaging with state-of-the-art, production-ready training workflows. Apache 2.0 licensed.
+- **[nnU-Net](https://github.com/MIC-DKFZ/nnUNet)** ![GitHub stars](https://img.shields.io/github/stars/MIC-DKFZ/nnUNet?style=social) - Self-configuring deep learning method for medical image segmentation. Automatically adapts to any dataset without manual parameter tuning. Widely adopted as the standard baseline for biomedical segmentation challenges. Apache 2.0 licensed.
 
 #### Game AI & Simulations
 
