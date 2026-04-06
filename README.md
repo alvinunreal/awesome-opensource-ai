@@ -226,7 +226,8 @@
 - **[smolagents (Hugging Face)](https://github.com/huggingface/smolagents)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social) - Minimalist agent library. Build agents in 3 lines of code with code-first action execution.
 - **[Hermes Agent (NousResearch)](https://github.com/NousResearch/hermes-agent)** ![GitHub stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=social) - The agent that grows with you. Autonomous server-side agent with persistent memory that learns and improves over time.
 - **[Agno](https://github.com/agno-agi/agno)** ![GitHub stars](https://img.shields.io/github/stars/agno-agi/agno?style=social) - Build, run, and manage agentic software at scale. High-performance framework for multi-agent systems with memory, knowledge, and tools.
-- **[Pydantic AI](https://github.com/pydantic/pydantic-ai)** ![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social) - Python agent framework from the creators of Pydantic. Type-safe, structured outputs with dependency injection and streaming support.
+- **[Upsonic](https://github.com/Upsonic/Upsonic)** ![GitHub stars](https://img.shields.io/github/stars/Upsonic/Upsonic?style=social) - Agent framework for fintech and banking with built-in MCP support, guardrails, and tool server architecture.
+- **[VoltAgent](https://github.com/VoltAgent/voltagent)** ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/voltagent?style=social) - TypeScript-first AI agent engineering platform with memory, RAG, workflows, MCP integration, and voice support.
 
 #### Multi-Agent Orchestration
 
@@ -237,6 +238,9 @@
 - **[Mastra](https://github.com/mastra-ai/mastra)** ![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social) - TypeScript-first agent framework with built-in RAG, workflows, tool integrations, observability and observational memory.
 - **[Deer-Flow (ByteDance)](https://github.com/bytedance/deer-flow)** ![GitHub stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social) - Open-source long-horizon SuperAgent harness that researches, codes, and creates. Handles tasks from minutes to hours with sandboxes, memories, tools, skills, subagents, and message gateway.
 - **[OpenAI Agents SDK](https://github.com/openai/openai-agents-python)** ![GitHub stars](https://img.shields.io/github/stars/openai/openai-agents-python?style=social) - Production-ready lightweight framework for multi-agent workflows. The evolution of Swarm with enhanced orchestration capabilities and enterprise-grade features.
+- **[AgentScope](https://github.com/agentscope-ai/agentscope)** ![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=social) - Alibaba's production-ready multi-agent framework with 23K+ stars. Features built-in MCP and A2A support, message hub for flexible orchestration, and AgentScope Runtime for production deployment.
+- **[Microsoft Agent Framework](https://github.com/microsoft/agent-framework)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/agent-framework?style=social) - Microsoft's official framework combining AutoGen's agent abstractions with Semantic Kernel's enterprise features. Supports Python and .NET with graph-based workflows.
+- **[Agency Swarm](https://github.com/VRSEN/agency-swarm)** ![GitHub stars](https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social) - Reliable multi-agent orchestration framework built on top of the OpenAI Assistants API with organizational structure modeling.
 
 #### Autonomous Coding Agents
 
