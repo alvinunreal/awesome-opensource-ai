@@ -667,6 +667,7 @@
 - **[LLM (Simon Willison)](https://github.com/simonw/llm)** ![GitHub stars](https://img.shields.io/github/stars/simonw/llm?style=social) - CLI tool and Python library for interacting with dozens of LLMs via remote APIs or locally. Extensible plugin ecosystem, SQLite logging. Apache 2.0 licensed.
 - **[AIChat](https://github.com/sigoden/aichat)** ![GitHub stars](https://img.shields.io/github/stars/sigoden/aichat?style=social) - All-in-one LLM CLI in Rust featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents. Supports 20+ providers. MIT/Apache 2.0 licensed.
 - **[Codex CLI](https://github.com/openai/codex)** ![GitHub stars](https://img.shields.io/github/stars/openai/codex?style=social) - OpenAI's lightweight coding agent that runs in your terminal. Code generation, file editing, and command execution with approval. Apache 2.0 licensed.
+- **[Repomix](https://github.com/yamadashy/repomix)** ![GitHub stars](https://img.shields.io/github/stars/yamadashy/repomix?style=social) - Powerful tool that packs your entire repository into a single AI-friendly file. Perfect for feeding codebases to LLMs with smart filtering and token counting. MIT licensed.
 
 #### Testing & Debugging Tools
 
