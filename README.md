@@ -400,6 +400,7 @@
 - **[TRL (Transformers Reinforcement Learning)](https://github.com/huggingface/trl)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/trl?style=social) - Official library for RLHF, SFT, DPO, ORPO.
 - **[verl](https://github.com/volcengine/verl)** ![GitHub stars](https://img.shields.io/github/stars/volcengine/verl?style=social) - Volcano Engine Reinforcement Learning for LLMs with PPO, GRPO, REINFORCE++, DAPO (EuroSys 2025).
 - **[NeMo-RL](https://github.com/NVIDIA-NeMo/RL)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA-NeMo/RL?style=social) - Scalable toolkit for efficient model reinforcement with DTensor and Megatron backends.
+- **[OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)** ![GitHub stars](https://img.shields.io/github/stars/OpenRLHF/OpenRLHF?style=social) - High-performance distributed RLHF framework based on Ray with PPO, DAPO, REINFORCE++ and async RL support.
 
 #### LoRA / PEFT Tools
 
