@@ -693,6 +693,9 @@
 #### Courses & Interactive Playgrounds
 
 - **[Hugging Face Course](https://huggingface.co/learn)** - Free hands-on courses using only open models.
+- **[ML For Beginners (Microsoft)](https://github.com/microsoft/ML-For-Beginners)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/ML-For-Beginners?style=social) - 12-week, 26-lesson, 52-quiz classic machine learning course for beginners. Comprehensive curriculum covering regression, classification, clustering, and NLP with practical projects.
+- **[LLM Course (Maxime Labonne)](https://github.com/mlabonne/llm-course)** ![GitHub stars](https://img.shields.io/github/stars/mlabonne/llm-course?style=social) - End-to-end course for getting into Large Language Models with roadmaps and Colab notebooks. Covers pre-training, fine-tuning, RLHF, quantization, and prompt engineering.
+- **[AI For Beginners (Microsoft)](https://github.com/microsoft/AI-For-Beginners)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/AI-For-Beginners?style=social) - 12-week, 24-lesson curriculum on Artificial Intelligence. Covers symbolic AI, neural networks, computer vision, NLP, and reinforcement learning with hands-on labs.
 - **[Fast.ai](https://github.com/fastai/fastai)** ![GitHub stars](https://img.shields.io/github/stars/fastai/fastai?style=social) - Legendary practical deep learning course.
 - **[LangChain Academy](https://academy.langchain.com)** - Free courses on agents and RAG.
 
