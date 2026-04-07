@@ -633,6 +633,7 @@
 
 #### Agent & Voice Infrastructure
 
+- **[LiveKit Agents](https://github.com/livekit/agents)** ![GitHub stars](https://img.shields.io/github/stars/livekit/agents?style=social) - Framework for building realtime voice AI agents with WebRTC transport, STT-LLM-TTS pipelines, and production-grade orchestration. Used by Salesforce Agentforce and Tesla. Apache-2.0 licensed.
 - **[Pipecat](https://github.com/pipecat-ai/pipecat)** ![GitHub stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social) - Open-source framework for voice and multimodal conversational AI. Build real-time voice agents with support for speech-to-text, LLMs, text-to-speech, and live video. BSD-2-Clause licensed.
 - **[Agent Chat UI](https://github.com/langchain-ai/agent-chat-ui)** ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/agent-chat-ui?style=social) - Web app for interacting with any LangGraph agent (Python & TypeScript) via a chat interface. Stream messages, handle interruptions, and view agent state. MIT licensed.
 
