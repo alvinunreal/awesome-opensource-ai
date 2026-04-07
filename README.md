@@ -532,6 +532,7 @@
 - **[Captum](https://github.com/pytorch/captum)** ![GitHub stars](https://img.shields.io/github/stars/pytorch/captum?style=social) - PyTorch's official interpretability library.
 - **[SHAP](https://github.com/shap/shap)** ![GitHub stars](https://img.shields.io/github/stars/shap/shap?style=social) - Game theoretic approach to explain the output of any machine learning model. Industry standard for model interpretability.
 - **[XAI](https://github.com/EthicalML/xai)** ![GitHub stars](https://img.shields.io/github/stars/EthicalML/xai?style=social) - eXplainability toolbox for machine learning with bias evaluation and production monitoring tools.
+- **[EasyEdit](https://github.com/zjunlp/EasyEdit)** ![GitHub stars](https://img.shields.io/github/stars/zjunlp/EasyEdit?style=social) - Easy-to-use knowledge editing framework for LLMs. Enables precise modification of model knowledge and behavior to correct hallucinations or outdated information. ACL 2024. MIT licensed.
 
 #### Fairness & Bias Mitigation
 
