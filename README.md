@@ -295,6 +295,7 @@
 - **[Quickwit](https://github.com/quickwit-oss/quickwit)** ![GitHub stars](https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social) - Cloud-native search engine for observability. Open-source alternative to Datadog, Elasticsearch, Loki, and Tempo with native vector search support.
 - **[Tantivy](https://github.com/quickwit-oss/tantivy)** ![GitHub stars](https://img.shields.io/github/stars/quickwit-oss/tantivy?style=social) - Full-text search engine library inspired by Apache Lucene and written in Rust. Powers Quickwit and other production search systems.
 - **[Manticore Search](https://github.com/manticoresoftware/manticoresearch)** ![GitHub stars](https://img.shields.io/github/stars/manticoresoftware/manticoresearch?style=social) - Easy to use open source fast database for search. Good alternative to Elasticsearch with SQL-like interface and vector search capabilities.
+- **[OpenSearch](https://github.com/opensearch-project/OpenSearch)** ![GitHub stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social) - Open-source distributed and RESTful search and analytics suite with native vector search. Enterprise-grade fork of Elasticsearch with k-NN plugin for semantic search at scale.
 
 #### Embedding Models
 
