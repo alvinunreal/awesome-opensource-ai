@@ -248,6 +248,7 @@
 - **[AgentScope](https://github.com/agentscope-ai/agentscope)** ![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=social) - Alibaba's production-ready multi-agent framework with 23K+ stars. Features built-in MCP and A2A support, message hub for flexible orchestration, and AgentScope Runtime for production deployment.
 - **[Microsoft Agent Framework](https://github.com/microsoft/agent-framework)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/agent-framework?style=social) - Microsoft's official framework combining AutoGen's agent abstractions with Semantic Kernel's enterprise features. Supports Python and .NET with graph-based workflows.
 - **[Agency Swarm](https://github.com/VRSEN/agency-swarm)** ![GitHub stars](https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social) - Reliable multi-agent orchestration framework built on top of the OpenAI Assistants API with organizational structure modeling.
+- **[elizaOS](https://github.com/elizaOS/eliza)** ![GitHub stars](https://img.shields.io/github/stars/elizaOS/eliza?style=social) - Autonomous multi-agent framework for building and deploying AI-powered applications. Features Discord/Telegram/Farcaster connectors, RAG support, and a modern web dashboard.
 
 #### Autonomous Coding Agents
 
@@ -268,6 +269,7 @@
 - **[AI-Scientist-v2 (SakanaAI)](https://github.com/SakanaAI/AI-Scientist-v2)** ![GitHub stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2?style=social) - Workshop-level automated scientific discovery via agentic tree search. Generates novel research ideas, runs experiments, and writes papers.
 - **[PraisonAI](https://github.com/MervinPraison/PraisonAI)** ![GitHub stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social) - 24/7 AI employee team for automating complex challenges. Low-code multi-agent framework with handoffs, guardrails, memory, RAG, and 100+ LLM providers.
 - **[Agent-S (Simular AI)](https://github.com/simular-ai/Agent-S)** ![GitHub stars](https://img.shields.io/github/stars/simular-ai/Agent-S?style=social) - Open agentic framework that uses computers like a human. SOTA on OSWorld benchmark (72.6%) for GUI automation and computer control.
+- **[Browser Use](https://github.com/browser-use/browser-use)** ![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social) - Makes websites accessible for AI agents. Enables autonomous web automation, data extraction, and task completion with natural language instructions. MIT licensed.
 
 #### Agent Memory & State
 
