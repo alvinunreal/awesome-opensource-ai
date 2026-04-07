@@ -79,6 +79,7 @@
 
 #### NLP & Transformers
 
+- **[spaCy (Explosion AI)](https://github.com/explosion/spaCy)** ![GitHub stars](https://img.shields.io/github/stars/explosion/spaCy?style=social) - Industrial-strength natural language processing with 75+ languages, transformer pipelines, and production-grade NER, parsing, and text classification.
 - **[Transformers (Hugging Face)](https://github.com/huggingface/transformers)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/transformers?style=social) - The de facto standard library for pretrained NLP models. 1M+ models, 250,000+ downloads/day. BERT, GPT, Llama, Qwen, and hundreds more.
 - **[sentence-transformers](https://github.com/UKPLab/sentence-transformers)** ![GitHub stars](https://img.shields.io/github/stars/UKPLab/sentence-transformers?style=social) - Classic library for sentence and image embeddings.
 - **[tokenizers (Hugging Face)](https://github.com/huggingface/tokenizers)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/tokenizers?style=social) - Fast state-of-the-art tokenizers for training and inference.
