@@ -340,6 +340,7 @@
 - **[Diffusers](https://github.com/huggingface/diffusers)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/diffusers?style=social) - PyTorch library for diffusion pipelines spanning image, video, and audio generation.
 - **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** ![GitHub stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=social) - Full-featured creative studio.
 - **[PowerPaint (OpenMMLab)](https://github.com/open-mmlab/PowerPaint)** ![GitHub stars](https://img.shields.io/github/stars/open-mmlab/PowerPaint?style=social) - Versatile image inpainting model supporting text-guided inpainting, object removal, and outpainting (ECCV 2024).
+- **[SD.Next](https://github.com/vladmandic/sdnext)** ![GitHub stars](https://img.shields.io/github/stars/vladmandic/sdnext?style=social) - All-in-one WebUI for AI generative image and video creation with multi-platform support, SDNQ quantization, and balanced CPU/GPU memory offload.
 
 #### Video Generation
 
