@@ -75,6 +75,7 @@
 #### Julia ML Frameworks
 
 - **[Flux.jl](https://github.com/FluxML/Flux.jl)** ![GitHub stars](https://img.shields.io/github/stars/FluxML/Flux.jl?style=social) - 100% pure-Julia ML stack with lightweight abstractions on top of native GPU and AD support. Elegant, hackable, and fully integrated with Julia's scientific computing ecosystem.
+- **[MLJ.jl](https://github.com/JuliaAI/MLJ.jl)** ![GitHub stars](https://img.shields.io/github/stars/JuliaAI/MLJ.jl?style=social) - Comprehensive Julia machine learning framework providing a unified interface to 200+ models with meta-algorithms for selection, tuning, and evaluation. MIT licensed.
 
 #### NLP & Transformers
 
@@ -96,6 +97,8 @@
 - **[Vaex](https://github.com/vaexio/vaex)** ![GitHub stars](https://img.shields.io/github/stars/vaexio/vaex?style=social) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python. Visualize and explore billion-row datasets at millions of rows per second. MIT licensed.
 - **[Datashader](https://github.com/holoviz/datashader)** ![GitHub stars](https://img.shields.io/github/stars/holoviz/datashader?style=social) - High-performance large data visualization. Renders billions of points interactively without aggregation artifacts. BSD-3-Clause licensed.
 - **[Zarr](https://github.com/zarr-developers/zarr-python)** ![GitHub stars](https://img.shields.io/github/stars/zarr-developers/zarr-python?style=social) - Chunked, compressed, N-dimensional array storage. Scalable tensor data format optimized for cloud and parallel computing. MIT licensed.
+- **[NVIDIA DALI](https://github.com/NVIDIA/DALI)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/DALI?style=social) - GPU-accelerated data loading and augmentation library with highly optimized building blocks for deep learning applications. Apache 2.0 licensed.
+- **[Narwhals](https://github.com/narwhals-dev/narwhals)** ![GitHub stars](https://img.shields.io/github/stars/narwhals-dev/narwhals?style=social) - Lightweight compatibility layer between DataFrame libraries. Write Polars-like code that works seamlessly across pandas, Polars, cuDF, Modin, and more. MIT licensed.
 
 #### Classical ML & Gradient Boosting
 
@@ -106,6 +109,7 @@
 - **[sktime](https://github.com/sktime/sktime)** ![GitHub stars](https://img.shields.io/github/stars/sktime/sktime?style=social) - Unified framework for machine learning with time series. Scikit-learn compatible API for forecasting, classification, clustering, and anomaly detection.
 - **[StatsForecast](https://github.com/Nixtla/statsforecast)** ![GitHub stars](https://img.shields.io/github/stars/Nixtla/statsforecast?style=social) - Lightning-fast statistical forecasting with ARIMA, ETS, CES, and Theta models. Optimized for high-performance time series workloads.
 - **[cuML](https://github.com/rapidsai/cuml)** ![GitHub stars](https://img.shields.io/github/stars/rapidsai/cuml?style=social) - GPU-accelerated machine learning algorithms with scikit-learn compatible API. 10-50x faster than CPU implementations for large datasets. Apache 2.0 licensed.
+- **[SynapseML](https://github.com/microsoft/SynapseML)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/SynapseML?style=social) - Distributed machine learning on Apache Spark. Scalable, composable APIs for text analytics, vision, anomaly detection with seamless Python/Scala/R/.NET integration. MIT licensed.
 
 #### AutoML & Hyperparameter Optimization
 
