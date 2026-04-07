@@ -447,6 +447,7 @@
 - **[ZenML](https://github.com/zenml-io/zenml)** ![GitHub stars](https://img.shields.io/github/stars/zenml-io/zenml?style=social) - Pipeline and orchestration framework for taking ML and LLM systems from development to production.
 - **[Kubeflow](https://github.com/kubeflow/kubeflow)** ![GitHub stars](https://img.shields.io/github/stars/kubeflow/kubeflow?style=social) - Kubernetes-native ML/LLM platform.
 - **[KServe](https://github.com/kserve/kserve)** ![GitHub stars](https://img.shields.io/github/stars/kserve/kserve?style=social) - Kubernetes-based model serving.
+- **[Seldon Core](https://github.com/SeldonIO/seldon-core)** ![GitHub stars](https://img.shields.io/github/stars/SeldonIO/seldon-core?style=social) - MLOps and LLMOps framework for deploying, managing and scaling AI systems in Kubernetes. Standardized deployment across model types with autoscaling, multi-model serving, and A/B experiments.
 - **[Metaflow](https://github.com/Netflix/metaflow)** ![GitHub stars](https://img.shields.io/github/stars/Netflix/metaflow?style=social) - Netflix's ML platform for building and managing real-world AI systems. Powers thousands of projects at Netflix, Amazon, and DoorDash. Apache 2.0 licensed.
 - **[Flyte](https://github.com/flyteorg/flyte)** ![GitHub stars](https://img.shields.io/github/stars/flyteorg/flyte?style=social) - Kubernetes-native workflow orchestration platform for AI/ML pipelines. Dynamic, resilient orchestration with strong type safety and reproducibility. Used by Lyft, Spotify, and Gojek. Apache 2.0 licensed.
 
@@ -463,6 +464,7 @@
 - **[Helicone](https://github.com/helicone/helicone)** ![GitHub stars](https://img.shields.io/github/stars/helicone/helicone?style=social) - Open-source LLM observability with request logging, caching, rate limiting, and cost analytics.
 - **[Giskard](https://github.com/Giskard-AI/giskard-oss)** ![GitHub stars](https://img.shields.io/github/stars/Giskard-AI/giskard-oss?style=social) - Open-source evaluation and testing library for LLM agents. Red teaming, vulnerability scanning, RAG evaluation, and safety testing with modular architecture. Apache 2.0 licensed.
 - **[Portkey Gateway](https://github.com/Portkey-AI/gateway)** ![GitHub stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=social) - Blazing fast AI Gateway to route 200+ LLMs with unified API. Integrated guardrails, load balancing, fallbacks, and cost tracking. MIT licensed.
+- **[TensorZero](https://github.com/tensorzero/tensorzero)** ![GitHub stars](https://img.shields.io/github/stars/tensorzero/tensorzero?style=social) - Open-source LLMOps platform unifying LLM gateway, observability, evaluation, and experimentation. Production-grade with sub-1ms latency, used by Fortune 10 companies.
 
 #### Guardrails & Safety Tools
 
