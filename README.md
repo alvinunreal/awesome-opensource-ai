@@ -379,6 +379,7 @@
 - **[Trellis (Microsoft)](https://github.com/microsoft/TRELLIS)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/TRELLIS?style=social) - Structured 3D latents for high-quality generation.
 - **[gsplat (3D Gaussian Splatting tools)](https://github.com/nerfstudio-project/gsplat)** ![GitHub stars](https://img.shields.io/github/stars/nerfstudio-project/gsplat?style=social) - High-performance 3D Gaussian Splatting library.
 - **[LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio)** ![GitHub stars](https://img.shields.io/github/stars/MrNeRF/LichtFeld-Studio?style=social) - Native application for training, editing, and exporting 3D Gaussian Splatting scenes with MCMC optimization and timelapse generation. GPL-3.0 licensed.
+- **[OpenSplat](https://github.com/pierotofy/OpenSplat)** ![GitHub stars](https://img.shields.io/github/stars/pierotofy/OpenSplat?style=social) - Production-grade, portable implementation of 3D Gaussian Splatting with CPU/GPU support for Windows, Mac, and Linux. Creates 3D scenes from camera poses and sparse points. AGPL-3.0 licensed.
 
 ---
 
