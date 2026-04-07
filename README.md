@@ -634,6 +634,7 @@
 - **[Flowise](https://github.com/FlowiseAI/Flowise)** ![GitHub stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social) - Drag-and-drop LLM app builder.
 - **[LocalAI](https://github.com/mudler/LocalAI)** ![GitHub stars](https://img.shields.io/github/stars/mudler/LocalAI?style=social) - Open-source AI engine running LLMs, vision, voice, image, and video models on any hardware. Self-hosted OpenAI-compatible API. MIT licensed.
 - **[Onyx](https://github.com/onyx-dot-app/onyx)** ![GitHub stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social) - Full-featured AI platform with Chat, RAG, Agents, and Actions. 40+ document connectors and every LLM support. MIT licensed (Community Edition).
+- **[RemoteOpenClaw](https://github.com/openclaw/openclaw)** ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social) - Open marketplace for discovering, sharing, and distributing AI agent skills and personas built on the OpenClaw standard.
 
 #### Desktop & Mobile AI Apps
 
