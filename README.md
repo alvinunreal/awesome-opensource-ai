@@ -694,6 +694,8 @@
 
 #### CLI Tools & API Clients
 
+- **[PR-Agent (Qodo)](https://github.com/qodo-ai/pr-agent)** ![GitHub stars](https://img.shields.io/github/stars/qodo-ai/pr-agent?style=social) - AI-powered code review agent for GitHub, GitLab, BitBucket, and Azure DevOps. Automated PR analysis, improvement suggestions, and multi-platform deployment via CLI, GitHub Actions, or webhooks. AGPL-3.0 licensed.
+
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** ![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social) - Google's open-source AI agent for the terminal. Access Gemini models with built-in tool use, MCP support, and 1M token context. Apache 2.0 licensed.
 - **[LLM (Simon Willison)](https://github.com/simonw/llm)** ![GitHub stars](https://img.shields.io/github/stars/simonw/llm?style=social) - CLI tool and Python library for interacting with dozens of LLMs via remote APIs or locally. Extensible plugin ecosystem, SQLite logging. Apache 2.0 licensed.
 - **[AIChat](https://github.com/sigoden/aichat)** ![GitHub stars](https://img.shields.io/github/stars/sigoden/aichat?style=social) - All-in-one LLM CLI in Rust featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents. Supports 20+ providers. MIT/Apache 2.0 licensed.
