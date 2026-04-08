@@ -738,6 +738,11 @@
 - **[Generative AI for Beginners (Microsoft)](https://github.com/microsoft/generative-ai-for-beginners)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/generative-ai-for-beginners?style=social) - 21 lessons covering generative AI fundamentals, prompt engineering, RAG applications, fine-tuning, and LLM app deployment with practical exercises.
 - **[Fast.ai](https://github.com/fastai/fastai)** ![GitHub stars](https://img.shields.io/github/stars/fastai/fastai?style=social) - Legendary practical deep learning course.
 - **[LangChain Academy](https://academy.langchain.com)** - Free courses on agents and RAG.
+- **[Data Science for Beginners (Microsoft)](https://github.com/microsoft/Data-Science-For-Beginners)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/Data-Science-For-Beginners?style=social) - 10-week, 20-lesson curriculum on data science fundamentals. Covers data preparation, visualization, modeling, and deployment with practical projects.
+- **[Learn PyTorch for Deep Learning (Zero to Mastery)](https://github.com/mrdbourke/pytorch-deep-learning)** ![GitHub stars](https://img.shields.io/github/stars/mrdbourke/pytorch-deep-learning?style=social) - Comprehensive PyTorch deep learning course with hundreds of exercises and real-world projects.
+- **[The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch)** ![GitHub stars](https://img.shields.io/github/stars/ritchieng/the-incredible-pytorch?style=social) - Curated list of PyTorch tutorials, papers, projects, and communities for deep learning researchers.
+- **[Deep RL Class (Hugging Face)](https://github.com/huggingface/deep-rl-class)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/deep-rl-class?style=social) - Free deep reinforcement learning course with hands-on exercises and trained agent publishing to the Hugging Face Hub.
+- **[Transformers Tutorials (Niels Rogge)](https://github.com/NielsRogge/Transformers-Tutorials)** ![GitHub stars](https://img.shields.io/github/stars/NielsRogge/Transformers-Tutorials?style=social) - Comprehensive tutorials and demos using the Hugging Face Transformers library for NLP, vision, and multimodal tasks.
 
 #### Starter Projects & Examples
 
