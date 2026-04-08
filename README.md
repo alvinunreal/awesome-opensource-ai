@@ -450,6 +450,7 @@
 - **[Seldon Core](https://github.com/SeldonIO/seldon-core)** ![GitHub stars](https://img.shields.io/github/stars/SeldonIO/seldon-core?style=social) - MLOps and LLMOps framework for deploying, managing and scaling AI systems in Kubernetes. Standardized deployment across model types with autoscaling, multi-model serving, and A/B experiments.
 - **[Metaflow](https://github.com/Netflix/metaflow)** ![GitHub stars](https://img.shields.io/github/stars/Netflix/metaflow?style=social) - Netflix's ML platform for building and managing real-world AI systems. Powers thousands of projects at Netflix, Amazon, and DoorDash. Apache 2.0 licensed.
 - **[Flyte](https://github.com/flyteorg/flyte)** ![GitHub stars](https://img.shields.io/github/stars/flyteorg/flyte?style=social) - Kubernetes-native workflow orchestration platform for AI/ML pipelines. Dynamic, resilient orchestration with strong type safety and reproducibility. Used by Lyft, Spotify, and Gojek. Apache 2.0 licensed.
+- **[Prefect](https://github.com/prefecthq/prefect)** ![GitHub stars](https://img.shields.io/github/stars/prefecthq/prefect?style=social) - Workflow orchestration framework for building resilient data and ML pipelines. Python-native with modern observability and 200+ integrations. Apache 2.0 licensed.
 
 #### Monitoring, Evaluation & Observability
 
