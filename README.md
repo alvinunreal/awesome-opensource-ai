@@ -308,6 +308,9 @@
 - **[Tantivy](https://github.com/quickwit-oss/tantivy)** ![GitHub stars](https://img.shields.io/github/stars/quickwit-oss/tantivy?style=social) - Full-text search engine library inspired by Apache Lucene and written in Rust. Powers Quickwit and other production search systems.
 - **[Manticore Search](https://github.com/manticoresoftware/manticoresearch)** ![GitHub stars](https://img.shields.io/github/stars/manticoresoftware/manticoresearch?style=social) - Easy to use open source fast database for search. Good alternative to Elasticsearch with SQL-like interface and vector search capabilities.
 - **[OpenSearch](https://github.com/opensearch-project/OpenSearch)** ![GitHub stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social) - Open-source distributed and RESTful search and analytics suite with native vector search. Enterprise-grade fork of Elasticsearch with k-NN plugin for semantic search at scale.
+- **[Marqo](https://github.com/marqo-ai/marqo)** ![GitHub stars](https://img.shields.io/github/stars/marqo-ai/marqo?style=social) - Multimodal vector search for text, image, and structured data. End-to-end indexing and search with built-in embedding models. Apache 2.0 licensed.
+- **[Vald](https://github.com/vdaas/vald)** ![GitHub stars](https://img.shields.io/github/stars/vdaas/vald?style=social) - Highly scalable distributed vector search engine. Cloud-native architecture with automatic indexing, horizontal scaling, and multiple ANN algorithm support. Apache 2.0 licensed.
+- **[Annoy](https://github.com/spotify/annoy)** ![GitHub stars](https://img.shields.io/github/stars/spotify/annoy?style=social) - Approximate nearest neighbors library optimized for memory usage and fast loading. Powers Spotify's music recommendation with C++/Python bindings. Apache 2.0 licensed.
 
 #### Embedding Models
 
@@ -333,6 +336,7 @@
 - **[RAG-Anything](https://github.com/HKUDS/RAG-Anything)** ![GitHub stars](https://img.shields.io/github/stars/HKUDS/RAG-Anything?style=social) - All-in-One Multimodal RAG system for seamless processing of text, images, tables, and equations. Built on LightRAG.
 - **[txtai](https://github.com/neuml/txtai)** ![GitHub stars](https://img.shields.io/github/stars/neuml/txtai?style=social) - All-in-one AI framework for semantic search, LLM orchestration and language model workflows. Embeddings database with customizable pipelines.
 - **[Infinity](https://github.com/michaelfeil/infinity)** ![GitHub stars](https://img.shields.io/github/stars/michaelfeil/infinity?style=social) - High-throughput, low-latency serving engine for text-embeddings, reranking, CLIP, and ColPali. OpenAI-compatible API.
+- **[FlashRAG](https://github.com/RUC-NLPIR/FlashRAG)** ![GitHub stars](https://img.shields.io/github/stars/RUC-NLPIR/FlashRAG?style=social) - Efficient toolkit for RAG research with 40+ retrieval and reranking models, 20+ benchmark datasets, and optimized evaluation pipelines (WWW 2025 Resource). MIT licensed.
 
 #### Web Data Ingestion
 
