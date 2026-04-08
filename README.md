@@ -518,6 +518,7 @@
 - **[Cleanlab](https://github.com/cleanlab/cleanlab)** ![GitHub stars](https://img.shields.io/github/stars/cleanlab/cleanlab?style=social) - Data-centric AI package for automatically finding and fixing issues in datasets. Detects label errors, outliers, and ambiguous examples in ML datasets. Apache 2.0 licensed.
 - **[FineWeb / FineWeb-2 (Hugging Face)](https://huggingface.co/datasets/HuggingFaceFW/fineweb)** - Curated 15T+ token web dataset for pre-training.
 - **[OSWorld](https://github.com/xlang-ai/OSWorld)** ![GitHub stars](https://img.shields.io/github/stars/xlang-ai/OSWorld?style=social) - Multimodal agent benchmark dataset.
+- **[Great Expectations](https://github.com/great-expectations/great_expectations)** ![GitHub stars](https://img.shields.io/github/stars/great-expectations/great_expectations?style=social) - Always know what to expect from your data. Data validation, profiling, and documentation for data pipelines. Apache 2.0 licensed.
 
 ---
 
