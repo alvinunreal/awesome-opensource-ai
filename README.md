@@ -433,6 +433,12 @@
 - **[veScale (ByteDance)](https://github.com/volcengine/veScale)** ![GitHub stars](https://img.shields.io/github/stars/volcengine/veScale?style=social) - Hyperscale PyTorch distributed training with flexible FSDP implementation for LLMs and RL training at scale.
 - **[GPT-NeoX (EleutherAI)](https://github.com/EleutherAI/gpt-neox)** ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/gpt-neox?style=social) - Production-grade distributed training framework for large autoregressive transformers, powering models like GPT-J and GPT-NeoX-20B.
 
+#### Model Quantization & Optimization
+
+- **[LLM Compressor (vLLM)](https://github.com/vllm-project/llm-compressor)** ![GitHub stars](https://img.shields.io/github/stars/vllm-project/llm-compressor?style=social) - Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM. Supports GPTQ, AWQ, SmoothQuant, AutoRound, and FP8/INT8 quantization with seamless Hugging Face integration.
+- **[AWQ (MIT Han Lab)](https://github.com/mit-han-lab/llm-awq)** ![GitHub stars](https://img.shields.io/github/stars/mit-han-lab/llm-awq?style=social) - Activation-aware Weight Quantization for LLM compression and acceleration. MLSys 2024 Best Paper Award winner. Efficient INT3/4 quantization supporting Llama, Qwen, DeepSeek, and VLMs with TinyChat edge inference. Integrated into TensorRT-LLM, vLLM, HuggingFace, Google Vertex AI, and Amazon SageMaker.
+- **[NVIDIA Model Optimizer](https://github.com/NVIDIA/Model-Optimizer)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/Model-Optimizer?style=social) - Unified library of SOTA model optimization techniques including quantization, pruning, distillation, and speculative decoding. Compresses deep learning models for deployment with TensorRT-LLM, TensorRT, and vLLM to optimize inference speed across NVIDIA hardware.
+
 ---
 
 ### 📊 8. MLOps / LLMOps & Production
