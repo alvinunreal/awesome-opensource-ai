@@ -547,6 +547,7 @@
 - **[SHAP](https://github.com/shap/shap)** ![GitHub stars](https://img.shields.io/github/stars/shap/shap?style=social) - Game theoretic approach to explain the output of any machine learning model. Industry standard for model interpretability.
 - **[XAI](https://github.com/EthicalML/xai)** ![GitHub stars](https://img.shields.io/github/stars/EthicalML/xai?style=social) - eXplainability toolbox for machine learning with bias evaluation and production monitoring tools.
 - **[EasyEdit](https://github.com/zjunlp/EasyEdit)** ![GitHub stars](https://img.shields.io/github/stars/zjunlp/EasyEdit?style=social) - Easy-to-use knowledge editing framework for LLMs. Enables precise modification of model knowledge and behavior to correct hallucinations or outdated information. ACL 2024. MIT licensed.
+- **[AIX360](https://github.com/Trusted-AI/AIX360)** ![GitHub stars](https://img.shields.io/github/stars/Trusted-AI/AIX360?style=social) - Comprehensive AI explainability toolkit with interpretability algorithms for data and machine learning models. Includes TED, BRCG, and ProtoNN methods for diverse explanation needs. Apache 2.0 licensed.
 
 #### Fairness & Bias Mitigation
 
