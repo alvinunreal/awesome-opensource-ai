@@ -483,6 +483,7 @@
 
 #### Benchmark Suites
 
+- **[LiveBench](https://github.com/LiveBench/LiveBench)** ![GitHub stars](https://img.shields.io/github/stars/LiveBench/LiveBench?style=social) - Contamination-free LLM benchmark with objective ground-truth scoring. ICLR 2025 spotlight paper featuring frequently-updated questions from recent sources. Tests math, coding, reasoning, language, instruction following, and data analysis.
 - **[lm-evaluation-harness (EleutherAI)](https://github.com/EleutherAI/lm-evaluation-harness)** ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness?style=social) - De-facto standard for generative model evaluation.
 - **[HELM (Stanford)](https://github.com/stanford-crfm/helm)** ![GitHub stars](https://img.shields.io/github/stars/stanford-crfm/helm?style=social) - Holistic Evaluation of Language Models.
 - **[SWE-bench](https://github.com/SWE-bench/SWE-bench)** ![GitHub stars](https://img.shields.io/github/stars/SWE-bench/SWE-bench?style=social) - Evaluates LLMs on real-world GitHub issues from 15+ Python repositories.
