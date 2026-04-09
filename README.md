@@ -351,6 +351,7 @@
 
 #### Image Generation & Editing
 
+- **[StyleGAN3 (NVIDIA)](https://github.com/NVlabs/stylegan3)** ![GitHub stars](https://img.shields.io/github/stars/NVlabs/stylegan3?style=social) - State-of-the-art generative adversarial network for high-fidelity image synthesis with 3D-aware capabilities. The official implementation from NVIDIA's research team.
 - **[ComfyUI](https://github.com/Comfy-Org/ComfyUI)** ![GitHub stars](https://img.shields.io/github/stars/Comfy-Org/ComfyUI?style=social) - Node-based visual workflow editor for Stable Diffusion, FLUX, etc.
 - **[Stable Diffusion WebUI Forge - Neo](https://github.com/Haoming02/sd-webui-forge-classic)** ![GitHub stars](https://img.shields.io/github/stars/Haoming02/sd-webui-forge-classic?style=social) - Actively maintained Forge-based Stable Diffusion web UI with the familiar extension-driven workflow.
 - **[Fooocus](https://github.com/lllyasviel/Fooocus)** ![GitHub stars](https://img.shields.io/github/stars/lllyasviel/Fooocus?style=social) - Midjourney-style UI with beautiful out-of-the-box results.
@@ -373,6 +374,7 @@
 
 #### Audio / Music / Voice Generation
 
+- **[Moshi (Kyutai)](https://github.com/kyutai-labs/moshi)** ![GitHub stars](https://img.shields.io/github/stars/kyutai-labs/moshi?style=social) - Speech-text foundation model and full-duplex spoken dialogue framework enabling natural real-time voice conversations. Apache 2.0 licensed.
 - **[AudioCraft / MusicGen (Meta)](https://github.com/facebookresearch/audiocraft)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social) - Controllable text-to-music and audio models.
 - **[ACE-Step 1.5](https://github.com/ace-step/ACE-Step-1.5)** ![GitHub stars](https://img.shields.io/github/stars/ace-step/ACE-Step-1.5?style=social) - Local-first music generation model with broad hardware support across Mac, AMD, Intel, and CUDA devices.
 - **[Fish Speech](https://github.com/fishaudio/fish-speech)** ![GitHub stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social) - Zero-shot TTS and voice cloning.
@@ -382,6 +384,7 @@
 
 #### 3D & Creative Tools
 
+- **[3D Gaussian Splatting (INRIA / GraphDeco)](https://github.com/graphdeco-inria/gaussian-splatting)** ![GitHub stars](https://img.shields.io/github/stars/graphdeco-inria/gaussian-splatting?style=social) - Real-time radiance field rendering for 3D reconstruction. The original implementation of 3D Gaussian Splatting from INRIA and Max Planck Institute. BSD-3-Clause licensed.
 - **[Hunyuan3D-2 (Tencent)](https://github.com/Tencent-Hunyuan/Hunyuan3D-2)** ![GitHub stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-2?style=social) - State-of-the-art open image-to-3D and text-to-3D.
 - **[Trellis (Microsoft)](https://github.com/microsoft/TRELLIS)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/TRELLIS?style=social) - Structured 3D latents for high-quality generation.
 - **[gsplat (3D Gaussian Splatting tools)](https://github.com/nerfstudio-project/gsplat)** ![GitHub stars](https://img.shields.io/github/stars/nerfstudio-project/gsplat?style=social) - High-performance 3D Gaussian Splatting library.
