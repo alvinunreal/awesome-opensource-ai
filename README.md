@@ -702,6 +702,7 @@
 - **[ChatALL](https://github.com/ai-shifu/ChatALL)** ![GitHub stars](https://img.shields.io/github/stars/ai-shifu/ChatALL?style=social) - Concurrently chat with multiple AI bots to discover the best answers. Desktop app for comparing ChatGPT, Claude, Gemini, and 20+ LLMs side-by-side. Apache 2.0 licensed.
 - **[Chatbox](https://github.com/chatboxai/chatbox)** ![GitHub stars](https://img.shields.io/github/stars/chatboxai/chatbox?style=social) - Powerful desktop AI client for ChatGPT, Claude, and other LLMs. Cross-platform with modern UI. GPLv3 licensed (Community Edition).
 - **[Maid](https://github.com/Mobile-Artificial-Intelligence/maid)** ![GitHub stars](https://img.shields.io/github/stars/Mobile-Artificial-Intelligence/maid?style=social) - Free and open-source Android app for interfacing with llama.cpp models locally and remote APIs (Anthropic, DeepSeek, Mistral, Ollama, OpenAI). MIT licensed.
+- **[Dive](https://github.com/OpenAgentPlatform/Dive)** ![GitHub stars](https://img.shields.io/github/stars/OpenAgentPlatform/Dive?style=social) - Open-source MCP Host Desktop Application with dual Tauri/Electron architecture. Seamlessly integrates with any LLMs supporting function calling. MIT licensed.
 
 #### Agent & Voice Infrastructure
 
