@@ -377,6 +377,7 @@
 - **[Latte (Vchitect)](https://github.com/Vchitect/Latte)** ![GitHub stars](https://img.shields.io/github/stars/Vchitect/Latte?style=social) - Latent Diffusion Transformer for video generation with state-of-the-art quality (TMLR 2025). Apache 2.0 licensed.
 - **[Open-Sora-Plan (PKU-YuanGroup)](https://github.com/PKU-YuanGroup/Open-Sora-Plan)** ![GitHub stars](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan?style=social) - Reproduction of Sora with full open-source pipeline for text-to-video generation. MIT licensed.
 - **[Helios (PKU-YuanGroup)](https://github.com/PKU-YuanGroup/Helios)** ![GitHub stars](https://img.shields.io/github/stars/PKU-YuanGroup/Helios?style=social) - Efficient long-video generation framework with 24GB VRAM support for up to 10,000 frames (5+ minutes) and 1280×768 resolution. Apache 2.0 licensed.
+- **[Open-Sora (HPC-AI Tech)](https://github.com/hpcaitech/Open-Sora)** ![GitHub stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social) - Democratizing efficient video production with fully open-source 11B model achieving on-par performance with HunyuanVideo. End-to-end pipeline with training code and checkpoints. Apache 2.0 licensed.
 
 #### Audio / Music / Voice Generation
 
