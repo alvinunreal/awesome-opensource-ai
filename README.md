@@ -733,6 +733,7 @@
 
 - **[Assistant UI](https://github.com/assistant-ui/assistant-ui)** ![GitHub stars](https://img.shields.io/github/stars/assistant-ui/assistant-ui?style=social) - React/TypeScript library for building production-grade AI chat interfaces. Drop-in components for streaming messages, tool calls, and multi-modal inputs.
 - **[Deep Chat](https://github.com/OvidijusParsiunas/deep-chat)** ![GitHub stars](https://img.shields.io/github/stars/OvidijusParsiunas/deep-chat?style=social) - Fully customizable AI chatbot component for your website. Supports OpenAI, direct API services, and custom endpoints. MIT licensed.
+- **[CopilotKit](https://github.com/CopilotKit/CopilotKit)** ![GitHub stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=social) - Best-in-class SDK for building full-stack agentic applications, Generative UI, and chat applications. Creators of the AG-UI Protocol adopted by Google, LangChain, AWS, and Microsoft. MIT licensed.
 
 #### CLI Tools & API Clients
 
