@@ -548,6 +548,7 @@
 - **[Lighteval](https://github.com/huggingface/lighteval)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/lighteval?style=social) - Evaluation toolkit for LLMs across multiple backends with reusable tasks, metrics, and result tracking.
 - **[Hugging Face Evaluate](https://github.com/huggingface/evaluate)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/evaluate?style=social) - Standardized evaluation metrics.
 - **[OpenAI Evals](https://github.com/openai/evals)** ![GitHub stars](https://img.shields.io/github/stars/openai/evals?style=social) - Framework for evaluating LLMs and LLM systems with an open-source registry of 100+ community-contributed benchmarks. MIT licensed.
+- **[LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)** ![GitHub stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/lmms-eval?style=social) - Unified multimodal evaluation toolkit for text, image, video, and audio tasks with 100+ supported benchmarks.
 
 #### High-quality Open Datasets & Data Tools
 
