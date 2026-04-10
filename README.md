@@ -479,6 +479,7 @@
 - **[DVC (Data Version Control)](https://github.com/iterative/dvc)** ![GitHub stars](https://img.shields.io/github/stars/iterative/dvc?style=social) - Git-like versioning for data and models.
 - **[ClearML](https://github.com/clearml/clearml)** ![GitHub stars](https://img.shields.io/github/stars/clearml/clearml?style=social) - Open-source platform for experiment tracking, orchestration, data management, and model serving.
 - **[Weights & Biases Weave](https://github.com/wandb/weave)** ![GitHub stars](https://img.shields.io/github/stars/wandb/weave?style=social) - Open-source tracing and experiment tracking.
+- **[Aim](https://github.com/aimhubio/aim)** ![GitHub stars](https://img.shields.io/github/stars/aimhubio/aim?style=social) - Self-hosted ML experiment tracker designed to handle 10,000s of training runs with performant UI and SDK for programmatic access. Apache 2.0 licensed.
 - **[Feast](https://github.com/feast-dev/feast)** ![GitHub stars](https://img.shields.io/github/stars/feast-dev/feast?style=social) - Open source feature store for ML. Manages offline/online feature storage with point-in-time correctness to prevent data leakage. Apache 2.0 licensed.
 
 #### Deployment & Orchestration
@@ -492,6 +493,7 @@
 - **[Metaflow](https://github.com/Netflix/metaflow)** ![GitHub stars](https://img.shields.io/github/stars/Netflix/metaflow?style=social) - Netflix's ML platform for building and managing real-world AI systems. Powers thousands of projects at Netflix, Amazon, and DoorDash. Apache 2.0 licensed.
 - **[Flyte](https://github.com/flyteorg/flyte)** ![GitHub stars](https://img.shields.io/github/stars/flyteorg/flyte?style=social) - Kubernetes-native workflow orchestration platform for AI/ML pipelines. Dynamic, resilient orchestration with strong type safety and reproducibility. Used by Lyft, Spotify, and Gojek. Apache 2.0 licensed.
 - **[Prefect](https://github.com/prefecthq/prefect)** ![GitHub stars](https://img.shields.io/github/stars/prefecthq/prefect?style=social) - Workflow orchestration framework for building resilient data and ML pipelines. Python-native with modern observability and 200+ integrations. Apache 2.0 licensed.
+- **[Dagster](https://github.com/dagster-io/dagster)** ![GitHub stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social) - Cloud-native orchestration platform for developing and maintaining data assets including ML models. Declarative programming model with integrated lineage and observability. Apache 2.0 licensed.
 
 #### Monitoring, Evaluation & Observability
 
