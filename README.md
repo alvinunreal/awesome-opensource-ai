@@ -142,6 +142,7 @@
 
 #### Large Language Models (Base + Chat)
 
+- **[RWKV-7 "Goose" (BlinkDL)](https://github.com/BlinkDL/RWKV-LM)** ![GitHub stars](https://img.shields.io/github/stars/BlinkDL/RWKV-LM?style=social) - Novel RNN architecture with transformer-level LLM performance. 100% attention-free, linear-time, constant-space (no kv-cache), infinite ctx_len. Linux Foundation AI project with runtime already deployed in Windows & Office.
 - **[Qwen3.6-Plus (Alibaba)](https://github.com/QwenLM/Qwen)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen?style=social) - Latest flagship series released April 2026 with 1M context window, agentic coding performance competitive with Claude 4.5 Opus, and enhanced multimodal capabilities.
 - **[Gemma 4 (Google)](https://github.com/google-deepmind/gemma)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/gemma?style=social) - Released April 2026 in four sizes (E2B, E4B, 26B MoE, 31B Dense). First major update in a year with Apache 2.0 license, complex logic, and agentic workflows.
 - **[Kimi K2 (Moonshot AI)](https://github.com/MoonshotAI/Kimi-K2)** ![GitHub stars](https://img.shields.io/github/stars/MoonshotAI/Kimi-K2?style=social) - State-of-the-art 1T parameter MoE model with 32B activated parameters and 128K context. Trained with Muon optimizer for exceptional reasoning and coding performance.
