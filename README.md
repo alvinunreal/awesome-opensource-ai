@@ -142,8 +142,10 @@
 
 #### Large Language Models (Base + Chat)
 
+- **[RWKV-7 "Goose" (BlinkDL)](https://github.com/BlinkDL/RWKV-LM)** ![GitHub stars](https://img.shields.io/github/stars/BlinkDL/RWKV-LM?style=social) - Novel RNN architecture with transformer-level LLM performance. 100% attention-free, linear-time, constant-space (no kv-cache), infinite ctx_len. Linux Foundation AI project with runtime already deployed in Windows & Office.
 - **[Qwen3.6-Plus (Alibaba)](https://github.com/QwenLM/Qwen)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen?style=social) - Latest flagship series released April 2026 with 1M context window, agentic coding performance competitive with Claude 4.5 Opus, and enhanced multimodal capabilities.
 - **[Gemma 4 (Google)](https://github.com/google-deepmind/gemma)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/gemma?style=social) - Released April 2026 in four sizes (E2B, E4B, 26B MoE, 31B Dense). First major update in a year with Apache 2.0 license, complex logic, and agentic workflows.
+- **[Kimi K2 (Moonshot AI)](https://github.com/MoonshotAI/Kimi-K2)** ![GitHub stars](https://img.shields.io/github/stars/MoonshotAI/Kimi-K2?style=social) - State-of-the-art 1T parameter MoE model with 32B activated parameters and 128K context. Trained with Muon optimizer for exceptional reasoning and coding performance.
 - **[Kimi K2.5 (Moonshot AI)](https://github.com/MoonshotAI/Kimi-K2.5)** ![GitHub stars](https://img.shields.io/github/stars/MoonshotAI/Kimi-K2.5?style=social) - Frontier open-weight MoE model with 256K context, strong coding and reasoning performance, and native multimodal + tool-use support for agentic workflows.
 - **[Phi-4 (Microsoft)](https://github.com/microsoft/PhiCookBook)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/PhiCookBook?style=social) - Small but highly capable models optimized for reasoning, edge devices, and on-device inference. Includes Phi-4-reasoning variants with thinking capabilities.
 - **[GLM-5 (Zhipu AI)](https://github.com/zai-org/GLM-5)** ![GitHub stars](https://img.shields.io/github/stars/zai-org/GLM-5?style=social) - Strong open model line with solid coding, reasoning, and agentic-task performance.
@@ -264,6 +266,7 @@
 - **[elizaOS](https://github.com/elizaOS/eliza)** ![GitHub stars](https://img.shields.io/github/stars/elizaOS/eliza?style=social) - Autonomous multi-agent framework for building and deploying AI-powered applications. Features Discord/Telegram/Farcaster connectors, RAG support, and a modern web dashboard.
 - **[Agent Squad (AWS Labs)](https://github.com/awslabs/agent-squad)** ![GitHub stars](https://img.shields.io/github/stars/awslabs/agent-squad?style=social) - Flexible multi-agent orchestration framework with intelligent intent classification and context management. Supports Python and TypeScript with pre-built agents for Bedrock, Lex, and custom integrations. Apache 2.0 licensed.
 - **[DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent)** ![GitHub stars](https://img.shields.io/github/stars/SkyworkAI/DeepResearchAgent?style=social) - Hierarchical multi-agent system for deep research tasks with automated task decomposition and execution across complex domains.
+- **[BeeAI Framework (IBM)](https://github.com/i-am-bee/bee-agent-framework)** ![GitHub stars](https://img.shields.io/github/stars/i-am-bee/bee-agent-framework?style=social) - Production-ready multi-agent framework in Python and TypeScript. Features workflow orchestration, ACP/MCP protocol support, and deep watsonx integration. Part of Linux Foundation AI & Data program.
 
 #### Autonomous Coding Agents
 
@@ -286,6 +289,7 @@
 - **[PraisonAI](https://github.com/MervinPraison/PraisonAI)** ![GitHub stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social) - 24/7 AI employee team for automating complex challenges. Low-code multi-agent framework with handoffs, guardrails, memory, RAG, and 100+ LLM providers.
 - **[Agent-S (Simular AI)](https://github.com/simular-ai/Agent-S)** ![GitHub stars](https://img.shields.io/github/stars/simular-ai/Agent-S?style=social) - Open agentic framework that uses computers like a human. SOTA on OSWorld benchmark (72.6%) for GUI automation and computer control.
 - **[Browser Use](https://github.com/browser-use/browser-use)** ![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social) - Makes websites accessible for AI agents. Enables autonomous web automation, data extraction, and task completion with natural language instructions. MIT licensed.
+- **[TradingAgents](https://github.com/TauricResearch/TradingAgents)** ![GitHub stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=social) - Multi-agent framework for financial trading. Simulates professional trading firm operations with 6+ specialized agent roles, backtesting, risk management, and portfolio optimization. Built with LangGraph, supports multiple LLM providers.
 
 #### Agent Memory & State
 
@@ -321,6 +325,7 @@
 
 - **[BGE (FlagEmbedding)](https://github.com/FlagOpen/FlagEmbedding)** ![GitHub stars](https://img.shields.io/github/stars/FlagOpen/FlagEmbedding?style=social) - BAAI's best-in-class embedding family.
 - **[E5 (Microsoft)](https://github.com/microsoft/unilm)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/unilm?style=social) - High-performance text embeddings for retrieval.
+- **[FastEmbed (Qdrant)](https://github.com/qdrant/fastembed)** ![GitHub stars](https://img.shields.io/github/stars/qdrant/fastembed?style=social) - Lightweight, fast Python library for embedding generation with ONNX Runtime. Supports text, sparse (SPLADE), and late-interaction (ColBERT) embeddings without GPU dependencies. Apache 2.0 licensed.
 
 #### Embedding Benchmarks
 
@@ -377,6 +382,7 @@
 - **[Latte (Vchitect)](https://github.com/Vchitect/Latte)** ![GitHub stars](https://img.shields.io/github/stars/Vchitect/Latte?style=social) - Latent Diffusion Transformer for video generation with state-of-the-art quality (TMLR 2025). Apache 2.0 licensed.
 - **[Open-Sora-Plan (PKU-YuanGroup)](https://github.com/PKU-YuanGroup/Open-Sora-Plan)** ![GitHub stars](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan?style=social) - Reproduction of Sora with full open-source pipeline for text-to-video generation. MIT licensed.
 - **[Helios (PKU-YuanGroup)](https://github.com/PKU-YuanGroup/Helios)** ![GitHub stars](https://img.shields.io/github/stars/PKU-YuanGroup/Helios?style=social) - Efficient long-video generation framework with 24GB VRAM support for up to 10,000 frames (5+ minutes) and 1280×768 resolution. Apache 2.0 licensed.
+- **[Open-Sora (HPC-AI Tech)](https://github.com/hpcaitech/Open-Sora)** ![GitHub stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social) - Democratizing efficient video production with fully open-source 11B model achieving on-par performance with HunyuanVideo. End-to-end pipeline with training code and checkpoints. Apache 2.0 licensed.
 
 #### Audio / Music / Voice Generation
 
@@ -416,6 +422,9 @@
 - **[TRL (Transformers Reinforcement Learning)](https://github.com/huggingface/trl)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/trl?style=social) - Official library for RLHF, SFT, DPO, ORPO.
 - **[verl](https://github.com/volcengine/verl)** ![GitHub stars](https://img.shields.io/github/stars/volcengine/verl?style=social) - Volcano Engine Reinforcement Learning for LLMs with PPO, GRPO, REINFORCE++, DAPO (EuroSys 2025).
 - **[NeMo-RL](https://github.com/NVIDIA-NeMo/RL)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA-NeMo/RL?style=social) - Scalable toolkit for efficient model reinforcement with DTensor and Megatron backends.
+- **[OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)** ![GitHub stars](https://img.shields.io/github/stars/OpenRLHF/OpenRLHF?style=social) - Easy-to-use, scalable RLHF framework based on Ray. Supports PPO, GRPO, REINFORCE++, DAPO with vLLM integration and async training. Apache 2.0 licensed.
+- **[LMFlow](https://github.com/OptimalScale/LMFlow)** ![GitHub stars](https://img.shields.io/github/stars/OptimalScale/LMFlow?style=social) - Extensible toolkit for finetuning and inference of large foundation models. Features RAFT alignment algorithm and comprehensive model support. Apache 2.0 licensed.
+- **[H2O LLM Studio](https://github.com/h2oai/h2o-llmstudio)** ![GitHub stars](https://img.shields.io/github/stars/h2oai/h2o-llmstudio?style=social) - No-code GUI framework for fine-tuning LLMs. Streamlined interface for SFT, reward modeling, and model deployment. Apache 2.0 licensed.
 
 #### LoRA / PEFT Tools
 
@@ -445,7 +454,6 @@
 #### Model Quantization & Optimization
 
 - **[LLM Compressor (vLLM)](https://github.com/vllm-project/llm-compressor)** ![GitHub stars](https://img.shields.io/github/stars/vllm-project/llm-compressor?style=social) - Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM. Supports GPTQ, AWQ, SmoothQuant, AutoRound, and FP8/INT8 quantization with seamless Hugging Face integration.
-- **[AWQ (MIT Han Lab)](https://github.com/mit-han-lab/llm-awq)** ![GitHub stars](https://img.shields.io/github/stars/mit-han-lab/llm-awq?style=social) - Activation-aware Weight Quantization for LLM compression and acceleration. MLSys 2024 Best Paper Award winner. Efficient INT3/4 quantization supporting Llama, Qwen, DeepSeek, and VLMs with TinyChat edge inference. Integrated into TensorRT-LLM, vLLM, HuggingFace, Google Vertex AI, and Amazon SageMaker.
 - **[NVIDIA Model Optimizer](https://github.com/NVIDIA/Model-Optimizer)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/Model-Optimizer?style=social) - Unified library of SOTA model optimization techniques including quantization, pruning, distillation, and speculative decoding. Compresses deep learning models for deployment with TensorRT-LLM, TensorRT, and vLLM to optimize inference speed across NVIDIA hardware.
 
 ---
