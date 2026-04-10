@@ -128,6 +128,7 @@
 > Domain-specific AI tools for computer vision, robotics, scientific computing, and more.
 
 - **[JaxMARL](https://github.com/FLAIROx/JaxMARL)** ![GitHub stars](https://img.shields.io/github/stars/FLAIROx/JaxMARL?style=social) - Multi-Agent Reinforcement Learning with JAX. Accelerated environments and baselines.
+- **[OpenEyes](https://github.com/mandarwagh9/openeyes)** ![GitHub stars](https://img.shields.io/github/stars/mandarwagh9/openeyes?style=social) - Hardware-agnostic robot vision framework with world models for predictive intelligence on edge devices.
 
 ---
 
