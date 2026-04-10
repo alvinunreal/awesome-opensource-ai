@@ -299,6 +299,7 @@
 - **[Agent-S (Simular AI)](https://github.com/simular-ai/Agent-S)** ![GitHub stars](https://img.shields.io/github/stars/simular-ai/Agent-S?style=social) - Open agentic framework that uses computers like a human. SOTA on OSWorld benchmark (72.6%) for GUI automation and computer control.
 - **[Browser Use](https://github.com/browser-use/browser-use)** ![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social) - Makes websites accessible for AI agents. Enables autonomous web automation, data extraction, and task completion with natural language instructions. MIT licensed.
 - **[TradingAgents](https://github.com/TauricResearch/TradingAgents)** ![GitHub stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=social) - Multi-agent framework for financial trading. Simulates professional trading firm operations with 6+ specialized agent roles, backtesting, risk management, and portfolio optimization. Built with LangGraph, supports multiple LLM providers.
+- **[Parlant](https://github.com/emcie-co/parlant)** ![GitHub stars](https://img.shields.io/github/stars/emcie-co/parlant?style=social) - Conversational control layer for customer-facing AI agents. Enterprise-grade context engineering framework optimized for consistent, compliant, and on-brand B2C and sensitive B2B interactions. Apache 2.0 licensed.
 
 #### Agent Memory & State
 
