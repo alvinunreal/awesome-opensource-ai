@@ -647,6 +647,7 @@
 
 - **[Time Series Library (TSLib)](https://github.com/thuml/Time-Series-Library)** ![GitHub stars](https://img.shields.io/github/stars/thuml/Time-Series-Library?style=social) - Comprehensive benchmark for time-series models.
 - **[Chronos (Amazon)](https://github.com/amazon-science/chronos-forecasting)** ![GitHub stars](https://img.shields.io/github/stars/amazon-science/chronos-forecasting?style=social) - Pretrained foundation models for time-series forecasting.
+- **[GluonTS (AWS Labs)](https://github.com/awslabs/gluonts)** ![GitHub stars](https://img.shields.io/github/stars/awslabs/gluonts?style=social) - Probabilistic time series modeling with deep learning. Powers Amazon SageMaker forecasting with PyTorch and MXNet backends. Apache 2.0 licensed.
 - **[Darts](https://github.com/unit8co/darts)** ![GitHub stars](https://img.shields.io/github/stars/unit8co/darts?style=social) - Easy-to-use time-series forecasting library.
 - **[AutoTS](https://github.com/winedarksea/AutoTS)** ![GitHub stars](https://img.shields.io/github/stars/winedarksea/AutoTS?style=social) - Automated time series forecasting with broad model selection, ensembling, anomaly detection, and holiday effects. Designed for production deployment with minimal setup.
 
