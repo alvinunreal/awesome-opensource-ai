@@ -497,6 +497,7 @@
 - **[Flyte](https://github.com/flyteorg/flyte)** ![GitHub stars](https://img.shields.io/github/stars/flyteorg/flyte?style=social) - Kubernetes-native workflow orchestration platform for AI/ML pipelines. Dynamic, resilient orchestration with strong type safety and reproducibility. Used by Lyft, Spotify, and Gojek. Apache 2.0 licensed.
 - **[Prefect](https://github.com/prefecthq/prefect)** ![GitHub stars](https://img.shields.io/github/stars/prefecthq/prefect?style=social) - Workflow orchestration framework for building resilient data and ML pipelines. Python-native with modern observability and 200+ integrations. Apache 2.0 licensed.
 - **[Dagster](https://github.com/dagster-io/dagster)** ![GitHub stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social) - Cloud-native orchestration platform for developing and maintaining data assets including ML models. Declarative programming model with integrated lineage and observability. Apache 2.0 licensed.
+- **[Mage](https://github.com/mage-ai/mage-ai)** ![GitHub stars](https://img.shields.io/github/stars/mage-ai/mage-ai?style=social) - Open-source data pipeline orchestration tool for integrating and transforming data. Build, run, and manage data pipelines for ML workflows with notebook-style development. Apache 2.0 licensed.
 
 #### Monitoring, Evaluation & Observability
 
