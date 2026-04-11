@@ -721,6 +721,7 @@
 - **[Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)** ![GitHub stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=social) - Lets LLMs run code locally.
 - **[Roo Code](https://github.com/RooCodeInc/Roo-Code)** ![GitHub stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=social) - Open-source editor-based coding agent with multiple modes and tool integrations.
 - **[Aider](https://github.com/paul-gauthier/aider)** ![GitHub stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=social) - Terminal-based AI pair programmer.
+- **[OpenHands](https://github.com/OpenHands/OpenHands)** ![GitHub stars](https://img.shields.io/github/stars/OpenHands/OpenHands?style=social) - Open-source autonomous AI software development platform with full dev environment.
 
 #### IDE Plugins & Extensions
 
