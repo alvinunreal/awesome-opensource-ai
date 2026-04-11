@@ -100,6 +100,7 @@
 - **[Zarr](https://github.com/zarr-developers/zarr-python)** ![GitHub stars](https://img.shields.io/github/stars/zarr-developers/zarr-python?style=social) - Chunked, compressed, N-dimensional array storage. Scalable tensor data format optimized for cloud and parallel computing. MIT licensed.
 - **[NVIDIA DALI](https://github.com/NVIDIA/DALI)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/DALI?style=social) - GPU-accelerated data loading and augmentation library with highly optimized building blocks for deep learning applications. Apache 2.0 licensed.
 - **[Narwhals](https://github.com/narwhals-dev/narwhals)** ![GitHub stars](https://img.shields.io/github/stars/narwhals-dev/narwhals?style=social) - Lightweight compatibility layer between DataFrame libraries. Write Polars-like code that works seamlessly across pandas, Polars, cuDF, Modin, and more. MIT licensed.
+- **[Ibis](https://github.com/ibis-project/ibis)** ![GitHub stars](https://img.shields.io/github/stars/ibis-project/ibis?style=social) - Portable Python dataframe library with 20+ backends. Write pandas-like code that runs locally with DuckDB or scales to production databases (BigQuery, Snowflake, PostgreSQL) by changing one line. Apache 2.0 licensed.
 
 #### Classical ML & Gradient Boosting
 
