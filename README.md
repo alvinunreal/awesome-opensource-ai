@@ -612,7 +612,6 @@
 - **[Isaac Lab](https://github.com/isaac-sim/IsaacLab)** ![GitHub stars](https://img.shields.io/github/stars/isaac-sim/IsaacLab?style=social) - GPU-accelerated robot learning framework.
 - **[MuJoCo](https://github.com/google-deepmind/mujoco)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/mujoco?style=social) - General-purpose physics simulator for robotics, biomechanics, and ML research. High-fidelity contact dynamics with native Python and C++ bindings. Apache 2.0 licensed.
 - **[Gymnasium (ex-OpenAI Gym)](https://github.com/Farama-Foundation/Gymnasium)** ![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium?style=social) - Standard RL environment API.
-- **[OpenEyes](https://github.com/mandarwagh9/openeyes)** ![GitHub stars](https://img.shields.io/github/stars/mandarwagh9/openeyes?style=social) - Hardware-agnostic robot vision framework with world models for predictive intelligence on edge devices.
 
 #### Time Series & Scientific AI
 
