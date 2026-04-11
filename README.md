@@ -375,6 +375,7 @@
 
 #### Image Generation & Editing
 
+- **[FLUX.1 (Black Forest Labs)](https://github.com/black-forest-labs/flux)** ![GitHub stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=social) - State-of-the-art open-source image generation models (Schnell, Dev, Pro) with 12B parameters. Apache 2.0 licensed.
 - **[ComfyUI](https://github.com/Comfy-Org/ComfyUI)** ![GitHub stars](https://img.shields.io/github/stars/Comfy-Org/ComfyUI?style=social) - Node-based visual workflow editor for Stable Diffusion, FLUX, etc.
 - **[Stable Diffusion WebUI Forge - Neo](https://github.com/Haoming02/sd-webui-forge-classic)** ![GitHub stars](https://img.shields.io/github/stars/Haoming02/sd-webui-forge-classic?style=social) - Actively maintained Forge-based Stable Diffusion web UI with the familiar extension-driven workflow.
 - **[Fooocus](https://github.com/lllyasviel/Fooocus)** ![GitHub stars](https://img.shields.io/github/stars/lllyasviel/Fooocus?style=social) - Midjourney-style UI with beautiful out-of-the-box results.
