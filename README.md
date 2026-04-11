@@ -260,6 +260,7 @@
 - **[Upsonic](https://github.com/Upsonic/Upsonic)** ![GitHub stars](https://img.shields.io/github/stars/Upsonic/Upsonic?style=social) - Agent framework for fintech and banking with built-in MCP support, guardrails, and tool server architecture.
 - **[VoltAgent](https://github.com/VoltAgent/voltagent)** ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/voltagent?style=social) - TypeScript-first AI agent engineering platform with memory, RAG, workflows, MCP integration, and voice support.
 - **[PocketFlow](https://github.com/The-Pocket/PocketFlow)** ![GitHub stars](https://img.shields.io/github/stars/The-Pocket/PocketFlow?style=social) - 100-line minimalist LLM framework for building agent workflows. Lightweight, extensible architecture for tool use and autonomous task execution.
+- **[Agent Development Kit (Google)](https://github.com/google/adk-python)** ![GitHub stars](https://img.shields.io/github/stars/google/adk-python?style=social) - Code-first Python toolkit for building sophisticated AI agents with multi-agent orchestration, built-in evaluation, and flexible deployment. Model-agnostic with tight Google ecosystem integration. Apache 2.0 licensed.
 
 #### Multi-Agent Orchestration
 
