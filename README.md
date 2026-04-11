@@ -795,6 +795,7 @@
 #### Curated Resource Lists
 
 - **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)** ![GitHub stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social) - The definitive curated list of machine learning frameworks, libraries and software organized by language. Covers Python, C++, Java, JavaScript, and more with comprehensive coverage of the ML ecosystem. CC0-1.0 licensed.
+- **[Learn AI Engineering](https://github.com/ashishps1/learn-ai-engineering)** ![GitHub stars](https://img.shields.io/github/stars/ashishps1/learn-ai-engineering?style=social) - Comprehensive collection of free resources to learn AI/ML, LLMs, and Agents from scratch. Curated learning path covering mathematics, machine learning, deep learning, and modern AI engineering. GPL-3.0 licensed.
 
 ---
 
