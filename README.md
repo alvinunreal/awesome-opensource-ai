@@ -787,6 +787,7 @@
 - **[The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch)** ![GitHub stars](https://img.shields.io/github/stars/ritchieng/the-incredible-pytorch?style=social) - Curated list of PyTorch tutorials, papers, projects, and communities for deep learning researchers.
 - **[Deep RL Class (Hugging Face)](https://github.com/huggingface/deep-rl-class)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/deep-rl-class?style=social) - Free deep reinforcement learning course with hands-on exercises and trained agent publishing to the Hugging Face Hub.
 - **[Transformers Tutorials (Niels Rogge)](https://github.com/NielsRogge/Transformers-Tutorials)** ![GitHub stars](https://img.shields.io/github/stars/NielsRogge/Transformers-Tutorials?style=social) - Comprehensive tutorials and demos using the Hugging Face Transformers library for NLP, vision, and multimodal tasks.
+- **[Made With ML (Goku Mohandas)](https://github.com/GokuMohandas/Made-With-ML)** ![GitHub stars](https://img.shields.io/github/stars/GokuMohandas/Made-With-ML?style=social) - End-to-end course on building production-grade ML systems with MLOps fundamentals, from design to deployment and iteration.
 
 #### Starter Projects & Examples
 
