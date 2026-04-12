@@ -749,6 +749,8 @@
 - **[llama.vim](https://github.com/ggml-org/llama.vim)** ![GitHub stars](https://img.shields.io/github/stars/ggml-org/llama.vim?style=social) - Local LLM-powered code completion plugin for Vim/Neovim using llama.cpp. Fast, privacy-first, no API key needed.
 - **[CodeCompanion.nvim](https://github.com/olimorris/codecompanion.nvim)** ![GitHub stars](https://img.shields.io/github/stars/olimorris/codecompanion.nvim?style=social) - AI-powered coding assistant for Neovim. Inline code generation, chat, actions, and tool use with support for multiple LLM providers.
 - **[Continue VS Code / JetBrains](https://github.com/continuedev/continue)** ![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=social) - Most installed open-source AI extension.
+- **[avante.nvim](https://github.com/yetone/avante.nvim)** ![GitHub stars](https://img.shields.io/github/stars/yetone/avante.nvim?style=social) - Neovim plugin that brings Cursor-like AI IDE features to Vim. Edit code with natural language, generate code from context, and chat with AI about your codebase. Apache 2.0 licensed.
+- **[windsurf.vim](https://github.com/Exafunction/windsurf.vim)** ![GitHub stars](https://img.shields.io/github/stars/Exafunction/windsurf.vim?style=social) - Free, ultrafast Copilot alternative for Vim and Neovim. AI-powered code completion with low latency and large context window. MIT licensed.
 - **[Jupyter AI](https://github.com/jupyterlab/jupyter-ai)** ![GitHub stars](https://img.shields.io/github/stars/jupyterlab/jupyter-ai?style=social) - Chat and code generation inside notebooks.
 
 #### UI Components & Chat Libraries
