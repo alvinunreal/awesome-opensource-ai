@@ -716,6 +716,7 @@
 #### Desktop & Mobile AI Apps
 
 - **[Jan](https://github.com/janhq/jan)** ![GitHub stars](https://img.shields.io/github/stars/janhq/jan?style=social) - Local-first AI app framework.
+- **[GPT4All](https://github.com/nomic-ai/gpt4all)** ![GitHub stars](https://img.shields.io/github/stars/nomic-ai/gpt4all?style=social) - Run Local LLMs on any device. Cross-platform desktop application with a modern chat UI, local model management, and OpenAI-compatible API server. MIT licensed.
 - **[Cherry Studio](https://github.com/CherryHQ/cherry-studio)** ![GitHub stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=social) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs. AGPL-3.0 licensed.
 - **[DeepChat](https://github.com/ThinkInAIXYZ/deepchat)** ![GitHub stars](https://img.shields.io/github/stars/ThinkInAIXYZ/deepchat?style=social) - A smart assistant that connects powerful AI to your personal world. Built-in MCP and ACP support, multiple search engines, privacy-focused with local data storage. Apache-2.0 licensed.
 - **[SillyTavern](https://github.com/SillyTavern/SillyTavern)** ![GitHub stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social) - Highly customizable role-playing frontend.
