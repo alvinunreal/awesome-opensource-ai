@@ -797,6 +797,8 @@
 - **[LLM Course (Maxime Labonne)](https://github.com/mlabonne/llm-course)** ![GitHub stars](https://img.shields.io/github/stars/mlabonne/llm-course?style=social) - End-to-end course for getting into Large Language Models with roadmaps and Colab notebooks. Covers pre-training, fine-tuning, RLHF, quantization, and prompt engineering.
 - **[AI For Beginners (Microsoft)](https://github.com/microsoft/AI-For-Beginners)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/AI-For-Beginners?style=social) - 12-week, 24-lesson curriculum on Artificial Intelligence. Covers symbolic AI, neural networks, computer vision, NLP, and reinforcement learning with hands-on labs.
 - **[Generative AI for Beginners (Microsoft)](https://github.com/microsoft/generative-ai-for-beginners)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/generative-ai-for-beginners?style=social) - 21 lessons covering generative AI fundamentals, prompt engineering, RAG applications, fine-tuning, and LLM app deployment with practical exercises.
+- **[LLM101n (Andrej Karpathy)](https://github.com/karpathy/LLM101n)** ![GitHub stars](https://img.shields.io/github/stars/karpathy/LLM101n?style=social) - Build a Storyteller AI Large Language Model from scratch. End-to-end course covering fundamentals to deployment with a functioning web app.
+- **[Hands-On Machine Learning 3rd Edition](https://github.com/ageron/handson-ml3)** ![GitHub stars](https://img.shields.io/github/stars/ageron/handson-ml3?style=social) - Jupyter notebooks walking through Machine Learning and Deep Learning fundamentals using Scikit-Learn, Keras and TensorFlow 2. Companion to the bestselling O'Reilly book.
 - **[Fast.ai](https://github.com/fastai/fastai)** ![GitHub stars](https://img.shields.io/github/stars/fastai/fastai?style=social) - Legendary practical deep learning course.
 - **[LangChain Academy](https://academy.langchain.com)** - Free courses on agents and RAG.
 - **[Data Science for Beginners (Microsoft)](https://github.com/microsoft/Data-Science-For-Beginners)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/Data-Science-For-Beginners?style=social) - 10-week, 20-lesson curriculum on data science fundamentals. Covers data preparation, visualization, modeling, and deployment with practical projects.
@@ -813,6 +815,8 @@
 
 #### Curated Resource Lists
 
+- **[Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)** ![GitHub stars](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning?style=social) - Curated list of open source libraries to deploy, monitor, version and scale machine learning in production. Covers MLOps, serving, monitoring, and feature stores. MIT licensed.
+- **[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)** ![GitHub stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social) - Comprehensive curated list of Large Language Model papers, frameworks, tools, and checkpoints. Covers LLM training, inference, applications, and tutorials. CC0-1.0 licensed.
 - **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)** ![GitHub stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social) - The definitive curated list of machine learning frameworks, libraries and software organized by language. Covers Python, C++, Java, JavaScript, and more with comprehensive coverage of the ML ecosystem. CC0-1.0 licensed.
 
 ---
