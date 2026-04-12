@@ -240,6 +240,7 @@
 - **[bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes)** ![GitHub stars](https://img.shields.io/github/stars/bitsandbytes-foundation/bitsandbytes?style=social) - 8-bit and 4-bit optimizers + quantization.
 - **[ExLlamaV2](https://github.com/turboderp/exllamav2)** ![GitHub stars](https://img.shields.io/github/stars/turboderp/exllamav2?style=social) - Highly optimized CUDA kernels for 4-bit/8-bit inference.
 - **[Optimum](https://github.com/huggingface/optimum)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/optimum?style=social) - Hardware-specific acceleration and quantization.
+- **[FlashInfer](https://github.com/flashinfer-ai/flashinfer)** ![GitHub stars](https://img.shields.io/github/stars/flashinfer-ai/flashinfer?style=social) - State-of-the-art kernel library for LLM inference serving with optimized attention, GEMM, and MoE operations. Powers vLLM, SGLang, TensorRT-LLM, TGI, and MLC-LLM. Apache 2.0 licensed.
 
 ---
 
