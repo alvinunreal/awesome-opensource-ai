@@ -595,6 +595,7 @@
 
 #### Interpretability & Explainability
 
+- **[What-If Tool (Google PAIR)](https://github.com/PAIR-code/what-if-tool)** ![GitHub stars](https://img.shields.io/github/stars/PAIR-code/what-if-tool?style=social) - Visual tool for investigating model performance and fairness. Interactive probing of ML models with no code required. Integrates with TensorBoard, Jupyter, and Colab. Apache 2.0 licensed.
 - **[interpret (Microsoft)](https://github.com/interpretml/interpret)** ![GitHub stars](https://img.shields.io/github/stars/interpretml/interpret?style=social) - Fit interpretable models and explain blackbox machine learning with state-of-the-art explainability techniques including Explainable Boosting Machines and SHAP-based explanations.
 - **[TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)** ![GitHub stars](https://img.shields.io/github/stars/TransformerLensOrg/TransformerLens?style=social) - Gold-standard for mechanistic interpretability.
 - **[SAELens](https://github.com/jbloomAus/SAELens)** ![GitHub stars](https://img.shields.io/github/stars/jbloomAus/SAELens?style=social) - Sparse autoencoders for interpretable features.
