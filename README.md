@@ -250,6 +250,11 @@
 - **[OpenLLM (BentoML)](https://github.com/bentoml/OpenLLM)** ![GitHub stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social) - Production-grade platform for running any open-source LLMs as OpenAI-compatible API endpoints. Supports 50+ models with built-in streaming, batching, and auto-acceleration. Apache 2.0 licensed.
 - **[Higress (Alibaba)](https://github.com/alibaba/higress)** ![GitHub stars](https://img.shields.io/github/stars/alibaba/higress?style=social) - AI-native API gateway born from Alibaba's internal infrastructure with 2+ years of production validation. Provides unified LLM API and MCP (Model Context Protocol) management with enterprise-grade 99.99% availability. Apache 2.0 licensed.
 
+#### Additional Inference Engines
+
+- **[CTranslate2](https://github.com/OpenNMT/CTranslate2)** ![GitHub stars](https://img.shields.io/github/stars/OpenNMT/CTranslate2?style=social) - Fast inference engine for Transformer models supporting OpenNMT and Hugging Face models. Optimized for CPU and GPU with batching, quantization (INT8/FP16), and dynamic memory management. Powers faster-whisper and other production deployments. MIT licensed.
+- **[DeepSpeed-MII](https://github.com/deepspeedai/DeepSpeed-MII)** ![GitHub stars](https://img.shields.io/github/stars/deepspeedai/DeepSpeed-MII?style=social) - Microsoft's low-latency and high-throughput inference serving framework. Enables efficient model deployment with built-in load balancing, multi-GPU tensor parallelism, and RESTful/gRPC APIs. Integrates with DeepSpeed for production-scale serving. Apache 2.0 licensed.
+
 #### Quantization, Distillation & Optimization
 
 - **[GGUF](https://github.com/ggerganov/llama.cpp)** ![GitHub stars](https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social) (part of llama.cpp) - Modern quantized format that powers most local inference.
