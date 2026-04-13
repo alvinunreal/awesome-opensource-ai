@@ -66,12 +66,14 @@
 - **[tinygrad](https://github.com/tinygrad/tinygrad)** ![GitHub stars](https://img.shields.io/github/stars/tinygrad/tinygrad?style=social) - Minimalist deep learning framework with tiny code footprint. The "you like pytorch? you like micrograd? you love tinygrad!" philosophy - simple yet powerful.
 - **[PaddlePaddle](https://github.com/PaddlePaddle/Paddle)** ![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/Paddle?style=social) - Industrial deep learning platform from Baidu serving 23+ million developers and 760,000+ companies. China's first independent R&D framework with advanced distributed training and deployment capabilities.
 - **[PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric)** ![GitHub stars](https://img.shields.io/github/stars/pyg-team/pytorch_geometric?style=social) - Library for deep learning on irregular input data such as graphs, point clouds, and manifolds. Part of the PyTorch ecosystem.
+- **[timm (PyTorch Image Models)](https://github.com/huggingface/pytorch-image-models)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/pytorch-image-models?style=social) - The largest collection of PyTorch image encoders and backbones. 900+ pretrained models including ResNet, EfficientNet, Vision Transformer, ConvNeXt, and more with training and inference scripts. Apache 2.0 licensed.
 - **[Triton](https://github.com/triton-lang/triton)** ![GitHub stars](https://img.shields.io/github/stars/triton-lang/triton?style=social) - Language and compiler for writing highly efficient custom deep-learning primitives. Powers kernel optimizations in PyTorch, JAX, and other frameworks. MIT licensed.
 - **[GGML](https://github.com/ggml-org/ggml)** ![GitHub stars](https://img.shields.io/github/stars/ggml-org/ggml?style=social) - Tensor library for machine learning. The foundational C/C++ library powering llama.cpp and many on-device inference engines. MIT licensed.
 
 #### High-Performance Compute Libraries
 
 - **[oneDNN](https://github.com/uxlfoundation/oneDNN)** ![GitHub stars](https://img.shields.io/github/stars/uxlfoundation/oneDNN?style=social) - oneAPI Deep Neural Network Library. Cross-platform performance library of basic building blocks for deep learning, optimized for Intel CPUs, GPUs, and Arm architectures. Apache 2.0 licensed.
+- **[ONNX](https://github.com/onnx/onnx)** ![GitHub stars](https://img.shields.io/github/stars/onnx/onnx?style=social) - Open standard for machine learning interoperability. Open Neural Network Exchange provides an open ecosystem that empowers AI developers to choose the right tools as their project evolves. Apache 2.0 licensed.
 - **[IREE](https://github.com/iree-org/iree)** ![GitHub stars](https://img.shields.io/github/stars/iree-org/iree?style=social) - Retargetable MLIR-based machine learning compiler and runtime toolkit. Lowers ML models to unified IR that scales from datacenter to mobile and edge deployments. Apache 2.0 licensed.
 
 #### Rust ML Frameworks
@@ -84,6 +86,7 @@
 
 - **[Flux.jl](https://github.com/FluxML/Flux.jl)** ![GitHub stars](https://img.shields.io/github/stars/FluxML/Flux.jl?style=social) - 100% pure-Julia ML stack with lightweight abstractions on top of native GPU and AD support. Elegant, hackable, and fully integrated with Julia's scientific computing ecosystem.
 - **[MLJ.jl](https://github.com/JuliaAI/MLJ.jl)** ![GitHub stars](https://img.shields.io/github/stars/JuliaAI/MLJ.jl?style=social) - Comprehensive Julia machine learning framework providing a unified interface to 200+ models with meta-algorithms for selection, tuning, and evaluation. MIT licensed.
+- **[ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl)** ![GitHub stars](https://img.shields.io/github/stars/SciML/ModelingToolkit.jl?style=social) - High-performance symbolic-numeric modeling framework for scientific machine learning. Automatically generates fast functions for model components like Jacobians and Hessians with automatic sparsification and parallelization. MIT licensed.
 
 #### NLP & Transformers
 
