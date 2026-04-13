@@ -404,6 +404,7 @@
 - **[PowerPaint (OpenMMLab)](https://github.com/open-mmlab/PowerPaint)** ![GitHub stars](https://img.shields.io/github/stars/open-mmlab/PowerPaint?style=social) - Versatile image inpainting model supporting text-guided inpainting, object removal, and outpainting (ECCV 2024).
 - **[SD.Next](https://github.com/vladmandic/sdnext)** ![GitHub stars](https://img.shields.io/github/stars/vladmandic/sdnext?style=social) - All-in-one WebUI for AI generative image and video creation with multi-platform support, SDNQ quantization, and balanced CPU/GPU memory offload.
 - **[FLUX (Black Forest Labs)](https://github.com/black-forest-labs/flux)** ![GitHub stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=social) - State-of-the-art open-weight image generation models (12B parameters). Reference implementation with FLUX.1 [schnell] under Apache 2.0. Industry-leading prompt following and visual quality.
+- **[Qwen-Image (Alibaba)](https://github.com/QwenLM/Qwen-Image)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen-Image?style=social) - 20B MMDiT image foundation model with state-of-the-art complex text rendering and precise image editing. Strong performance in Chinese text generation. Apache 2.0 licensed.
 
 #### Video Generation
 
@@ -421,6 +422,7 @@
 
 - **[AudioCraft / MusicGen (Meta)](https://github.com/facebookresearch/audiocraft)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social) - Controllable text-to-music and audio models.
 - **[ACE-Step 1.5](https://github.com/ace-step/ACE-Step-1.5)** ![GitHub stars](https://img.shields.io/github/stars/ace-step/ACE-Step-1.5?style=social) - Local-first music generation model with broad hardware support across Mac, AMD, Intel, and CUDA devices.
+- **[YuE (MAP)](https://github.com/multimodal-art-projection/YuE)** ![GitHub stars](https://img.shields.io/github/stars/multimodal-art-projection/YuE?style=social) - Open full-song music generation foundation model comparable to Suno.ai. Generates complete songs with vocals and instrumentation from text prompts. Apache 2.0 licensed.
 - **[Fish Speech](https://github.com/fishaudio/fish-speech)** ![GitHub stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social) - Zero-shot TTS and voice cloning.
 - **[CosyVoice 2](https://github.com/FunAudioLLM/CosyVoice)** ![GitHub stars](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social) - Natural multilingual TTS with emotional control.
 - **[OuteTTS](https://github.com/edwko/OuteTTS)** ![GitHub stars](https://img.shields.io/github/stars/edwko/OuteTTS?style=social) - High-quality open TTS.
