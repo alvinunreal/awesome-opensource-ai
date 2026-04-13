@@ -253,7 +253,6 @@
 #### Additional Inference Engines
 
 - **[CTranslate2](https://github.com/OpenNMT/CTranslate2)** ![GitHub stars](https://img.shields.io/github/stars/OpenNMT/CTranslate2?style=social) - Fast inference engine for Transformer models supporting OpenNMT and Hugging Face models. Optimized for CPU and GPU with batching, quantization (INT8/FP16), and dynamic memory management. Powers faster-whisper and other production deployments. MIT licensed.
-- **[DeepSpeed-MII](https://github.com/deepspeedai/DeepSpeed-MII)** ![GitHub stars](https://img.shields.io/github/stars/deepspeedai/DeepSpeed-MII?style=social) - Microsoft's low-latency and high-throughput inference serving framework. Enables efficient model deployment with built-in load balancing, multi-GPU tensor parallelism, and RESTful/gRPC APIs. Integrates with DeepSpeed for production-scale serving. Apache 2.0 licensed.
 
 #### Quantization, Distillation & Optimization
 
@@ -314,7 +313,6 @@
 
 #### Domain-Specific Agents
 
-- **[TaskWeaver (Microsoft)](https://github.com/microsoft/TaskWeaver)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/TaskWeaver?style=social) - Code-first agent framework for seamlessly planning and executing data analytics tasks. Transforms user requests into executable code with built-in data processing capabilities. MIT licensed.
 - **[Composio](https://github.com/ComposioHQ/composio)** ![GitHub stars](https://img.shields.io/github/stars/ComposioHQ/composio?style=social) - Tool integration layer for AI agents with 1000+ toolkits, authentication management, and sandboxed workbench. Powers tool use across major frameworks.
 - **[Langflow](https://github.com/langflow-ai/langflow)** ![GitHub stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social) - Visual low-code platform for agentic workflows.
 - **[Dify](https://github.com/langgenius/dify)** ![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social) - Production-ready agentic workflow platform.
@@ -381,7 +379,6 @@
 - **[LightRAG](https://github.com/HKUDS/LightRAG)** ![GitHub stars](https://img.shields.io/github/stars/HKUDS/LightRAG?style=social) - Graph-based RAG with dual-level retrieval system. Simple and fast with comprehensive knowledge discovery (EMNLP 2025).
 - **[RAG-Anything](https://github.com/HKUDS/RAG-Anything)** ![GitHub stars](https://img.shields.io/github/stars/HKUDS/RAG-Anything?style=social) - All-in-One Multimodal RAG system for seamless processing of text, images, tables, and equations. Built on LightRAG.
 - **[LangChain4j](https://github.com/langchain4j/langchain4j)** ![GitHub stars](https://img.shields.io/github/stars/langchain4j/langchain4j?style=social) - Java library for integrating LLMs into Java applications. Implements RAG, tool calling (including MCP support), and agents with seamless integration into enterprise Java frameworks like Spring Boot. Apache 2.0 licensed.
-- **[Verba (Weaviate)](https://github.com/weaviate/Verba)** ![GitHub stars](https://img.shields.io/github/stars/weaviate/Verba?style=social) - The Golden RAGtriever - fully customizable personal assistant utilizing RAG for querying and interacting with your data. Combines state-of-the-art RAG techniques with Weaviate's context-aware database. BSD-3-Clause licensed.
 - **[Kernel Memory (Microsoft)](https://github.com/microsoft/kernel-memory)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/kernel-memory?style=social) - Memory solution for users, teams, and applications. RAG pipelines with document ingestion, vector indexing, and natural language querying with citations. Supports multiple LLM providers and vector stores. MIT licensed.
 - **[txtai](https://github.com/neuml/txtai)** ![GitHub stars](https://img.shields.io/github/stars/neuml/txtai?style=social) - All-in-one AI framework for semantic search, LLM orchestration and language model workflows. Embeddings database with customizable pipelines.
 - **[Infinity](https://github.com/michaelfeil/infinity)** ![GitHub stars](https://img.shields.io/github/stars/michaelfeil/infinity?style=social) - High-throughput, low-latency serving engine for text-embeddings, reranking, CLIP, and ColPali. OpenAI-compatible API.
@@ -435,7 +432,6 @@
 
 - **[AudioCraft / MusicGen (Meta)](https://github.com/facebookresearch/audiocraft)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social) - Controllable text-to-music and audio models.
 - **[ACE-Step 1.5](https://github.com/ace-step/ACE-Step-1.5)** ![GitHub stars](https://img.shields.io/github/stars/ace-step/ACE-Step-1.5?style=social) - Local-first music generation model with broad hardware support across Mac, AMD, Intel, and CUDA devices.
-- **[YuE (MAP)](https://github.com/multimodal-art-projection/YuE)** ![GitHub stars](https://img.shields.io/github/stars/multimodal-art-projection/YuE?style=social) - Open full-song music generation foundation model comparable to Suno.ai. Generates complete songs with vocals and instrumentation from text prompts. Apache 2.0 licensed.
 - **[Fish Speech](https://github.com/fishaudio/fish-speech)** ![GitHub stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social) - Zero-shot TTS and voice cloning.
 - **[CosyVoice 2](https://github.com/FunAudioLLM/CosyVoice)** ![GitHub stars](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social) - Natural multilingual TTS with emotional control.
 - **[OuteTTS](https://github.com/edwko/OuteTTS)** ![GitHub stars](https://img.shields.io/github/stars/edwko/OuteTTS?style=social) - High-quality open TTS.
