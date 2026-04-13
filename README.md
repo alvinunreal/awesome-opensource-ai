@@ -393,6 +393,7 @@
 - **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** ![GitHub stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=social) - Full-featured creative studio.
 - **[PowerPaint (OpenMMLab)](https://github.com/open-mmlab/PowerPaint)** ![GitHub stars](https://img.shields.io/github/stars/open-mmlab/PowerPaint?style=social) - Versatile image inpainting model supporting text-guided inpainting, object removal, and outpainting (ECCV 2024).
 - **[SD.Next](https://github.com/vladmandic/sdnext)** ![GitHub stars](https://img.shields.io/github/stars/vladmandic/sdnext?style=social) - All-in-one WebUI for AI generative image and video creation with multi-platform support, SDNQ quantization, and balanced CPU/GPU memory offload.
+- **[FLUX (Black Forest Labs)](https://github.com/black-forest-labs/flux)** ![GitHub stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=social) - State-of-the-art open-weight image generation models (12B parameters). Reference implementation with FLUX.1 [schnell] under Apache 2.0. Industry-leading prompt following and visual quality.
 
 #### Video Generation
 
