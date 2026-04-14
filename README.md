@@ -880,6 +880,7 @@
 
 ---
 
+- [Bernstein](https://github.com/chernistry/bernstein) - Multi-agent orchestrator for AI coding agents. Spawns parallel agents in git worktrees with deterministic scheduling. 21 adapters, quality gates, Cloudflare cloud execution. Apache 2.0.
 ## Contributing
 
 Contributions are **highly welcome**!
