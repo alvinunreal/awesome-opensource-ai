@@ -316,6 +316,7 @@
 - **[Mistral-Vibe (Mistral)](https://github.com/mistralai/mistral-vibe)** ![GitHub stars](https://img.shields.io/github/stars/mistralai/mistral-vibe?style=social) - Minimal CLI coding agent by Mistral. Lightweight, fast, and designed for local development workflows.
 - **[Nanocoder (Nano-Collective)](https://github.com/Nano-Collective/nanocoder)** ![GitHub stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=social) - Beautiful local-first coding agent running in your terminal. Built for privacy and control with support for multiple AI providers via OpenRouter.
 - **[Gemini CLI (Google)](https://github.com/google-gemini/gemini-cli)** ![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social) - Open-source AI agent that brings Gemini's power directly into your terminal. Supports code generation, shell execution, and file editing with full Apache 2.0 licensing.
+- **[Archon](https://github.com/coleam00/Archon)** ![GitHub stars](https://img.shields.io/github/stars/coleam00/Archon?style=social) - Workflow engine for deterministic AI coding agents. Define development processes as YAML workflows - planning, implementation, validation, code review, PR creation - and run them reliably across all projects. Like Docker for infrastructure and GitHub Actions for CI/CD - Archon does for AI coding workflows. MIT licensed.
 
 #### Domain-Specific Agents
 
