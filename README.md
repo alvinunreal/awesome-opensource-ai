@@ -541,6 +541,11 @@
 - **[Dagster](https://github.com/dagster-io/dagster)** ![GitHub stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social) - Cloud-native orchestration platform for developing and maintaining data assets including ML models. Declarative programming model with integrated lineage and observability. Apache 2.0 licensed.
 - **[Kubeflow Pipelines](https://github.com/kubeflow/pipelines)** ![GitHub stars](https://img.shields.io/github/stars/kubeflow/pipelines?style=social) - Machine Learning Pipelines for Kubeflow. Platform for building and deploying portable, scalable ML workflows using Kubernetes and Argo. Apache 2.0 licensed.
 - **[MLRun](https://github.com/mlrun/mlrun)** ![GitHub stars](https://img.shields.io/github/stars/mlrun/mlrun?style=social) - Open-source AI orchestration platform for quickly building and managing continuous ML and generative AI applications across their lifecycle. Automates data preparation, model tuning, and deployment. Apache 2.0 licensed.
+- **[Kestra](https://github.com/kestra-io/kestra)** ![GitHub stars](https://img.shields.io/github/stars/kestra-io/kestra?style=social) - Event-driven orchestration and scheduling platform for mission-critical workflows. Infrastructure-as-Code approach with declarative YAML, Git version control integration, and hundreds of plugins for data pipelines and ML workflows. Apache 2.0 licensed.
+
+#### Feature Engineering & Data Preparation
+
+- **[Featuretools](https://github.com/alteryx/featuretools)** ![GitHub stars](https://img.shields.io/github/stars/alteryx/featuretools?style=social) - Open-source Python library for automated feature engineering. Transforms transactional and relational datasets into feature matrices for machine learning using Deep Feature Synthesis with reusable primitives. BSD-3-Clause licensed.
 
 #### Monitoring, Evaluation & Observability
 
