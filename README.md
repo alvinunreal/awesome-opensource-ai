@@ -706,6 +706,13 @@
 
 - **[OpenContracts](https://github.com/Open-Source-Legal/OpenContracts)** ![GitHub stars](https://img.shields.io/github/stars/Open-Source-Legal/OpenContracts?style=social) - Self-hosted document annotation platform for legal AI. Semantic search, contract analysis, version control, and MCP integration for building legal knowledge bases. AGPL-3.0 licensed.
 
+#### Autonomous Driving & Robotics Simulators
+
+- **[CARLA](https://github.com/carla-simulator/carla)** ![GitHub stars](https://img.shields.io/github/stars/carla-simulator/carla?style=social) - Open-source simulator for autonomous driving research. High-fidelity simulation of urban environments with realistic physics, sensors, and traffic scenarios. Widely used for training and validating self-driving algorithms. MIT licensed.
+- **[Webots](https://github.com/cyberbotics/webots)** ![GitHub stars](https://img.shields.io/github/stars/cyberbotics/webots?style=social) - Open-source multi-platform robot simulator providing a complete development environment for modeling, programming, and simulating robots, vehicles, and mechanical systems. Used in education, research, and industry. Apache 2.0 licensed.
+- **[Habitat-Sim](https://github.com/facebookresearch/habitat-sim)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/habitat-sim?style=social) - High-performance physics-enabled 3D simulator for embodied AI research. Supports 3D scans of indoor/outdoor spaces, CAD models, and configurable sensors. Powers Meta's embodied AI research. MIT licensed.
+- **[NASA Astrobee](https://github.com/nasa/astrobee)** ![GitHub stars](https://img.shields.io/github/stars/nasa/astrobee?style=social) - NASA's free-flying robot software for the International Space Station. Flight software for vision-based localization, autonomous navigation, docking, and human-robot interaction. NASA Software of the Year Award Runner-Up 2020. Apache 2.0 licensed.
+
 ---
 
 <a id="section-12"></a>
