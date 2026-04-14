@@ -281,6 +281,8 @@
 - **[VoltAgent](https://github.com/VoltAgent/voltagent)** ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/voltagent?style=social) - TypeScript-first AI agent engineering platform with memory, RAG, workflows, MCP integration, and voice support.
 - **[PocketFlow](https://github.com/The-Pocket/PocketFlow)** ![GitHub stars](https://img.shields.io/github/stars/The-Pocket/PocketFlow?style=social) - 100-line minimalist LLM framework for building agent workflows. Lightweight, extensible architecture for tool use and autonomous task execution.
 - **[Agent Development Kit (Google)](https://github.com/google/adk-python)** ![GitHub stars](https://img.shields.io/github/stars/google/adk-python?style=social) - Code-first Python toolkit for building sophisticated AI agents with multi-agent orchestration, built-in evaluation, and flexible deployment. Model-agnostic with tight Google ecosystem integration. Apache 2.0 licensed.
+- **[PydanticAI](https://github.com/pydantic/pydantic-ai)** ![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social) - Type-safe AI agent framework from the creators of Pydantic. Model-agnostic with 20+ providers, built-in observability via Logfire, MCP/A2A protocol support, and YAML/JSON agent definitions. MIT licensed.
+- **[Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen-Agent?style=social) - Agent framework built on Qwen models featuring function calling, MCP support, code interpreter, RAG, and Chrome extension. Powers Qwen Chat with advanced tool use and planning capabilities. Apache 2.0 licensed.
 
 #### Multi-Agent Orchestration
 
@@ -298,6 +300,7 @@
 - **[Agent Squad (AWS Labs)](https://github.com/awslabs/agent-squad)** ![GitHub stars](https://img.shields.io/github/stars/awslabs/agent-squad?style=social) - Flexible multi-agent orchestration framework with intelligent intent classification and context management. Supports Python and TypeScript with pre-built agents for Bedrock, Lex, and custom integrations. Apache 2.0 licensed.
 - **[DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent)** ![GitHub stars](https://img.shields.io/github/stars/SkyworkAI/DeepResearchAgent?style=social) - Hierarchical multi-agent system for deep research tasks with automated task decomposition and execution across complex domains.
 - **[BeeAI Framework (IBM)](https://github.com/i-am-bee/bee-agent-framework)** ![GitHub stars](https://img.shields.io/github/stars/i-am-bee/bee-agent-framework?style=social) - Production-ready multi-agent framework in Python and TypeScript. Features workflow orchestration, ACP/MCP protocol support, and deep watsonx integration. Part of Linux Foundation AI & Data program.
+- **[AI Town](https://github.com/a16z-infra/ai-town)** ![GitHub stars](https://img.shields.io/github/stars/a16z-infra/ai-town?style=social) - Deployable starter kit for building virtual towns where AI characters live, chat and socialize. Inspired by Stanford's Generative Agents research with persistent agent memory and social interactions. MIT licensed.
 
 #### Autonomous Coding Agents
 
