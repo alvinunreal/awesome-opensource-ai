@@ -421,6 +421,12 @@
 - **[Paperless-AI](https://github.com/clusterzx/paperless-ai)** ![GitHub stars](https://img.shields.io/github/stars/clusterzx/paperless-ai?style=social) - Automated document analyzer for Paperless-ngx with RAG-powered semantic search across your document archive.
 - **[Firecrawl](https://github.com/firecrawl/firecrawl)** ![GitHub stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social) - Web Data API for AI - search, scrape, and interact with the web at scale. Clean markdown/JSON output with proxy rotation and JS-blocking handled automatically.
 
+#### Document Conversion & Preprocessing
+
+- **[MarkItDown (Microsoft)](https://github.com/microsoft/markitdown)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/markitdown?style=social) - Python tool for converting files and office documents to Markdown. Supports PDF, PowerPoint, Word, Excel, images, audio, HTML, and more with OCR and transcription capabilities. MIT licensed.
+- **[OmniParse](https://github.com/adithya-s-k/omniparse)** ![GitHub stars](https://img.shields.io/github/stars/adithya-s-k/omniparse?style=social) - Ingest and parse any unstructured data into structured, actionable data optimized for GenAI applications. Supports documents, tables, images, videos, audio, and web pages with local deployment on T4 GPU. GPL-3.0 licensed.
+- **[DocETL (UC Berkeley)](https://github.com/ucbepic/docetl)** ![GitHub stars](https://img.shields.io/github/stars/ucbepic/docetl?style=social) - Agentic LLM-powered data processing and ETL system for complex document processing. Query rewriting and evaluation for unstructured data analysis with 80% higher accuracy than baselines. MIT licensed.
+
 ---
 
 ### 🎨 6. Generative Media Tools
