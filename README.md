@@ -264,6 +264,7 @@
 - **[OpenLLM (BentoML)](https://github.com/bentoml/OpenLLM)** ![GitHub stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social) - Production-grade platform for running any open-source LLMs as OpenAI-compatible API endpoints. Supports 50+ models with built-in streaming, batching, and auto-acceleration. Apache 2.0 licensed.
 - **[Higress (Alibaba)](https://github.com/alibaba/higress)** ![GitHub stars](https://img.shields.io/github/stars/alibaba/higress?style=social) - AI-native API gateway born from Alibaba's internal infrastructure with 2+ years of production validation. Provides unified LLM API and MCP (Model Context Protocol) management with enterprise-grade 99.99% availability. Apache 2.0 licensed.
 - **[Text Generation Inference (TGI)](https://github.com/huggingface/text-generation-inference)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/text-generation-inference?style=social) - Hugging Face's toolkit for deploying and serving LLMs. High-performance text generation with Tensor Parallelism and dynamic batching. Supports Llama, Falcon, StarCoder, BLOOM, GPT-NeoX, and more. Apache 2.0 licensed.
+- **[LoRAX](https://github.com/predibase/lorax)** ![GitHub stars](https://img.shields.io/github/stars/predibase/lorax?style=social) - Multi-LoRA inference server that scales to thousands of fine-tuned LLMs on a single GPU. Dynamic adapter loading with heterogeneous continuous batching and optimized CUDA kernels for production serving. Apache 2.0 licensed.
 
 #### Additional Inference Engines
 
