@@ -229,6 +229,7 @@
 - **[llama-cpp-python](https://github.com/abetlen/llama-cpp-python)** ![GitHub stars](https://img.shields.io/github/stars/abetlen/llama-cpp-python?style=social) - Official Python bindings for llama.cpp.
 - **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** ![GitHub stars](https://img.shields.io/github/stars/LostRuins/koboldcpp?style=social) - User-friendly llama.cpp fork focused on role-playing and creative writing.
 - **[RamaLama](https://github.com/containers/ramalama)** ![GitHub stars](https://img.shields.io/github/stars/containers/ramalama?style=social) - Container-centric tool for simplifying local AI model serving. Automatically detects GPUs, pulls optimized container images, and runs models securely in rootless containers with enterprise-grade isolation.
+- **[LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)** ![GitHub stars](https://img.shields.io/github/stars/google-ai-edge/LiteRT-LM?style=social) - Google's production-ready, high-performance inference framework for deploying LLMs on edge devices. Cross-platform support for Android, iOS, Web, Desktop, and IoT with GPU/NPU acceleration. Powers on-device GenAI in Chrome and Chromebook Plus. Apache 2.0 licensed.
 
 #### High-performance Serving & API Servers
 
@@ -253,6 +254,7 @@
 - **[One-API](https://github.com/songquanpeng/one-api)** ![GitHub stars](https://img.shields.io/github/stars/songquanpeng/one-api?style=social) - LLM API management and key redistribution system. Unifies multiple providers (OpenAI, Anthropic, Azure, etc.) under a single OpenAI-compatible API with built-in rate limiting, quota management, and cost tracking. MIT licensed.
 - **[OpenLLM (BentoML)](https://github.com/bentoml/OpenLLM)** ![GitHub stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social) - Production-grade platform for running any open-source LLMs as OpenAI-compatible API endpoints. Supports 50+ models with built-in streaming, batching, and auto-acceleration. Apache 2.0 licensed.
 - **[Higress (Alibaba)](https://github.com/alibaba/higress)** ![GitHub stars](https://img.shields.io/github/stars/alibaba/higress?style=social) - AI-native API gateway born from Alibaba's internal infrastructure with 2+ years of production validation. Provides unified LLM API and MCP (Model Context Protocol) management with enterprise-grade 99.99% availability. Apache 2.0 licensed.
+- **[Text Generation Inference (TGI)](https://github.com/huggingface/text-generation-inference)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/text-generation-inference?style=social) - Hugging Face's toolkit for deploying and serving LLMs. High-performance text generation with Tensor Parallelism and dynamic batching. Supports Llama, Falcon, StarCoder, BLOOM, GPT-NeoX, and more. Apache 2.0 licensed.
 
 #### Additional Inference Engines
 
