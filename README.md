@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="assets/osai.png" alt="Awesome Open Source AI" width="120" />
-<!-- CI trigger: validation fixes applied -->
+
 
 # Awesome Open Source AI
 
@@ -509,7 +509,6 @@
 - **[VeOmni (ByteDance)](https://github.com/ByteDance-Seed/VeOmni)** ![GitHub stars](https://img.shields.io/github/stars/ByteDance-Seed/VeOmni?style=social) - Versatile framework for both single- and multi-modal pre-training and post-training. Model-centric distributed recipe zoo supporting text, vision, audio, and video models with unified training interface. Apache 2.0 licensed.
 - **[H2O LLM Studio](https://github.com/h2oai/h2o-llmstudio)** ![GitHub stars](https://img.shields.io/github/stars/h2oai/h2o-llmstudio?style=social) - No-code GUI framework for fine-tuning LLMs. Streamlined interface for SFT, reward modeling, and model deployment. Apache 2.0 licensed.
 - **[TinyZero](https://github.com/Jiayi-Pan/TinyZero)** ![GitHub stars](https://img.shields.io/github/stars/Jiayi-Pan/TinyZero?style=social) - Minimal reproduction of DeepSeek R1-Zero for countdown and multiplication tasks. Clean, accessible implementation for understanding RL-based reasoning training. Apache 2.0 licensed.
-- **[SkyThought](https://github.com/NovaSky-AI/SkyThought)** ![GitHub stars](https://img.shields.io/github/stars/NovaSky-AI/SkyThought?style=social) - Train your own O1 preview model within $450. Complete training pipeline with RL code for Sky-T1-7B and Sky-T1-mini reasoning models from UC Berkeley's NovaSky AI team. Apache 2.0 licensed.
 - **[PRIME-RL](https://github.com/PrimeIntellect-ai/prime-rl)** ![GitHub stars](https://img.shields.io/github/stars/PrimeIntellect-ai/prime-rl?style=social) - Agentic RL Training at Scale from Prime Intellect. Framework for large-scale reinforcement learning capable of scaling to 1000+ GPUs with fully asynchronous RL, FSDP2 training, and vLLM inference. Apache 2.0 licensed.
 
 #### LoRA / PEFT Tools
@@ -626,10 +625,6 @@
 - **[VLMEvalKit](https://github.com/open-compass/VLMEvalKit)** ![GitHub stars](https://img.shields.io/github/stars/open-compass/VLMEvalKit?style=social) - Open-source evaluation toolkit for large multi-modality models (LMMs). Supports 220+ LMMs and 80+ benchmarks including MMMU, MathVista, and ChartQA. Powers the OpenVLM Leaderboard. Apache 2.0 licensed.
 - **[SWE-rebench (Nebius)](https://huggingface.co/datasets/nebius/SWE-rebench)** - Continuously updated benchmark with 21,000+ real-world SWE tasks for evaluating agentic LLMs. Decontaminated, mined from GitHub.
 - **[AgentBench (THUDM)](https://github.com/THUDM/AgentBench)** ![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social) - Comprehensive benchmark to evaluate LLMs as agents across 8 diverse environments including household, web shopping, OS interaction, and database tasks. ICLR 2024. Apache 2.0 licensed.
-- **[Arena-Hard-Auto](https://github.com/lmarena/arena-hard-auto)** ![GitHub stars](https://img.shields.io/github/stars/lmarena/arena-hard-auto?style=social) - Automatic LLM benchmark with the highest correlation to Chatbot Arena human preferences. Built from live user prompts and automatically curated for quality. Apache 2.0 licensed.
-- **[AlpacaEval](https://github.com/tatsu-lab/alpaca_eval)** ![GitHub stars](https://img.shields.io/github/stars/tatsu-lab/alpaca_eval?style=social) - Automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap (<$10), and fast (<5min) with 0.98 correlation to Chatbot Arena. Apache 2.0 licensed.
-- **[C-Eval](https://github.com/hkust-nlp/ceval)** ![GitHub stars](https://img.shields.io/github/stars/hkust-nlp/ceval?style=social) - Comprehensive Chinese evaluation suite for foundation models. 13,948 multi-choice questions spanning 52 diverse disciplines and 4 difficulty levels. NeurIPS 2023. MIT licensed.
-- **[OpenAI Simple-Evals](https://github.com/openai/simple-evals)** ![GitHub stars](https://img.shields.io/github/stars/openai/simple-evals?style=social) - Minimal, open-source evaluation framework from OpenAI for measuring LLM performance on standard benchmarks including MMLU, GPQA, MATH, and HumanEval. MIT licensed.
 
 #### Evaluation Frameworks
 
