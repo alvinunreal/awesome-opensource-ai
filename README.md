@@ -114,6 +114,8 @@
 - **[NVIDIA DALI](https://github.com/NVIDIA/DALI)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/DALI?style=social) - GPU-accelerated data loading and augmentation library with highly optimized building blocks for deep learning applications. Apache 2.0 licensed.
 - **[Narwhals](https://github.com/narwhals-dev/narwhals)** ![GitHub stars](https://img.shields.io/github/stars/narwhals-dev/narwhals?style=social) - Lightweight compatibility layer between DataFrame libraries. Write Polars-like code that works seamlessly across pandas, Polars, cuDF, Modin, and more. MIT licensed.
 - **[Ibis](https://github.com/ibis-project/ibis)** ![GitHub stars](https://img.shields.io/github/stars/ibis-project/ibis?style=social) - Portable Python dataframe library with 20+ backends. Write pandas-like code that runs locally with DuckDB or scales to production databases (BigQuery, Snowflake, PostgreSQL) by changing one line. Apache 2.0 licensed.
+- **[skrub](https://github.com/skrub-data/skrub)** ![GitHub stars](https://img.shields.io/github/stars/skrub-data/skrub?style=social) - Machine learning with dataframes for dirty categorical data. Preprocessing and feature engineering for heterogeneous data with seamless pandas/Polars integration. BSD-3-Clause licensed.
+- **[Oxen](https://github.com/Oxen-AI/Oxen)** ![GitHub stars](https://img.shields.io/github/stars/Oxen-AI/Oxen?style=social) - Lightning fast data version control for machine learning. Optimized for large datasets with efficient diffing, branching, and collaboration. Apache 2.0 licensed.
 
 #### Classical ML & Gradient Boosting
 
@@ -123,6 +125,7 @@
 - **[CatBoost](https://github.com/catboost/catboost)** ![GitHub stars](https://img.shields.io/github/stars/catboost/catboost?style=social) - Gradient boosting that handles categorical features natively with great out-of-the-box performance.
 - **[sktime](https://github.com/sktime/sktime)** ![GitHub stars](https://img.shields.io/github/stars/sktime/sktime?style=social) - Unified framework for machine learning with time series. Scikit-learn compatible API for forecasting, classification, clustering, and anomaly detection.
 - **[StatsForecast](https://github.com/Nixtla/statsforecast)** ![GitHub stars](https://img.shields.io/github/stars/Nixtla/statsforecast?style=social) - Lightning-fast statistical forecasting with ARIMA, ETS, CES, and Theta models. Optimized for high-performance time series workloads.
+- **[MLForecast](https://github.com/Nixtla/mlforecast)** ![GitHub stars](https://img.shields.io/github/stars/Nixtla/mlforecast?style=social) - Scalable machine learning for time series forecasting. Train any sklearn-compatible model on millions of time series with efficient feature engineering. Apache 2.0 licensed.
 - **[cuML](https://github.com/rapidsai/cuml)** ![GitHub stars](https://img.shields.io/github/stars/rapidsai/cuml?style=social) - GPU-accelerated machine learning algorithms with scikit-learn compatible API. 10-50x faster than CPU implementations for large datasets. Apache 2.0 licensed.
 - **[SynapseML](https://github.com/microsoft/SynapseML)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/SynapseML?style=social) - Distributed machine learning on Apache Spark. Scalable, composable APIs for text analytics, vision, anomaly detection with seamless Python/Scala/R/.NET integration. MIT licensed.
 
