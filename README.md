@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="assets/osai.png" alt="Awesome Open Source AI" width="120" />
+<!-- CI trigger: validation fixes round 2 -->
 
 
 # Awesome Open Source AI
