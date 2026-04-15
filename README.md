@@ -547,6 +547,7 @@
 - **[Kubeflow Pipelines](https://github.com/kubeflow/pipelines)** ![GitHub stars](https://img.shields.io/github/stars/kubeflow/pipelines?style=social) - Machine Learning Pipelines for Kubeflow. Platform for building and deploying portable, scalable ML workflows using Kubernetes and Argo. Apache 2.0 licensed.
 - **[MLRun](https://github.com/mlrun/mlrun)** ![GitHub stars](https://img.shields.io/github/stars/mlrun/mlrun?style=social) - Open-source AI orchestration platform for quickly building and managing continuous ML and generative AI applications across their lifecycle. Automates data preparation, model tuning, and deployment. Apache 2.0 licensed.
 - **[Kestra](https://github.com/kestra-io/kestra)** ![GitHub stars](https://img.shields.io/github/stars/kestra-io/kestra?style=social) - Event-driven orchestration and scheduling platform for mission-critical workflows. Infrastructure-as-Code approach with declarative YAML, Git version control integration, and hundreds of plugins for data pipelines and ML workflows. Apache 2.0 licensed.
+- **[KitOps](https://github.com/kitops-ml/kitops)** ![GitHub stars](https://img.shields.io/github/stars/kitops-ml/kitops?style=social) - CNCF open source DevOps tool for packaging, versioning, and securely sharing AI/ML models, datasets, code, and configuration into OCI artifacts. Integrates with existing container registries and CI/CD pipelines. Apache 2.0 licensed.
 
 #### Feature Engineering & Data Preparation
 
