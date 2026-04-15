@@ -637,6 +637,8 @@
 - **[OpenAI Evals](https://github.com/openai/evals)** ![GitHub stars](https://img.shields.io/github/stars/openai/evals?style=social) - Framework for evaluating LLMs and LLM systems with an open-source registry of 100+ community-contributed benchmarks. MIT licensed.
 - **[LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)** ![GitHub stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/lmms-eval?style=social) - Unified multimodal evaluation toolkit for text, image, video, and audio tasks with 100+ supported benchmarks.
 - **[FlashRAG](https://github.com/RUC-NLPIR/FlashRAG)** ![GitHub stars](https://img.shields.io/github/stars/RUC-NLPIR/FlashRAG?style=social) - Efficient Python toolkit for RAG research with 32+ pre-processed benchmark datasets and 12 state-of-the-art RAG algorithms. Includes optimized evaluation pipelines and standard metrics. WWW 2025 Resource. MIT licensed.
+- **[Prometheus](https://github.com/prometheus-eval/prometheus-eval)** ![GitHub stars](https://img.shields.io/github/stars/prometheus-eval/prometheus-eval?style=social) - Open-source language model specialized in evaluating other LLMs. Provides fine-grained evaluation capabilities with strong correlation to human judgments. Apache 2.0 licensed.
+- **[Promptfoo](https://github.com/promptfoo/promptfoo)** ![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social) - Open-source LLM testing, evaluation, and red teaming platform. Systematic prompt testing with CI/CD integration, 20K+ stars. MIT licensed.
 
 #### High-quality Open Datasets & Data Tools
 
