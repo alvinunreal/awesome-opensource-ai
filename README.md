@@ -515,6 +515,7 @@
 - **[TinyZero](https://github.com/Jiayi-Pan/TinyZero)** ![GitHub stars](https://img.shields.io/github/stars/Jiayi-Pan/TinyZero?style=social) - Minimal reproduction of DeepSeek R1-Zero for countdown and multiplication tasks. Clean, accessible implementation for understanding RL-based reasoning training. Apache 2.0 licensed.
 - **[SkyThought](https://github.com/NovaSky-AI/SkyThought)** ![GitHub stars](https://img.shields.io/github/stars/NovaSky-AI/SkyThought?style=social) - Train your own O1 preview model within $450. Complete training pipeline with RL code for Sky-T1-7B and Sky-T1-mini reasoning models from UC Berkeley's NovaSky AI team. Apache 2.0 licensed.
 - **[PRIME-RL](https://github.com/PrimeIntellect-ai/prime-rl)** ![GitHub stars](https://img.shields.io/github/stars/PrimeIntellect-ai/prime-rl?style=social) - Agentic RL Training at Scale from Prime Intellect. Framework for large-scale reinforcement learning capable of scaling to 1000+ GPUs with fully asynchronous RL, FSDP2 training, and vLLM inference. Apache 2.0 licensed.
+- **[slime](https://github.com/THUDM/slime)** ![GitHub stars](https://img.shields.io/github/stars/THUDM/slime?style=social) - LLM post-training framework for RL Scaling from THUDM. Supports SFT and RL training with multi-turn compilation feedback, powering projects like TritonForge for automated GPU kernel generation. Apache 2.0 licensed.
 
 #### LoRA / PEFT Tools
 
@@ -531,6 +532,7 @@
 - **[DataTrove (Hugging Face)](https://github.com/huggingface/datatrove)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/datatrove?style=social) - Platform-agnostic data processing pipelines for LLM training at scale. Handles filtering, deduplication, and tokenization on local machines or SLURM clusters.
 - **[Bespoke Curator](https://github.com/bespokelabsai/curator)** ![GitHub stars](https://img.shields.io/github/stars/bespokelabsai/curator?style=social) - Synthetic data curation for post-training and structured data extraction. Makes it easy to build pipelines around LLMs with batching and progress tracking. Apache 2.0 licensed.
 - **[SDG (Harbin Institute)](https://github.com/hitsz-ids/synthetic-data-generator)** ![GitHub stars](https://img.shields.io/github/stars/hitsz-ids/synthetic-data-generator?style=social) - Specialized framework for generating high-quality structured tabular synthetic data with CTGAN models supporting billion-level data processing. Apache 2.0 licensed.
+- **[DataDreamer](https://github.com/datadreamer-dev/DataDreamer)** ![GitHub stars](https://img.shields.io/github/stars/datadreamer-dev/DataDreamer?style=social) - Powerful open-source Python library for prompting, synthetic data generation, and training workflows. Research-grade with aggressive caching, reproducibility features, and seamless dataset/model publishing. MIT licensed.
 
 #### Distributed Training
 
