@@ -680,6 +680,7 @@
 - **[Boltz](https://github.com/jwohlwend/boltz)** ![GitHub stars](https://img.shields.io/github/stars/jwohlwend/boltz?style=social) - Open-source biomolecular interaction prediction models. Boltz-1 was the first fully open source model to approach AlphaFold3 accuracy; Boltz-2 adds binding affinity prediction for drug discovery. MIT licensed.
 - **[Protenix](https://github.com/bytedance/Protenix)** ![GitHub stars](https://img.shields.io/github/stars/bytedance/Protenix?style=social) - High-accuracy open-source biomolecular structure prediction model from ByteDance. First fully open-source model to outperform AlphaFold3 across diverse benchmarks with Apache 2.0 licensing for both academic and commercial use.
 - **[OpenFold](https://github.com/aqlaboratory/openfold)** ![GitHub stars](https://img.shields.io/github/stars/aqlaboratory/openfold?style=social) - Trainable PyTorch reproduction of AlphaFold2. Complete open-source pipeline for protein structure prediction with competitive accuracy to the original. Apache 2.0 licensed.
+- **[DeepChem](https://github.com/deepchem/deepchem)** ![GitHub stars](https://img.shields.io/github/stars/deepchem/deepchem?style=social) - Democratizing deep learning for drug discovery, quantum chemistry, materials science, and biology. High-quality open-source toolchain with 50+ models and extensive tutorials. MIT licensed.
 
 #### Medical Imaging & Healthcare AI
 
@@ -696,6 +697,8 @@
 - **[OpenBB](https://github.com/OpenBB-finance/OpenBB)** ![GitHub stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=social) - Financial data platform for analysts, quants and AI agents. Open-source investment research infrastructure with extensive data integrations. AGPL-3.0 licensed.
 - **[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)** ![GitHub stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinGPT?style=social) - Open-source financial large language models. Democratizing financial AI with data-centric training pipeline and multiple model releases for trading, analysis, and robo-advising. MIT licensed.
 - **[FinRL](https://github.com/AI4Finance-Foundation/FinRL)** ![GitHub stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRL?style=social) - Financial reinforcement learning framework for quantitative trading. Deep RL library for stock trading, portfolio allocation, and market execution with pre-built environments and benchmarks. MIT licensed.
+- **[Qlib](https://github.com/microsoft/qlib)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/qlib?style=social) - AI-oriented quantitative investment platform from Microsoft. Supports diverse ML modeling paradigms including supervised learning, market dynamics modeling, and RL. Now equipped with RD-Agent for automated R&D process. MIT licensed.
+- **[FinRobot](https://github.com/AI4Finance-Foundation/FinRobot)** ![GitHub stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=social) - Open-source AI agent platform for financial analysis using LLMs. Multi-agent system with specialized agents for trading, analysis, and research. Apache 2.0 licensed.
 
 #### Computer Vision
 
@@ -741,6 +744,8 @@
 - **[Webots](https://github.com/cyberbotics/webots)** ![GitHub stars](https://img.shields.io/github/stars/cyberbotics/webots?style=social) - Open-source multi-platform robot simulator providing a complete development environment for modeling, programming, and simulating robots, vehicles, and mechanical systems. Used in education, research, and industry. Apache 2.0 licensed.
 - **[Habitat-Sim](https://github.com/facebookresearch/habitat-sim)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/habitat-sim?style=social) - High-performance physics-enabled 3D simulator for embodied AI research. Supports 3D scans of indoor/outdoor spaces, CAD models, and configurable sensors. Powers Meta's embodied AI research. MIT licensed.
 - **[NASA Astrobee](https://github.com/nasa/astrobee)** ![GitHub stars](https://img.shields.io/github/stars/nasa/astrobee?style=social) - NASA's free-flying robot software for the International Space Station. Flight software for vision-based localization, autonomous navigation, docking, and human-robot interaction. NASA Software of the Year Award Runner-Up 2020. Apache 2.0 licensed.
+- **[OpenPilot](https://github.com/commaai/openpilot)** ![GitHub stars](https://img.shields.io/github/stars/commaai/openpilot?style=social) - Operating system for robotics. Currently upgrades driver assistance systems on 300+ supported cars. End-to-end autonomous driving stack with open-source hardware and software. MIT licensed.
+- **[Autoware](https://github.com/autowarefoundation/autoware)** ![GitHub stars](https://img.shields.io/github/stars/autowarefoundation/autoware?style=social) - World's leading open-source software project for autonomous driving. Complete stack from localization and object detection to route planning and control. Used by 50+ companies globally. Apache 2.0 licensed.
 
 ---
 
