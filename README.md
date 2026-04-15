@@ -596,6 +596,9 @@
 - **[VLMEvalKit](https://github.com/open-compass/VLMEvalKit)** ![GitHub stars](https://img.shields.io/github/stars/open-compass/VLMEvalKit?style=social) - Open-source evaluation toolkit for large multi-modality models (LMMs). Supports 220+ LMMs and 80+ benchmarks including MMMU, MathVista, and ChartQA. Powers the OpenVLM Leaderboard. Apache 2.0 licensed.
 - **[SWE-rebench (Nebius)](https://huggingface.co/datasets/nebius/SWE-rebench)** - Continuously updated benchmark with 21,000+ real-world SWE tasks for evaluating agentic LLMs. Decontaminated, mined from GitHub.
 - **[AgentBench (THUDM)](https://github.com/THUDM/AgentBench)** ![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social) - Comprehensive benchmark to evaluate LLMs as agents across 8 diverse environments including household, web shopping, OS interaction, and database tasks. ICLR 2024. Apache 2.0 licensed.
+- **[Arena-Hard-Auto (LMArena)](https://github.com/lmarena/arena-hard-auto)** ![GitHub stars](https://img.shields.io/github/stars/lmarena/arena-hard-auto?style=social) - Automatic LLM benchmark with the highest correlation to Chatbot Arena human preferences. Built from live user prompts and automatically curated for quality. Apache 2.0 licensed.
+- **[AlpacaEval (Tatsu Lab)](https://github.com/tatsu-lab/alpaca_eval)** ![GitHub stars](https://img.shields.io/github/stars/tatsu-lab/alpaca_eval?style=social) - Automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap (<$10), and fast (<5min) with 0.98 correlation to Chatbot Arena. Apache 2.0 licensed.
+- **[C-Eval (HKUST)](https://github.com/hkust-nlp/ceval)** ![GitHub stars](https://img.shields.io/github/stars/hkust-nlp/ceval?style=social) - Comprehensive Chinese evaluation suite for foundation models. 13,948 multi-choice questions spanning 52 diverse disciplines and 4 difficulty levels. NeurIPS 2023. MIT licensed.
 
 #### Evaluation Frameworks
 
@@ -607,6 +610,7 @@
 - **[OpenAI Evals](https://github.com/openai/evals)** ![GitHub stars](https://img.shields.io/github/stars/openai/evals?style=social) - Framework for evaluating LLMs and LLM systems with an open-source registry of 100+ community-contributed benchmarks. MIT licensed.
 - **[LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)** ![GitHub stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/lmms-eval?style=social) - Unified multimodal evaluation toolkit for text, image, video, and audio tasks with 100+ supported benchmarks.
 - **[FlashRAG](https://github.com/RUC-NLPIR/FlashRAG)** ![GitHub stars](https://img.shields.io/github/stars/RUC-NLPIR/FlashRAG?style=social) - Efficient Python toolkit for RAG research with 32+ pre-processed benchmark datasets and 12 state-of-the-art RAG algorithms. Includes optimized evaluation pipelines and standard metrics. WWW 2025 Resource. MIT licensed.
+- **[OpenAI Simple-Evals](https://github.com/openai/simple-evals)** ![GitHub stars](https://img.shields.io/github/stars/openai/simple-evals?style=social) - Minimal, open-source evaluation framework from OpenAI for measuring LLM performance on standard benchmarks including MMLU, GPQA, MATH, and HumanEval. MIT licensed.
 
 #### High-quality Open Datasets & Data Tools
 
