@@ -787,7 +787,7 @@
 - **[OpenClaw](https://github.com/openclaw/openclaw)** ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social) - Local-first personal AI assistant with multi-channel integrations and full agentic task execution.
 - **[Open WebUI](https://github.com/open-webui/open-webui)** ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social) - Most popular self-hosted ChatGPT-style interface.
 - **[text-generation-webui](https://github.com/oobabooga/text-generation-webui)** ![GitHub stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social) - Web UI for running local LLMs with multiple backends, extensions, and model formats.
-- **[LobeChat](https://github.com/lobehub/lobe-chat)** ![GitHub stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social) - Sleek modern chat UI.
+- **[LobeChat](https://github.com/lobehub/lobehub)** ![GitHub stars](https://img.shields.io/github/stars/lobehub/lobehub?style=social) - Sleek modern chat UI with multi-agent collaboration, plugin system, and extensive model support.
 - **[LibreChat](https://github.com/danny-avila/LibreChat)** ![GitHub stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=social) - Feature-packed multi-LLM interface.
 - **[HuggingChat (self-hosted)](https://github.com/huggingface/chat-ui)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/chat-ui?style=social) - Official open-source codebase for HuggingChat.
 - **[Khoj](https://github.com/khoj-ai/khoj)** ![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social) - Self-hostable personal AI assistant for search, chat, automation, and workflows over local and web data.
@@ -798,6 +798,7 @@
 - **[Leon](https://github.com/leon-ai/leon)** ![GitHub stars](https://img.shields.io/github/stars/leon-ai/leon?style=social) - Your open-source personal assistant. Built around tools, context, memory, and agentic execution. Self-hosted, privacy-focused, and extensible. MIT licensed.
 - **[Willow](https://github.com/HeyWillow/willow)** ![GitHub stars](https://img.shields.io/github/stars/HeyWillow/willow?style=social) - Open source, local, and self-hosted Amazon Echo/Google Home competitive voice assistant alternative with hardware support. Apache-2.0 licensed.
 - **[CoPaw](https://github.com/agentscope-ai/CoPaw)** ![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/CoPaw?style=social) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. Apache-2.0 licensed.
+- **[Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)** ![GitHub stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui?style=social) - AI chat for any model. Clean, customizable interface with multi-model support, conversation history, and mobile-friendly design. MIT licensed.
 
 #### Full Self-hosted AI Platforms
 
