@@ -187,6 +187,8 @@
 
 #### Coding & Reasoning Models
 
+- **[DeepSeek-V3 (DeepSeek)](https://github.com/deepseek-ai/DeepSeek-V3)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social) - 685B parameter MoE model with 37B activated parameters. State-of-the-art open foundation model with exceptional reasoning, coding, and mathematical capabilities. MIT licensed.
+- **[DeepSeek-R1 (DeepSeek)](https://github.com/deepseek-ai/DeepSeek-R1)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social) - First-generation reasoning model trained via large-scale reinforcement learning. Achieves performance comparable to OpenAI-o1 across math, code, and reasoning tasks. MIT licensed.
 - **[DeepSeek-Coder-V2 / R1-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Coder?style=social) - Best-in-class open coding model (236B MoE). Outperforms closed models on many code benchmarks.
 - **[Qwen3-Coder-Next (Alibaba)](https://github.com/QwenLM/Qwen3-Coder)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen3-Coder?style=social) - Leading open coding model. Strong Pareto frontier for cost-effective agent deployment.
 
@@ -197,10 +199,12 @@
 - **[GLM-4.5V / GLM-4.1V-Thinking (Zhipu AI)](https://github.com/zai-org/GLM-V)** ![GitHub stars](https://img.shields.io/github/stars/zai-org/GLM-V?style=social) - Strong multimodal reasoning with scalable reinforcement learning. Compares favorably with Gemini-2.5-Flash on benchmarks.
 - **[MiniCPM-V 2.6](https://github.com/OpenBMB/MiniCPM-V)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social) - Handles images up to 1.8M pixels with top-tier OCR performance. Excellent for on-device deployment.
 - **[Gemma 4 (Google)](https://github.com/google-deepmind/gemma)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/gemma?style=social) - Multimodal model supporting vision-language input, optimized for efficiency, complex logic, and on-device use.
+- **[OpenVLA (Stanford/UC Berkeley)](https://github.com/openvla/openvla)** ![GitHub stars](https://img.shields.io/github/stars/openvla/openvla?style=social) - Open-source vision-language-action model for robotic manipulation. 7B parameter VLA pretrained on 970k real-world robot demonstrations. MIT licensed.
 - **[Magma (Microsoft)](https://github.com/microsoft/Magma)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/Magma?style=social) - Foundation model for multimodal AI agents that perceives the world and takes goal-driven actions across digital and physical environments. CVPR 2025.
 
 #### Speech & Audio Models (TTS, STT, Music)
 
+- **[NVIDIA NeMo Speech](https://github.com/NVIDIA-NeMo/NeMo)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA-NeMo/NeMo?style=social) - Scalable generative AI framework for Speech AI including ASR, TTS, and speech LLMs. Includes state-of-the-art Canary and Parakeet models with 25+ European language support. Apache 2.0 licensed.
 - **[FunASR](https://github.com/modelscope/FunASR)** ![GitHub stars](https://img.shields.io/github/stars/modelscope/FunASR?style=social) - Fundamental end-to-end speech recognition toolkit with SOTA pretrained models. Supports ASR, VAD, speaker verification, diarization, and multi-talker ASR. Industrial-grade with 31-language support and real-time transcription services. MIT licensed.
 - **[Whisper (OpenAI → community forks)](https://github.com/openai/whisper)** ![GitHub stars](https://img.shields.io/github/stars/openai/whisper?style=social) - The gold-standard open speech-to-text model. Massive community fine-tunes available.
 - **[faster-whisper (SYSTRAN)](https://github.com/SYSTRAN/faster-whisper)** ![GitHub stars](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=social) - Reimplementation of Whisper using CTranslate2 for up to 4x faster inference with same accuracy. Supports batched processing and 8-bit quantization.
@@ -217,6 +221,7 @@
 
 #### Video & Animation Models
 
+- **[Open-Sora (HPC-AI Tech)](https://github.com/hpcaitech/Open-Sora)** ![GitHub stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social) - Democratizing efficient video production for all. Complete open-source video generation system with 11B model achieving commercial-level quality. Apache 2.0 licensed.
 - **[CogVideoX (Zhipu AI / community)](https://github.com/THUDM/CogVideo)** ![GitHub stars](https://img.shields.io/github/stars/THUDM/CogVideo?style=social) - High-quality open text-to-video model (5B-12B).
 - **[Mochi 1 (Genmo)](https://github.com/genmoai/mochi)** ![GitHub stars](https://img.shields.io/github/stars/genmoai/mochi?style=social) - 10B open video model with impressive motion and consistency.
 
