@@ -511,6 +511,7 @@
 - **[H2O LLM Studio](https://github.com/h2oai/h2o-llmstudio)** ![GitHub stars](https://img.shields.io/github/stars/h2oai/h2o-llmstudio?style=social) - No-code GUI framework for fine-tuning LLMs. Streamlined interface for SFT, reward modeling, and model deployment. Apache 2.0 licensed.
 - **[TinyZero](https://github.com/Jiayi-Pan/TinyZero)** ![GitHub stars](https://img.shields.io/github/stars/Jiayi-Pan/TinyZero?style=social) - Minimal reproduction of DeepSeek R1-Zero for countdown and multiplication tasks. Clean, accessible implementation for understanding RL-based reasoning training. Apache 2.0 licensed.
 - **[PRIME-RL](https://github.com/PrimeIntellect-ai/prime-rl)** ![GitHub stars](https://img.shields.io/github/stars/PrimeIntellect-ai/prime-rl?style=social) - Agentic RL Training at Scale from Prime Intellect. Framework for large-scale reinforcement learning capable of scaling to 1000+ GPUs with fully asynchronous RL, FSDP2 training, and vLLM inference. Apache 2.0 licensed.
+- **[slime](https://github.com/THUDM/slime)** ![GitHub stars](https://img.shields.io/github/stars/THUDM/slime?style=social) - LLM post-training framework for RL Scaling from THUDM. Supports SFT and RL training with multi-turn compilation feedback, powering projects like TritonForge for automated GPU kernel generation. Apache 2.0 licensed.
 
 #### LoRA / PEFT Tools
 
