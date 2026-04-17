@@ -598,6 +598,8 @@
 - **[Giskard](https://github.com/Giskard-AI/giskard-oss)** ![GitHub stars](https://img.shields.io/github/stars/Giskard-AI/giskard-oss?style=social) - Open-source evaluation and testing library for LLM agents. Red teaming, vulnerability scanning, RAG evaluation, and safety testing with modular architecture. Apache 2.0 licensed.
 - **[Portkey Gateway](https://github.com/Portkey-AI/gateway)** ![GitHub stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=social) - Blazing fast AI Gateway to route 200+ LLMs with unified API. Integrated guardrails, load balancing, fallbacks, and cost tracking. MIT licensed.
 - **[TensorZero](https://github.com/tensorzero/tensorzero)** ![GitHub stars](https://img.shields.io/github/stars/tensorzero/tensorzero?style=social) - Open-source LLMOps platform unifying LLM gateway, observability, evaluation, and experimentation. Production-grade with sub-1ms latency, used by Fortune 10 companies.
+- **[Envoy AI Gateway](https://github.com/envoyproxy/ai-gateway)** ![GitHub stars](https://img.shields.io/github/stars/envoyproxy/ai-gateway?style=social) - Manages unified access to generative AI services built on Envoy Gateway. Kubernetes-native AI gateway for routing, load balancing, and managing LLM traffic with enterprise-grade reliability. Apache 2.0 licensed.
+- **[NannyML](https://github.com/NannyML/nannyml)** ![GitHub stars](https://img.shields.io/github/stars/NannyML/nannyml?style=social) - Post-deployment data science library for estimating model performance without access to targets, detecting data drift, and linking drift alerts to model performance changes. Apache 2.0 licensed.
 
 #### Guardrails & Safety Tools
 
