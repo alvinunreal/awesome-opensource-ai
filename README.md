@@ -814,6 +814,7 @@
 - **[CoPaw](https://github.com/agentscope-ai/CoPaw)** ![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/CoPaw?style=social) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. Apache-2.0 licensed.
 - **[Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain)** ![GitHub stars](https://img.shields.io/github/stars/your-papa/obsidian-Smart2Brain?style=social) - Privacy-focused Obsidian plugin for AI-powered second brain functionality. Chat with your notes using local or remote LLMs including Ollama and OpenAI. MIT licensed.
 - **[Casibase](https://github.com/casibase/casibase)** ![GitHub stars](https://img.shields.io/github/stars/casibase/casibase?style=social) - Open-source enterprise-level AI knowledge base and agent management platform. Supports multiple LLM providers, RAG, and team collaboration. Apache-2.0 licensed.
+- **[Enchanted](https://github.com/gluonfield/enchanted)** ![GitHub stars](https://img.shields.io/github/stars/gluonfield/enchanted?style=social) - Open-source, Ollama-compatible chat UI for macOS, iOS, and visionOS. Elegant native SwiftUI app for chatting with private self-hosted models like Llama, Mistral, and Vicuna. Apache-2.0 licensed.
 
 #### Full Self-hosted AI Platforms
 
@@ -825,6 +826,8 @@
 - **[Onyx](https://github.com/onyx-dot-app/onyx)** ![GitHub stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social) - Full-featured AI platform with Chat, RAG, Agents, and Actions. 40+ document connectors and every LLM support. MIT licensed (Community Edition).
 - **[biniou](https://github.com/Woolverine94/biniou)** ![GitHub stars](https://img.shields.io/github/stars/Woolverine94/biniou?style=social) - Self-hosted webUI for 30+ generative AI models. Generate multimedia content with AI on your own computer, even without dedicated GPU (8GB RAM minimum). Works offline once deployed. GPL-3.0 licensed.
 - **[Self-hosted AI Starter Kit (n8n)](https://github.com/n8n-io/self-hosted-ai-starter-kit)** ![GitHub stars](https://img.shields.io/github/stars/n8n-io/self-hosted-ai-starter-kit?style=social) - Open-source Docker Compose template to quickly set up a local AI environment. Curated by n8n, combines self-hosted n8n with Ollama, Qdrant, and PostgreSQL for secure, self-hosted AI workflows. Apache 2.0 licensed.
+- **[Quivr](https://github.com/QuivrHQ/quivr)** ![GitHub stars](https://img.shields.io/github/stars/QuivrHQ/quivr?style=social) - Open-source RAG framework and second brain for integrating GenAI into your apps. Supports any LLM (GPT-4, Groq, Llama) and any vector store (PGVector, Faiss). Apache-2.0 licensed.
+- **[CoAI](https://github.com/coaidev/coai)** ![GitHub stars](https://img.shields.io/github/stars/coaidev/coai?style=social) - Next-generation multi-tenant AI one-stop solution with built-in admin and billing system. Enterprise-grade unified LLM gateway supporting 200+ models and 35+ providers. Apache-2.0 licensed.
 
 #### Desktop & Mobile AI Apps
 
@@ -836,6 +839,7 @@
 - **[Chatbox](https://github.com/chatboxai/chatbox)** ![GitHub stars](https://img.shields.io/github/stars/chatboxai/chatbox?style=social) - Powerful desktop AI client for ChatGPT, Claude, and other LLMs. Cross-platform with modern UI. GPLv3 licensed (Community Edition).
 - **[Maid](https://github.com/Mobile-Artificial-Intelligence/maid)** ![GitHub stars](https://img.shields.io/github/stars/Mobile-Artificial-Intelligence/maid?style=social) - Free and open-source Android app for interfacing with llama.cpp models locally and remote APIs (Anthropic, DeepSeek, Mistral, Ollama, OpenAI). MIT licensed.
 - **[Dive](https://github.com/OpenAgentPlatform/Dive)** ![GitHub stars](https://img.shields.io/github/stars/OpenAgentPlatform/Dive?style=social) - Open-source MCP Host Desktop Application with dual Tauri/Electron architecture. Seamlessly integrates with any LLMs supporting function calling. MIT licensed.
+- **[PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai)** ![GitHub stars](https://img.shields.io/github/stars/a-ghorbani/pocketpal-ai?style=social) - Open-source app that brings small language models directly to your phone. Run AI 100% privately on iOS and Android with no cloud required. MIT licensed.
 
 #### Agent & Voice Infrastructure
 
