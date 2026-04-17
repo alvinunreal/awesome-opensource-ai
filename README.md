@@ -811,6 +811,8 @@
 - **[Leon](https://github.com/leon-ai/leon)** ![GitHub stars](https://img.shields.io/github/stars/leon-ai/leon?style=social) - Your open-source personal assistant. Built around tools, context, memory, and agentic execution. Self-hosted, privacy-focused, and extensible. MIT licensed.
 - **[Willow](https://github.com/HeyWillow/willow)** ![GitHub stars](https://img.shields.io/github/stars/HeyWillow/willow?style=social) - Open source, local, and self-hosted Amazon Echo/Google Home competitive voice assistant alternative with hardware support. Apache-2.0 licensed.
 - **[CoPaw](https://github.com/agentscope-ai/CoPaw)** ![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/CoPaw?style=social) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. Apache-2.0 licensed.
+- **[Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain)** ![GitHub stars](https://img.shields.io/github/stars/your-papa/obsidian-Smart2Brain?style=social) - Privacy-focused Obsidian plugin for AI-powered second brain functionality. Chat with your notes using local or remote LLMs including Ollama and OpenAI. MIT licensed.
+- **[Casibase](https://github.com/casibase/casibase)** ![GitHub stars](https://img.shields.io/github/stars/casibase/casibase?style=social) - Open-source enterprise-level AI knowledge base and agent management platform. Supports multiple LLM providers, RAG, and team collaboration. Apache-2.0 licensed.
 
 #### Full Self-hosted AI Platforms
 
