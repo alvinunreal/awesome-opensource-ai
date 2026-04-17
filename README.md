@@ -73,6 +73,7 @@
 - **[timm (PyTorch Image Models)](https://github.com/huggingface/pytorch-image-models)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/pytorch-image-models?style=social) - The largest collection of PyTorch image encoders and backbones. 900+ pretrained models including ResNet, EfficientNet, Vision Transformer, ConvNeXt, and more with training and inference scripts. Apache 2.0 licensed.
 - **[Triton](https://github.com/triton-lang/triton)** ![GitHub stars](https://img.shields.io/github/stars/triton-lang/triton?style=social) - Language and compiler for writing highly efficient custom deep-learning primitives. Powers kernel optimizations in PyTorch, JAX, and other frameworks. MIT licensed.
 - **[GGML](https://github.com/ggml-org/ggml)** ![GitHub stars](https://img.shields.io/github/stars/ggml-org/ggml?style=social) - Tensor library for machine learning. The foundational C/C++ library powering llama.cpp and many on-device inference engines. MIT licensed.
+- **[MLX](https://github.com/ml-explore/mlx)** ![GitHub stars](https://img.shields.io/github/stars/ml-explore/mlx?style=social) - Array framework for machine learning on Apple silicon. Efficient unified memory design with NumPy-like API, automatic differentiation, and multi-device support. MIT licensed.
 
 #### High-Performance Compute Libraries
 
@@ -98,6 +99,7 @@
 - **[Transformers (Hugging Face)](https://github.com/huggingface/transformers)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/transformers?style=social) - The de facto standard library for pretrained NLP models. 1M+ models, 250,000+ downloads/day. BERT, GPT, Llama, Qwen, and hundreds more.
 - **[sentence-transformers](https://github.com/UKPLab/sentence-transformers)** ![GitHub stars](https://img.shields.io/github/stars/UKPLab/sentence-transformers?style=social) - Classic library for sentence and image embeddings.
 - **[tokenizers (Hugging Face)](https://github.com/huggingface/tokenizers)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/tokenizers?style=social) - Fast state-of-the-art tokenizers for training and inference.
+- **[fairseq2](https://github.com/facebookresearch/fairseq2)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/fairseq2?style=social) - FAIR Sequence Modeling Toolkit 2. Complete rewrite of fairseq with modern PyTorch APIs, native support for LLM training (70B+ models), vLLM integration, and first-party recipes for instruction finetuning and preference optimization. MIT licensed.
 
 #### Data Processing & Manipulation
 
@@ -132,6 +134,8 @@
 - **[MLForecast](https://github.com/Nixtla/mlforecast)** ![GitHub stars](https://img.shields.io/github/stars/Nixtla/mlforecast?style=social) - Scalable machine learning for time series forecasting. Train any sklearn-compatible model on millions of time series with efficient feature engineering. Apache 2.0 licensed.
 - **[cuML](https://github.com/rapidsai/cuml)** ![GitHub stars](https://img.shields.io/github/stars/rapidsai/cuml?style=social) - GPU-accelerated machine learning algorithms with scikit-learn compatible API. 10-50x faster than CPU implementations for large datasets. Apache 2.0 licensed.
 - **[SynapseML](https://github.com/microsoft/SynapseML)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/SynapseML?style=social) - Distributed machine learning on Apache Spark. Scalable, composable APIs for text analytics, vision, anomaly detection with seamless Python/Scala/R/.NET integration. MIT licensed.
+- **[Darts](https://github.com/unit8co/darts)** ![GitHub stars](https://img.shields.io/github/stars/unit8co/darts?style=social) - User-friendly forecasting and anomaly detection for time series. Unifies classical statistical models (ARIMA, ETS) with modern neural networks (N-BEATS, TFT, DeepAR) in a single scikit-learn compatible API. Apache 2.0 licensed.
+- **[PyTorch Forecasting](https://github.com/sktime/pytorch-forecasting)** ![GitHub stars](https://img.shields.io/github/stars/sktime/pytorch-forecasting?style=social) - Time series forecasting with PyTorch. Multiple neural architectures (N-BEATS, TFT, DeepAR) with in-built interpretation capabilities, built on PyTorch Lightning for distributed training. MIT licensed.
 
 #### AutoML & Hyperparameter Optimization
 
@@ -164,6 +168,7 @@
 - **[torchao](https://github.com/pytorch/ao)** ![GitHub stars](https://img.shields.io/github/stars/pytorch/ao?style=social) - PyTorch native quantization and sparsity for training and inference. Drop-in optimizations for production deployment.
 - **[SHAP](https://github.com/shap/shap)** ![GitHub stars](https://img.shields.io/github/stars/shap/shap?style=social) - Game theoretic approach to explain the output of any machine learning model. Industry standard for model interpretability.
 - **[skorch](https://github.com/skorch-dev/skorch)** ![GitHub stars](https://img.shields.io/github/stars/skorch-dev/skorch?style=social) - Scikit-learn compatible neural network library that wraps PyTorch. Seamlessly integrate PyTorch models with scikit-learn pipelines, grid search, and cross-validation.
+- **[Composer](https://github.com/mosaicml/composer)** ![GitHub stars](https://img.shields.io/github/stars/mosaicml/composer?style=social) - Supercharge your model training. MosaicML's PyTorch training library with built-in algorithms for efficient training (FSDP, gradient compression, progressive resizing) and seamless distributed training on large-scale clusters. Apache 2.0 licensed.
 
 ---
 
