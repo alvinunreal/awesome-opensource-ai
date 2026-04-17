@@ -726,6 +726,7 @@
 
 - **[NVIDIA Modulus](https://github.com/NVIDIA/modulus)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/modulus?style=social) - Open-source deep learning framework for physics-informed machine learning (Physics-ML). Build, train, and fine-tune models for AI4science and engineering applications using state-of-the-art SciML methods. Apache 2.0 licensed.
 - **[TorchGeo](https://github.com/microsoft/torchgeo)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/torchgeo?style=social) - PyTorch domain library for geospatial data. Datasets, samplers, transforms, and pre-trained models for multispectral satellite imagery and remote sensing. First library with pre-trained models for Sentinel-2 bands. MIT licensed.
+- **[PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)** ![GitHub stars](https://img.shields.io/github/stars/benedekrozemberczki/pytorch_geometric_temporal?style=social) - Spatiotemporal signal processing with neural machine learning models. Temporal extension library for PyTorch Geometric providing data iterators and neural architectures for dynamic graph learning. MIT licensed.
 
 #### Scientific AI & Drug Discovery
 
