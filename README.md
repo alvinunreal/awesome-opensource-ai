@@ -886,6 +886,11 @@
 - **[Instructor](https://github.com/jxnl/instructor)** ![GitHub stars](https://img.shields.io/github/stars/jxnl/instructor?style=social) - Python library for extracting structured, validated data from LLMs using Pydantic models. Handles validation, retries, and error handling with 15+ provider support. MIT licensed.
 - **[Mirascope](https://github.com/Mirascope/mirascope)** ![GitHub stars](https://img.shields.io/github/stars/Mirascope/mirascope?style=social) - Python toolkit for building LLM applications with automatic versioning, tracing, and cost tracking. The "LLM Anti-Framework" for developers who want control. MIT licensed.
 
+#### SDKs & API Development Tools
+
+- **[Vercel AI SDK](https://github.com/vercel/ai)** ![GitHub stars](https://img.shields.io/github/stars/vercel/ai?style=social) - Provider-agnostic TypeScript toolkit for building AI-powered applications and agents. Unified API for OpenAI, Anthropic, Google, and 20+ providers with first-class streaming, tool-calling, and structured output support. Apache 2.0 licensed.
+- **[Fern](https://github.com/fern-api/fern)** ![GitHub stars](https://img.shields.io/github/stars/fern-api/fern?style=social) - Open-source SDK generator for REST APIs. Generate type-safe API clients in TypeScript, Python, Go, Java, and more from OpenAPI specs. Powers SDKs for companies like OpenAI, Anthropic, and Cloudflare. Apache 2.0 licensed.
+
 #### Testing & Debugging Tools
 
 - **[Promptfoo](https://github.com/promptfoo/promptfoo)** ![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social) - Systematic LLM testing framework.
