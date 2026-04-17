@@ -591,10 +591,12 @@
 - **[MLRun](https://github.com/mlrun/mlrun)** ![GitHub stars](https://img.shields.io/github/stars/mlrun/mlrun?style=social) - Open-source AI orchestration platform for quickly building and managing continuous ML and generative AI applications across their lifecycle. Automates data preparation, model tuning, and deployment. Apache 2.0 licensed.
 - **[Kestra](https://github.com/kestra-io/kestra)** ![GitHub stars](https://img.shields.io/github/stars/kestra-io/kestra?style=social) - Event-driven orchestration and scheduling platform for mission-critical workflows. Infrastructure-as-Code approach with declarative YAML, Git version control integration, and hundreds of plugins for data pipelines and ML workflows. Apache 2.0 licensed.
 - **[KitOps](https://github.com/jozu-ai/kitops)** ![GitHub stars](https://img.shields.io/github/stars/jozu-ai/kitops?style=social) - CNCF open source DevOps tool for packaging, versioning, and securely sharing AI/ML models, datasets, code, and configuration. Packages everything into OCI artifacts stored in existing container registries. Apache 2.0 licensed.
+- **[Polyaxon](https://github.com/polyaxon/polyaxon)** ![GitHub stars](https://img.shields.io/github/stars/polyaxon/polyaxon?style=social) - MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle. Reproducible and scalable machine learning workflows on Kubernetes with experiment tracking, model management, and pipeline orchestration. Apache 2.0 licensed.
 
 #### Feature Engineering & Data Preparation
 
 - **[Featuretools](https://github.com/alteryx/featuretools)** ![GitHub stars](https://img.shields.io/github/stars/alteryx/featuretools?style=social) - Open-source Python library for automated feature engineering. Transforms transactional and relational datasets into feature matrices for machine learning using Deep Feature Synthesis with reusable primitives. BSD-3-Clause licensed.
+- **[Kedro](https://github.com/kedro-org/kedro)** ![GitHub stars](https://img.shields.io/github/stars/kedro-org/kedro?style=social) - Toolbox for production-ready data science. Uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular. Apache 2.0 licensed.
 
 #### Monitoring, Evaluation & Observability
 
