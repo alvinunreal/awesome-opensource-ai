@@ -451,6 +451,7 @@
 - **[Qwen-Image (Alibaba)](https://github.com/QwenLM/Qwen-Image)** ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen-Image?style=social) - 20B MMDiT image foundation model with state-of-the-art complex text rendering and precise image editing. Strong performance in Chinese text generation. Apache 2.0 licensed.
 - **[Upscayl](https://github.com/upscayl/upscayl)** ![GitHub stars](https://img.shields.io/github/stars/upscayl/upscayl?style=social) - Free and open-source AI image upscaler for Linux, macOS, and Windows. Uses Real-ESRGAN and Vulkan architecture to enhance images by reconstructing high-resolution details. Cross-platform desktop app with batch processing. AGPL-3.0 licensed.
 - **[Z-Image (Tongyi)](https://github.com/Tongyi-MAI/Z-Image)** ![GitHub stars](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image?style=social) - Powerful and efficient image generation model family with 6B parameters. Includes Z-Image-Turbo for sub-second inference and Z-Image-Omni-Base for both generation and editing. Strong bilingual text rendering and instruction adherence. Apache 2.0 licensed.
+- **[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** ![GitHub stars](https://img.shields.io/github/stars/xinntao/Real-ESRGAN?style=social) - Practical algorithms for general image and video restoration. State-of-the-art super-resolution with face restoration capabilities. BSD-3-Clause licensed.
 
 #### Face Swap & Deepfake
 
@@ -472,6 +473,8 @@
 - **[Open-Sora-Plan (PKU-YuanGroup)](https://github.com/PKU-YuanGroup/Open-Sora-Plan)** ![GitHub stars](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan?style=social) - Reproduction of Sora with full open-source pipeline for text-to-video generation. MIT licensed.
 - **[Open-Sora (HPC-AI Tech)](https://github.com/hpcaitech/Open-Sora)** ![GitHub stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social) - Fully open-source video generation with 11B model achieving on-par performance with HunyuanVideo. Complete training pipeline for $200K. Apache 2.0 licensed.
 - **[Helios (PKU-YuanGroup)](https://github.com/PKU-YuanGroup/Helios)** ![GitHub stars](https://img.shields.io/github/stars/PKU-YuanGroup/Helios?style=social) - Efficient long-video generation framework with 24GB VRAM support for up to 10,000 frames (5+ minutes) and 1280×768 resolution. Apache 2.0 licensed.
+- **[AnimateDiff](https://github.com/guoyww/AnimateDiff)** ![GitHub stars](https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social) - Animate your personalized text-to-image diffusion models with motion modules. Create animated videos from still images using personalized diffusion models. Apache 2.0 licensed.
+
 #### Audio / Music / Voice Generation
 
 - **[AudioCraft / MusicGen (Meta)](https://github.com/facebookresearch/audiocraft)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social) - Controllable text-to-music and audio models.
