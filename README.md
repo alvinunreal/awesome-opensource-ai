@@ -385,6 +385,7 @@
 - **[E5 (Microsoft)](https://github.com/microsoft/unilm)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/unilm?style=social) - High-performance text embeddings for retrieval.
 - **[FastEmbed (Qdrant)](https://github.com/qdrant/fastembed)** ![GitHub stars](https://img.shields.io/github/stars/qdrant/fastembed?style=social) - Lightweight, fast Python library for embedding generation with ONNX Runtime. Supports text, sparse (SPLADE), and late-interaction (ColBERT) embeddings without GPU dependencies. Apache 2.0 licensed.
 - **[EmbedAnything](https://github.com/StarlightSearch/EmbedAnything)** ![GitHub stars](https://img.shields.io/github/stars/StarlightSearch/EmbedAnything?style=social) - Minimalist, highly performant multimodal embedding pipeline built in Rust. Memory-safe, modular, and production-ready for text, image, and audio embeddings with seamless vector DB integration. Apache 2.0 licensed.
+- **[Text Embeddings Inference (Hugging Face)](https://github.com/huggingface/text-embeddings-inference)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/text-embeddings-inference?style=social) - Blazing fast inference solution for text embedding models. High-performance extraction with token-based dynamic batching, Flash Attention, and support for FlagEmbedding, E5, GTE, and more. OpenAI-compatible API with Docker deployment. Apache 2.0 licensed.
 
 #### Embedding Benchmarks
 
