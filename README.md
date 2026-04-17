@@ -261,6 +261,7 @@
 - **[One-API](https://github.com/songquanpeng/one-api)** ![GitHub stars](https://img.shields.io/github/stars/songquanpeng/one-api?style=social) - LLM API management and key redistribution system. Unifies multiple providers (OpenAI, Anthropic, Azure, etc.) under a single OpenAI-compatible API with built-in rate limiting, quota management, and cost tracking. MIT licensed.
 - **[OpenLLM (BentoML)](https://github.com/bentoml/OpenLLM)** ![GitHub stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social) - Production-grade platform for running any open-source LLMs as OpenAI-compatible API endpoints. Supports 50+ models with built-in streaming, batching, and auto-acceleration. Apache 2.0 licensed.
 - **[Higress (Alibaba)](https://github.com/alibaba/higress)** ![GitHub stars](https://img.shields.io/github/stars/alibaba/higress?style=social) - AI-native API gateway born from Alibaba's internal infrastructure with 2+ years of production validation. Provides unified LLM API and MCP (Model Context Protocol) management with enterprise-grade 99.99% availability. Apache 2.0 licensed.
+- **[LoRAX (Predibase)](https://github.com/predibase/lorax)** ![GitHub stars](https://img.shields.io/github/stars/predibase/lorax?style=social) - Multi-LoRA inference server that scales to thousands of fine-tuned LLMs on a single GPU. Dynamic adapter loading, heterogeneous continuous batching, and optimized inference with flash attention and paged attention. Apache 2.0 licensed.
 
 #### Additional Inference Engines
 
