@@ -627,6 +627,8 @@
 - **[VLMEvalKit](https://github.com/open-compass/VLMEvalKit)** ![GitHub stars](https://img.shields.io/github/stars/open-compass/VLMEvalKit?style=social) - Open-source evaluation toolkit for large multi-modality models (LMMs). Supports 220+ LMMs and 80+ benchmarks including MMMU, MathVista, and ChartQA. Powers the OpenVLM Leaderboard. Apache 2.0 licensed.
 - **[SWE-rebench (Nebius)](https://huggingface.co/datasets/nebius/SWE-rebench)** - Continuously updated benchmark with 21,000+ real-world SWE tasks for evaluating agentic LLMs. Decontaminated, mined from GitHub.
 - **[AgentBench (THUDM)](https://github.com/THUDM/AgentBench)** ![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social) - Comprehensive benchmark to evaluate LLMs as agents across 8 diverse environments including household, web shopping, OS interaction, and database tasks. ICLR 2024. Apache 2.0 licensed.
+- **[BigCode Evaluation Harness](https://github.com/bigcode-project/bigcode-evaluation-harness)** ![GitHub stars](https://img.shields.io/github/stars/bigcode-project/bigcode-evaluation-harness?style=social) - Framework for evaluating autoregressive code generation models. Supports HumanEval, MBPP, MultiPL-E, and more with Docker-based secure evaluation. Apache 2.0 licensed.
+- **[EvalPlus](https://github.com/evalplus/evalplus)** ![GitHub stars](https://img.shields.io/github/stars/evalplus/evalplus?style=social) - Rigorous evaluation of LLM-synthesized code with enhanced test suites (HumanEval+, MBPP+). NeurIPS 2023 & COLM 2024. Apache 2.0 licensed.
 
 #### Evaluation Frameworks
 
@@ -638,6 +640,7 @@
 - **[OpenAI Evals](https://github.com/openai/evals)** ![GitHub stars](https://img.shields.io/github/stars/openai/evals?style=social) - Framework for evaluating LLMs and LLM systems with an open-source registry of 100+ community-contributed benchmarks. MIT licensed.
 - **[LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)** ![GitHub stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/lmms-eval?style=social) - Unified multimodal evaluation toolkit for text, image, video, and audio tasks with 100+ supported benchmarks.
 - **[FlashRAG](https://github.com/RUC-NLPIR/FlashRAG)** ![GitHub stars](https://img.shields.io/github/stars/RUC-NLPIR/FlashRAG?style=social) - Efficient Python toolkit for RAG research with 32+ pre-processed benchmark datasets and 12 state-of-the-art RAG algorithms. Includes optimized evaluation pipelines and standard metrics. WWW 2025 Resource. MIT licensed.
+- **[BrowserGym](https://github.com/ServiceNow/BrowserGym)** ![GitHub stars](https://img.shields.io/github/stars/ServiceNow/BrowserGym?style=social) - Gym environment for web task automation and agent evaluation. Includes MiniWoB, WebArena, WorkArena, and more. Apache 2.0 licensed.
 
 #### High-quality Open Datasets & Data Tools
 
@@ -646,6 +649,7 @@
 - **[FineWeb / FineWeb-2 (Hugging Face)](https://huggingface.co/datasets/HuggingFaceFW/fineweb)** - Curated 15T+ token web dataset for pre-training.
 - **[OSWorld](https://github.com/xlang-ai/OSWorld)** ![GitHub stars](https://img.shields.io/github/stars/xlang-ai/OSWorld?style=social) - Multimodal agent benchmark dataset.
 - **[Great Expectations](https://github.com/great-expectations/great_expectations)** ![GitHub stars](https://img.shields.io/github/stars/great-expectations/great_expectations?style=social) - Always know what to expect from your data. Data validation, profiling, and documentation for data pipelines. Apache 2.0 licensed.
+- **[OpenThoughts](https://github.com/open-thoughts/open-thoughts)** ![GitHub stars](https://img.shields.io/github/stars/open-thoughts/open-thoughts?style=social) - Fully open data curation for reasoning models. Curated high-quality reasoning datasets for training and evaluating LLMs. Apache 2.0 licensed.
 
 ---
 
