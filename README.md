@@ -308,6 +308,7 @@
 #### Multi-Agent Orchestration
 
 - **[MetaGPT](https://github.com/FoundationAgents/MetaGPT)** ![GitHub stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social) - Simulates an entire "AI software company".
+- **[ChatDev](https://github.com/OpenBMB/ChatDev)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social) - Multi-agent software development framework where AI agents collaborate as programmers, designers, and testers to build software. Apache 2.0 licensed.
 - **[CAMEL](https://github.com/camel-ai/camel)** ![GitHub stars](https://img.shields.io/github/stars/camel-ai/camel?style=social) - First and best multi-agent framework for building scalable agent systems. Apache 2.0 licensed with extensive tooling for agent communication and task automation.
 - **[Swarms](https://github.com/kyegomez/swarms)** ![GitHub stars](https://img.shields.io/github/stars/kyegomez/swarms?style=social) - Bleeding-edge enterprise multi-agent orchestration.
 - **[Mastra](https://github.com/mastra-ai/mastra)** ![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social) - TypeScript-first agent framework with built-in RAG, workflows, tool integrations, observability and observational memory.
