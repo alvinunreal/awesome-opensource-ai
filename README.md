@@ -754,6 +754,14 @@
 - **[Kornia](https://github.com/kornia/kornia)** ![GitHub stars](https://img.shields.io/github/stars/kornia/kornia?style=social) - Differentiable computer vision library.
 - **[MediaPipe](https://github.com/google-ai-edge/mediapipe)** ![GitHub stars](https://img.shields.io/github/stars/google-ai-edge/mediapipe?style=social) - Cross-platform multimodal pipelines.
 
+#### 3D Vision & Point Cloud Processing
+
+- **[Open3D](https://github.com/isl-org/Open3D)** ![GitHub stars](https://img.shields.io/github/stars/isl-org/Open3D?style=social) - Modern library for 3D data processing with Python and C++ APIs. Core features include 3D data structures, processing algorithms, scene reconstruction, surface alignment, 3D visualization, and GPU acceleration. MIT licensed.
+- **[Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl)** ![GitHub stars](https://img.shields.io/github/stars/PointCloudLibrary/pcl?style=social) - Standalone, large-scale open project for 2D/3D image and point cloud processing. Comprehensive algorithms for filtering, feature estimation, surface reconstruction, registration, model fitting, and segmentation. BSD licensed.
+- **[PyTorch3D](https://github.com/facebookresearch/pytorch3d)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/pytorch3d?style=social) - FAIR's library of reusable components for deep learning with 3D data. Provides efficient 3D operators, differentiable rendering, and mesh processing tools integrated with PyTorch. BSD licensed.
+- **[RTAB-Map](https://github.com/introlab/rtabmap)** ![GitHub stars](https://img.shields.io/github/stars/introlab/rtabmap?style=social) - Real-Time Appearance-Based Mapping library for RGB-D, Stereo and LiDAR SLAM. Graph-based SLAM approach with incremental appearance-based loop closure detection for large-scale and long-term operation. BSD licensed.
+- **[MoveIt 2](https://github.com/ros-planning/moveit2)** ![GitHub stars](https://img.shields.io/github/stars/ros-planning/moveit2?style=social) - Open source robotics manipulation framework for ROS 2. Motion planning, manipulation, 3D perception, kinematics, control, and navigation for robotic arms. BSD-3-Clause licensed.
+
 #### Reinforcement Learning & Robotics
 
 - **[LeRobot (Hugging Face)](https://github.com/huggingface/lerobot)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/lerobot?style=social) - State-of-the-art machine learning framework for real-world robotics. End-to-end learning with models, datasets, and training tools for robotic manipulation tasks.
