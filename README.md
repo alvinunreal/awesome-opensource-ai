@@ -318,6 +318,7 @@
 - **[DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent)** ![GitHub stars](https://img.shields.io/github/stars/SkyworkAI/DeepResearchAgent?style=social) - Hierarchical multi-agent system for deep research tasks with automated task decomposition and execution across complex domains.
 - **[BeeAI Framework (IBM)](https://github.com/i-am-bee/bee-agent-framework)** ![GitHub stars](https://img.shields.io/github/stars/i-am-bee/bee-agent-framework?style=social) - Production-ready multi-agent framework in Python and TypeScript. Features workflow orchestration, ACP/MCP protocol support, and deep watsonx integration. Part of Linux Foundation AI & Data program.
 - **[AI Town](https://github.com/a16z-infra/ai-town)** ![GitHub stars](https://img.shields.io/github/stars/a16z-infra/ai-town?style=social) - Deployable starter kit for building virtual towns where AI characters live, chat and socialize. Inspired by Stanford's Generative Agents research with persistent agent memory and social interactions. MIT licensed.
+- **[AgentsMesh](https://github.com/AgentsMesh/AgentsMesh)** ![GitHub stars](https://img.shields.io/github/stars/AgentsMesh/AgentsMesh?style=social) - Orchestrates Claude Code, Codex CLI, Gemini CLI, Aider, and OpenCode across parallel git worktrees. Kanban task management with ticket-pod binding and MR/PR integration, plus per-pod MCP server. Self-hostable, multi-tenant with SSO/RBAC. BSL-1.1 → GPL-2.0.
 
 #### Autonomous Coding Agents
 
