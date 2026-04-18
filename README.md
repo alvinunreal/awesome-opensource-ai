@@ -910,6 +910,12 @@
 
 ### 🧪 13. Developer Tools & Integrations
 
+#### AI-Native IDEs & Development Environments
+
+- **[Zed](https://github.com/zed-industries/zed)** ![GitHub stars](https://img.shields.io/github/stars/zed-industries/zed?style=social) - High-performance, multiplayer code editor with built-in AI features. From the creators of Atom and Tree-sitter. Native AI agentic editing with support for any LLM provider. GPL licensed.
+- **[Code Server](https://github.com/coder/code-server)** ![GitHub stars](https://img.shields.io/github/stars/coder/code-server?style=social) - Run VS Code on any machine anywhere and access it in the browser. Self-hosted cloud IDE with full extension support. MIT licensed.
+- **[Gitpod](https://github.com/gitpod-io/gitpod)** ![GitHub stars](https://img.shields.io/github/stars/gitpod-io/gitpod?style=social) - Cloud development environment platform with automated prebuilds, ephemeral workspaces, and support for any IDE. Self-hostable with open-source core. AGPL-3.0 licensed.
+
 #### AI Coding Assistants (open-source)
 
 - **[Continue](https://github.com/continuedev/continue)** ![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=social) - Open-source AI coding autopilot for VS Code & JetBrains.
@@ -919,6 +925,10 @@
 - **[Roo Code](https://github.com/RooCodeInc/Roo-Code)** ![GitHub stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=social) - Open-source editor-based coding agent with multiple modes and tool integrations.
 - **[Aider](https://github.com/paul-gauthier/aider)** ![GitHub stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=social) - Terminal-based AI pair programmer.
 - **[Refact](https://github.com/smallcloudai/refact)** ![GitHub stars](https://img.shields.io/github/stars/smallcloudai/refact?style=social) - Open-source AI code assistant with autocomplete, chat, and refactoring. Self-hostable with support for multiple LLM providers. BSD-3-Clause licensed.
+
+#### Notebooks & Interactive Computing
+
+- **[Quarto](https://github.com/quarto-dev/quarto-cli)** ![GitHub stars](https://img.shields.io/github/stars/quarto-dev/quarto-cli?style=social) - Open-source scientific and technical publishing system built on Pandoc. Create dynamic content with Python, R, Julia, and Observable. MIT licensed.
 
 #### IDE Plugins & Extensions
 
