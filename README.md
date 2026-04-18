@@ -861,6 +861,7 @@
 - **[biniou](https://github.com/Woolverine94/biniou)** ![GitHub stars](https://img.shields.io/github/stars/Woolverine94/biniou?style=social) - Self-hosted webUI for 30+ generative AI models. Generate multimedia content with AI on your own computer, even without dedicated GPU (8GB RAM minimum). Works offline once deployed. GPL-3.0 licensed.
 - **[Self-hosted AI Starter Kit (n8n)](https://github.com/n8n-io/self-hosted-ai-starter-kit)** ![GitHub stars](https://img.shields.io/github/stars/n8n-io/self-hosted-ai-starter-kit?style=social) - Open-source Docker Compose template to quickly set up a local AI environment. Curated by n8n, combines self-hosted n8n with Ollama, Qdrant, and PostgreSQL for secure, self-hosted AI workflows. Apache 2.0 licensed.
 - **[CoAI](https://github.com/coaidev/coai)** ![GitHub stars](https://img.shields.io/github/stars/coaidev/coai?style=social) - Next-generation multi-tenant AI one-stop solution with built-in admin and billing system. Enterprise-grade unified LLM gateway supporting 200+ models and 35+ providers. Apache-2.0 licensed.
+- **[Plane](https://github.com/makeplane/plane)** ![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social) - Open-source Jira, Linear, Monday, and ClickUp alternative. AI-powered project management platform with intelligent task triage, sprint planning, and automated workflows. AGPL-3.0 licensed.
 
 #### Desktop & Mobile AI Apps
 
@@ -892,6 +893,7 @@
 - **[Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)** ![GitHub stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=social) - Lets LLMs run code locally.
 - **[Roo Code](https://github.com/RooCodeInc/Roo-Code)** ![GitHub stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=social) - Open-source editor-based coding agent with multiple modes and tool integrations.
 - **[Aider](https://github.com/paul-gauthier/aider)** ![GitHub stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=social) - Terminal-based AI pair programmer.
+- **[Refact](https://github.com/smallcloudai/refact)** ![GitHub stars](https://img.shields.io/github/stars/smallcloudai/refact?style=social) - Open-source AI code assistant with autocomplete, chat, and refactoring. Self-hostable with support for multiple LLM providers. BSD-3-Clause licensed.
 
 #### IDE Plugins & Extensions
 
