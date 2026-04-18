@@ -124,7 +124,6 @@
 - **[Oxen](https://github.com/Oxen-AI/Oxen)** ![GitHub stars](https://img.shields.io/github/stars/Oxen-AI/Oxen?style=social) - Lightning fast data version control for machine learning. Optimized for large datasets with efficient diffing, branching, and collaboration. Apache 2.0 licensed.
 - **[Pandera](https://github.com/unionai-oss/pandera)** ![GitHub stars](https://img.shields.io/github/stars/unionai-oss/pandera?style=social) - Statistical data testing and validation for dataframes. Pydantic-like API for pandas, Polars, and other dataframe libraries with type hints and lazy validation. MIT licensed.
 - **[Snorkel](https://github.com/snorkel-team/snorkel)** ![GitHub stars](https://img.shields.io/github/stars/snorkel-team/snorkel?style=social) - System for quickly generating training data with weak supervision. Programmatically label, build, and manage training data using labeling functions and probabilistic consensus models. Powers Snorkel Flow and used by Google, Apple, and Intel. Apache 2.0 licensed.
-- **[torchdata](https://github.com/pytorch/data)** ![GitHub stars](https://img.shields.io/github/stars/pytorch/data?style=social) - Modular data loading primitives for PyTorch. Composable data pipelines with streaming iterators for efficient preprocessing and loading of large-scale datasets. BSD-3-Clause licensed.
 
 #### Classical ML & Gradient Boosting
 
@@ -764,7 +763,6 @@
 - **[SAM 2](https://github.com/facebookresearch/sam2)** ![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sam2?style=social) - Promptable image and video segmentation model with released checkpoints and training code.
 - **[Kornia](https://github.com/kornia/kornia)** ![GitHub stars](https://img.shields.io/github/stars/kornia/kornia?style=social) - Differentiable computer vision library.
 - **[torchaudio](https://github.com/pytorch/audio)** ![GitHub stars](https://img.shields.io/github/stars/pytorch/audio?style=social) - PyTorch audio processing library. Comprehensive toolkit for audio I/O, transformations, and deep learning with support for speech recognition, TTS, and audio classification. BSD-2-Clause licensed.
-- **[MMCV](https://github.com/open-mmlab/mmcv)** ![GitHub stars](https://img.shields.io/github/stars/open-mmlab/mmcv?style=social) - OpenMMLab foundational computer vision library. Core utilities for training and deploying computer vision models including image/video processing, model zoo, and CUDA ops. Apache 2.0 licensed.
 - **[MediaPipe](https://github.com/google-ai-edge/mediapipe)** ![GitHub stars](https://img.shields.io/github/stars/google-ai-edge/mediapipe?style=social) - Cross-platform multimodal pipelines.
 
 #### 3D Vision & Point Cloud Processing
