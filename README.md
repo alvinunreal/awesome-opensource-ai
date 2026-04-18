@@ -434,7 +434,6 @@
 - **[MarkItDown (Microsoft)](https://github.com/microsoft/markitdown)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/markitdown?style=social) - Python tool for converting files and office documents to Markdown. Supports PDF, PowerPoint, Word, Excel, images, audio, HTML, and more with OCR and transcription capabilities. MIT licensed.
 - **[OmniParse](https://github.com/adithya-s-k/omniparse)** ![GitHub stars](https://img.shields.io/github/stars/adithya-s-k/omniparse?style=social) - Ingest and parse any unstructured data into structured, actionable data optimized for GenAI applications. Supports documents, tables, images, videos, audio, and web pages with local deployment on T4 GPU. GPL-3.0 licensed.
 - **[DocETL (UC Berkeley)](https://github.com/ucbepic/docetl)** ![GitHub stars](https://img.shields.io/github/stars/ucbepic/docetl?style=social) - Agentic LLM-powered data processing and ETL system for complex document processing. Query rewriting and evaluation for unstructured data analysis with 80% higher accuracy than baselines. MIT licensed.
-- **[NLM Ingestor (NLMatics)](https://github.com/nlmatics/nlm-ingestor)** ![GitHub stars](https://img.shields.io/github/stars/nlmatics/nlm-ingestor?style=social) - Document parser for LLM and RAG workflows. Layout-aware PDF parsing with visual ingestion, table extraction, and structured output. Self-hosted backend for llmsherpa API. Apache 2.0 licensed.
 
 ---
 
