@@ -241,6 +241,17 @@
 - **[CogVideoX (Zhipu AI / community)](https://github.com/THUDM/CogVideo)** ![GitHub stars](https://img.shields.io/github/stars/THUDM/CogVideo?style=social) - High-quality open text-to-video model (5B-12B).
 - **[Mochi 1 (Genmo)](https://github.com/genmoai/mochi)** ![GitHub stars](https://img.shields.io/github/stars/genmoai/mochi?style=social) - 10B open video model with impressive motion and consistency.
 
+#### Image Generation Models
+
+- **[Stable Diffusion (CompVis)](https://github.com/CompVis/stable-diffusion)** ![GitHub stars](https://img.shields.io/github/stars/CompVis/stable-diffusion?style=social) - Original latent text-to-image diffusion model that started the open-source image generation revolution. 72k+ stars. CreativeML Open RAIL-M licensed.
+- **[Stable Diffusion (Stability AI)](https://github.com/Stability-AI/stablediffusion)** ![GitHub stars](https://img.shields.io/github/stars/Stability-AI/stablediffusion?style=social) - High-resolution image synthesis with latent diffusion models - official Stability AI implementation with 768px and 512px models. CreativeML Open RAIL++-M licensed.
+- **[Stable Diffusion XL](https://github.com/Stability-AI/generative-models)** ![GitHub stars](https://img.shields.io/github/stars/Stability-AI/generative-models?style=social) - Next-generation image generation model with significantly improved quality, 1024px native resolution, and better prompt adherence. Foundation for SDXL-based video models. CreativeML Open RAIL++-M licensed.
+
+#### Additional Vision-Language Models
+
+- **[Molmo (Allen AI)](https://github.com/allenai/molmo)** ![GitHub stars](https://img.shields.io/github/stars/allenai/molmo?style=social) - Open vision-language model with novel multimodal architecture and fully open training data. 72B and 7B variants with state-of-the-art performance on visual question answering. Apache 2.0 licensed.
+- **[MiniCPM-V (OpenBMB)](https://github.com/OpenBMB/MiniCPM-V)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social) - GPT-4V level multimodal LLM for single image, multi-image and high-FPS video understanding on edge devices. 8B parameters with superior OCR and reasoning capabilities. Apache 2.0 licensed.
+
 ---
 
 ### ⚡ 3. Inference Engines & Serving
