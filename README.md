@@ -484,8 +484,6 @@
 - **[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)** ![GitHub stars](https://img.shields.io/github/stars/RVC-Boss/GPT-SoVITS?style=social) - Few-shot voice cloning with just 1 minute of voice data. Combines GPT and SoVITS architectures for high-quality TTS with cross-lingual support and emotional expression. MIT licensed.
 - **[Chatterbox](https://github.com/resemble-ai/chatterbox)** ![GitHub stars](https://img.shields.io/github/stars/resemble-ai/chatterbox?style=social) - State-of-the-art open-source TTS with natural prosody and emotional control. Zero-shot voice cloning with high speaker similarity. MIT licensed.
 - **[F5-TTS](https://github.com/SWivid/F5-TTS)** ![GitHub stars](https://img.shields.io/github/stars/SWivid/F5-TTS?style=social) - Fully non-autoregressive text-to-speech using flow matching with diffusion transformer (DiT). Fast, high-quality synthesis with zero-shot voice cloning capabilities. MIT licensed.
-- **[Spark-TTS](https://github.com/SparkAudio/Spark-TTS)** ![GitHub stars](https://img.shields.io/github/stars/SparkAudio/Spark-TTS?style=social) - Efficient LLM-based text-to-speech with single-stream decoupled speech tokens. Supports voice cloning across multiple languages with high naturalness. Apache 2.0 licensed.
-- **[Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS)** ![GitHub stars](https://img.shields.io/github/stars/canopyai/Orpheus-TTS?style=social) - Human-sounding text-to-speech built on Llama-3b backbone. Emotive speech generation with natural prosody and emotional tags. Apache 2.0 licensed.
 
 #### 3D & Creative Tools
 
