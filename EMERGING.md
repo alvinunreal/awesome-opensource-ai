@@ -4,7 +4,7 @@
 
 # Awesome Open Source AI - *Emerging & Innovations*
 
-*A showcase for **promising new projects** that hhaven't yet met our strict elite-tier criteria but deserve visibility and community support.*
+*A showcase for **promising new projects** that haven't yet met our strict elite-tier criteria but deserve visibility and community support.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
