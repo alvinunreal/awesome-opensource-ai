@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 17, 2026.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 18, 2026.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -843,6 +843,7 @@
 - **[biniou](https://github.com/Woolverine94/biniou)** ![GitHub stars](https://img.shields.io/github/stars/Woolverine94/biniou?style=social) - Self-hosted webUI for 30+ generative AI models. Generate multimedia content with AI on your own computer, even without dedicated GPU (8GB RAM minimum). Works offline once deployed. GPL-3.0 licensed.
 - **[Self-hosted AI Starter Kit (n8n)](https://github.com/n8n-io/self-hosted-ai-starter-kit)** ![GitHub stars](https://img.shields.io/github/stars/n8n-io/self-hosted-ai-starter-kit?style=social) - Open-source Docker Compose template to quickly set up a local AI environment. Curated by n8n, combines self-hosted n8n with Ollama, Qdrant, and PostgreSQL for secure, self-hosted AI workflows. Apache 2.0 licensed.
 - **[CoAI](https://github.com/coaidev/coai)** ![GitHub stars](https://img.shields.io/github/stars/coaidev/coai?style=social) - Next-generation multi-tenant AI one-stop solution with built-in admin and billing system. Enterprise-grade unified LLM gateway supporting 200+ models and 35+ providers. Apache-2.0 licensed.
+- **[Plane](https://github.com/makeplane/plane)** ![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social) - Open-source Jira, Linear, Monday, and ClickUp alternative. AI-powered project management platform with intelligent task triage, sprint planning, and automated workflows. AGPL-3.0 licensed.
 
 #### Desktop & Mobile AI Apps
 
@@ -868,12 +869,14 @@
 
 #### AI Coding Assistants (open-source)
 
+- **[Zed](https://github.com/zed-industries/zed)** ![GitHub stars](https://img.shields.io/github/stars/zed-industries/zed?style=social) - High-performance, multiplayer code editor from the creators of Atom and Tree-sitter. Built-in AI assistant with support for multiple LLM providers. AGPL-3.0 licensed.
 - **[Continue](https://github.com/continuedev/continue)** ![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=social) - Open-source AI coding autopilot for VS Code & JetBrains.
 - **[Tabby](https://github.com/TabbyML/tabby)** ![GitHub stars](https://img.shields.io/github/stars/TabbyML/tabby?style=social) - Self-hosted AI coding assistant.
 - **[Cline](https://github.com/cline/cline)** ![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=social) - Open-source IDE coding agent that can edit files, run commands, and use tools with user approval.
 - **[Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)** ![GitHub stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=social) - Lets LLMs run code locally.
 - **[Roo Code](https://github.com/RooCodeInc/Roo-Code)** ![GitHub stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=social) - Open-source editor-based coding agent with multiple modes and tool integrations.
 - **[Aider](https://github.com/paul-gauthier/aider)** ![GitHub stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=social) - Terminal-based AI pair programmer.
+- **[Refact](https://github.com/smallcloudai/refact)** ![GitHub stars](https://img.shields.io/github/stars/smallcloudai/refact?style=social) - Open-source AI code assistant with autocomplete, chat, and refactoring. Self-hostable with support for multiple LLM providers. BSD-3-Clause licensed.
 
 #### IDE Plugins & Extensions
 
@@ -884,6 +887,8 @@
 - **[avante.nvim](https://github.com/yetone/avante.nvim)** ![GitHub stars](https://img.shields.io/github/stars/yetone/avante.nvim?style=social) - Neovim plugin that brings Cursor-like AI IDE features to Vim. Edit code with natural language, generate code from context, and chat with AI about your codebase. Apache 2.0 licensed.
 - **[vim-ai](https://github.com/madox2/vim-ai)** ![GitHub stars](https://img.shields.io/github/stars/madox2/vim-ai?style=social) - AI-powered code assistant for Vim and Neovim. Generate code, edit text, and have interactive conversations with GPT models. Supports custom roles, vision capabilities, and any OpenAI-compatible API. MIT licensed.
 - **[windsurf.vim](https://github.com/Exafunction/windsurf.vim)** ![GitHub stars](https://img.shields.io/github/stars/Exafunction/windsurf.vim?style=social) - Free, ultrafast Copilot alternative for Vim and Neovim. AI-powered code completion with low latency and large context window. MIT licensed.
+- **[GitLens](https://github.com/gitkraken/vscode-gitlens)** ![GitHub stars](https://img.shields.io/github/stars/gitkraken/vscode-gitlens?style=social) - AI-enhanced Git extension for VS Code. Supercharges Git with AI-powered commit message generation, PR descriptions, and code explanations. MIT licensed.
+- **[Twinny](https://github.com/rjmacarthy/twinny)** ![GitHub stars](https://img.shields.io/github/stars/rjmacarthy/twinny?style=social) - The most no-nonsense locally hosted AI code completion plugin for VS Code. Like GitHub Copilot but 100% free and private. Supports Ollama and other local LLMs. MIT licensed.
 - **[Jupyter AI](https://github.com/jupyterlab/jupyter-ai)** ![GitHub stars](https://img.shields.io/github/stars/jupyterlab/jupyter-ai?style=social) - Chat and code generation inside notebooks.
 
 #### UI Components & Chat Libraries
