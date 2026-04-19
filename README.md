@@ -212,6 +212,7 @@
 - **[Gemma 4 (Google)](https://github.com/google-deepmind/gemma)** ![GitHub stars](https://img.shields.io/github/stars/google-deepmind/gemma?style=social) - Multimodal model supporting vision-language input, optimized for efficiency, complex logic, and on-device use.
 - **[Magma (Microsoft)](https://github.com/microsoft/Magma)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/Magma?style=social) - Foundation model for multimodal AI agents that perceives the world and takes goal-driven actions across digital and physical environments. CVPR 2025.
 - **[OpenCLIP](https://github.com/mlfoundations/open_clip)** ![GitHub stars](https://img.shields.io/github/stars/mlfoundations/open_clip?style=social) - Open source implementation of CLIP with trained models and training code. Includes state-of-the-art trained ViT-G/14 models and comprehensive zero-shot evaluation suite.
+- **[Janus (DeepSeek)](https://github.com/deepseek-ai/Janus)** ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/Janus?style=social) - Unified multimodal understanding and generation model series. Decoupled visual encoding pathway enables both high-quality image understanding and generation. MIT licensed.
 
 #### Speech & Audio Models (TTS, STT, Music)
 
@@ -234,6 +235,7 @@
 - **[CosyVoice](https://github.com/FunAudioLLM/CosyVoice)** ![GitHub stars](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social) - Multi-lingual large voice generation model with full-stack inference, training and deployment capabilities. Supports cross-lingual voice cloning and emotional expression control. Apache 2.0 licensed.
 - **[ChatTTS](https://github.com/2noise/ChatTTS)** ![GitHub stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social) - Generative speech model optimized for daily dialogue. Natural, expressive conversational speech synthesis with fine-grained prosody control. AGPL-3.0 licensed.
 - **[SpeechBrain](https://github.com/speechbrain/speechbrain)** ![GitHub stars](https://img.shields.io/github/stars/speechbrain/speechbrain?style=social) - PyTorch-based speech toolkit for ASR, TTS, speaker recognition, and speech enhancement. Modular, extensible framework with state-of-the-art recipes. Apache 2.0 licensed.
+- **[Ultravox (Fixie AI)](https://github.com/fixie-ai/ultravox)** ![GitHub stars](https://img.shields.io/github/stars/fixie-ai/ultravox?style=social) - Fast multimodal LLM for real-time voice. Speech-to-speech model with low latency for conversational AI applications. MIT licensed.
 
 #### Video & Animation Models
 
@@ -375,6 +377,8 @@
 - **[Steel Browser](https://github.com/steel-dev/steel-browser)** ![GitHub stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social) - Open-source browser API for AI agents and apps. Batteries-included browser sandbox for web automation without infrastructure worries. Apache 2.0 licensed.
 - **[TradingAgents](https://github.com/TauricResearch/TradingAgents)** ![GitHub stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=social) - Multi-agent framework for financial trading. Simulates professional trading firm operations with 6+ specialized agent roles, backtesting, risk management, and portfolio optimization. Built with LangGraph, supports multiple LLM providers.
 - **[Parlant](https://github.com/emcie-co/parlant)** ![GitHub stars](https://img.shields.io/github/stars/emcie-co/parlant?style=social) - Conversational control layer for customer-facing AI agents. Enterprise-grade context engineering framework optimized for consistent, compliant, and on-brand B2C and sensitive B2B interactions. Apache 2.0 licensed.
+- **[OmniParser (Microsoft)](https://github.com/microsoft/OmniParser)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/OmniParser?style=social) - Pure vision-based screen parsing tool for GUI agents. Converts UI screenshots into structured elements for automation. Powers OmniTool for controlling Windows 11 VMs with any vision model. CC BY 4.0 licensed.
+- **[ShowUI](https://github.com/showlab/ShowUI)** ![GitHub stars](https://img.shields.io/github/stars/showlab/ShowUI?style=social) - Vision-Language-Action model for GUI visual agents. End-to-end multimodal approach for computer control with UI-guided token selection for 33% faster training. Apache 2.0 licensed, CVPR 2025.
 
 #### Agent Memory & State
 
