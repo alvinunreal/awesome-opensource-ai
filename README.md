@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 18, 2026.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 19, 2026.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -331,7 +331,7 @@
 
 #### Multi-Agent Orchestration
 
-: 
+- **[MetaGPT](https://github.com/FoundationAgents/MetaGPT)** ![GitHub stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social) - The Multi-Agent Framework: First AI Software Company. Assigns different roles to GPTs to form a collaborative software entity. Takes one-line requirements and outputs comprehensive software development artifacts including user stories, competitive analysis, requirements, data structures, APIs, and documents. ICLR 2024 oral presentation (top 1.2%). MIT licensed.
 - **[ChatDev](https://github.com/OpenBMB/ChatDev)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social) - Multi-agent software development framework where AI agents collaborate as programmers, designers, and testers to build software. Apache 2.0 licensed.
 - **[CAMEL](https://github.com/camel-ai/camel)** ![GitHub stars](https://img.shields.io/github/stars/camel-ai/camel?style=social) - First and best multi-agent framework for building scalable agent systems. Apache 2.0 licensed with extensive tooling for agent communication and task automation.
 - **[Swarms](https://github.com/kyegomez/swarms)** ![GitHub stars](https://img.shields.io/github/stars/kyegomez/swarms?style=social) - Bleeding-edge enterprise multi-agent orchestration.
