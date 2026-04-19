@@ -948,6 +948,9 @@
 
 #### Notebooks & Interactive Computing
 
+- **[Marimo](https://github.com/marimo-team/marimo)** ![GitHub stars](https://img.shields.io/github/stars/marimo-team/marimo?style=social) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
+- **[Deepnote](https://github.com/deepnote/deepnote)** ![GitHub stars](https://img.shields.io/github/stars/deepnote/deepnote?style=social) - AI-first notebook platform and drop-in replacement for Jupyter. Features human-readable YAML format, block-based architecture with SQL/chart blocks, reactive execution, and seamless local-to-cloud scaling. Apache 2.0 licensed.
+- **[Thread](https://github.com/alishobeiri/thread-notebook)** ![GitHub stars](https://img.shields.io/github/stars/alishobeiri/thread-notebook?style=social) - AI-powered Jupyter Notebook alternative with built-in copilot for generating and editing code cells, automatic error fixing, and chat with your data. Runs locally with Ollama or API keys. AGPL-3.0 licensed.
 - **[Quarto](https://github.com/quarto-dev/quarto-cli)** ![GitHub stars](https://img.shields.io/github/stars/quarto-dev/quarto-cli?style=social) - Open-source scientific and technical publishing system built on Pandoc. Create dynamic content with Python, R, Julia, and Observable. MIT licensed.
 
 #### IDE Plugins & Extensions
